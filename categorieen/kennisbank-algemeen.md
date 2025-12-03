@@ -11,10 +11,10 @@ Kennisbank Algemeen bevat verwijzingen naar rapporten, papers, standaarden en ov
 
 ## Artikelen
 
-- [Overzichten](/posts/)
-- [Papers](/posts/)
-- [Rapporten](/posts/)
-- [DEXC-woordenlijst](/posts/)
-- [Standaarden](/posts/)
-- [Standaarden en Tooling](/posts/)
+- [Overzichten](/dexc-kennisbank/2021/07/27/17-overzichten.html)
+- [Papers](/dexc-kennisbank/2021/07/27/18-papers.html)
+- [Rapporten](/dexc-kennisbank/2021/07/27/15-rapporten.html)
+- [DEXC-woordenlijst](#)
+- [Standaarden](/dexc-kennisbank/2021/07/27/20-standaarden-tooling.html)
+- [Standaarden en Tooling](/dexc-kennisbank/2022/09/26/standaarden-en-tooling.html)
 
