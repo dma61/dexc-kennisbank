@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Kennisbank algemeen
 parent: Home
@@ -11,9 +11,10 @@ Kennisbank Algemeen bevat verwijzingen naar rapporten, papers, standaarden en ov
 
 ## Artikelen
 
-- [Overzichten]({{ site.baseurl }}/{% post_url -overzichten %})
-- [Papers]({{ site.baseurl }}/{% post_url -papers-20220619 %})
-- [Rapporten]({{ site.baseurl }}/{% post_url -rapporten-20220619 %})
-- [DEXC-woordenlijst]({{ site.baseurl }}/{% post_url -913023-sivi-glossary %})
-- [Standaarden]({{ site.baseurl }}/{% post_url -standaarden %})
-- [Standaarden en Tooling]({{ site.baseurl }}/{% post_url -standaarden-en-tooling %})
+- [Overzichten](/posts/)
+- [Papers](/posts/)
+- [Rapporten](/posts/)
+- [DEXC-woordenlijst](/posts/)
+- [Standaarden](/posts/)
+- [Standaarden en Tooling](/posts/)
+
