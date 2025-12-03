@@ -4,3 +4,5 @@ _site/
 vendor/
 *.log
 csv/
+
+_posts_backup_*
