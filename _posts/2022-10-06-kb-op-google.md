@@ -1,0 +1,25 @@
+---
+layout: post
+title: "kb op google"
+date: 2022-10-06
+categories: ["Intern"]
+question_id: 1553495
+---
+
+# kb op google
+
+If you want to notify Google about your KB and speed up indexing, you can submit the sitemap.xml file as described here: [https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#addsitemap](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#addsitemap)
+
+The sitemap is found at [https://sivi.helpjuice.com/sitemap.xml](https://sivi.helpjuice.com/sitemap.xml)
+﻿
+﻿Also, as you have a custom domain, the sitemap is also found here - [https://kennisbank.dexc.nl/sitemap.xml](https://kennisbank.dexc.nl/sitemap.xml)
+﻿
+﻿Please let us know if you have any questions!
+
+ The robots.txt file can be found here [https://sivi.helpjuice.com/admin/customize/robots_txt](https://sivi.helpjuice.com/admin/customize/robots_txt)!
+
+1m ago.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

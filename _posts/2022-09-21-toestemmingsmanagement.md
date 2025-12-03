@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Toestemmingsmanagement"
+date: 2022-09-21
+categories: ["Bouwstenen/Principes"]
+question_id: 1525710
+---
+
+# Toestemmingsmanagement
+
+**Waar gaat het om bij toestemming?**
+
+Toestemmingsmanagement (permission management, consent management) geeft personen de mogelijkheid om data transacties en connecties te bekijken en te beheren en hun rechten uit te oefenen. Twee van de eisen die de AVG stelt aan ‘toestemming’ zijn dat deze ‘geïnformeerd’ en ‘specifiek’ gegeven is. Om geldige toestemming aan te tonen is het dan ook essentieel dat een organisatie kan laten zien op basis van welke informatie de betrokken personen de toestemming heeft gegeven. Het is dus onvoldoende om alleen de toestemming zelf vast te leggen.
+
+ 
+
+Bij consent is het relevant onderscheid te maken tussen noodzakelijke gegevens voor een dienst en optionele gegevens. Binnen Nederland bestaat nog geen algemene manier om consent management te regelen
+
+ 
+
+**Relatie met Logging**
+
+Logging hangt hier sterk mee samen: het toont aan welke acties wanneer zijn ondernomen op de gegevens.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

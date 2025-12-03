@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Waarom zijn er verschillende leveranciers?"
+date: 2021-07-27
+categories: ["eHerkenning"]
+question_id: 992743
+---
+
+# Waarom zijn er verschillende leveranciers?
+
+Bron: [https://www.eherkenning.nl/vraag-antwoord](https://www.eherkenning.nl/vraag-antwoord)
+
+eHerkenning is een publiek-private samenwerking. Commerciële partijen kunnen, na goedkeuring van de toetredingscommissie, een erkende leverancier van eHerkenning worden. Daarom wordt eHerkenning door meerdere commerciële partijen aangeboden. Alleen zij mogen eHerkenning leveren en voldoen allemaal aan dezelfde eisen die worden gevraagd. Beveiliging en functionele kwaliteit is daarmee gegarandeerd.
+
+De erkende leveranciers concurreren onderling met elkaar op verschillende gebieden, waaronder type eHerkenningsmiddelen en prijs. Hierdoor ontstaat marktwerking en kunt u op basis van uw criteria zelf kiezen waar u eHerkenning aanvraagt.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

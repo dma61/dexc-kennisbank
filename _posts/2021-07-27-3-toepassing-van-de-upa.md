@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Toepassing van de UPA"
+date: 2021-07-27
+categories: []
+question_id: 992929
+---
+
+# Toepassing van de UPA
+
+De UPA is standaard ingebouwd in de meeste salarissoftware. Deze software kan met behulp van de UPA de pensioenpremie correct berekenen. 
+
+UPA is sinds de introductie in 2017 uitgegroeid tot een volwassen standaard. Begin 2020 wordt de UPA gebruikt door meerdere pensioenuitvoerders. Aan de kant van de pensioenfondsen passen relatief veel uitvoeringsorganisaties de UPA toe. Dit zijn Achmea Pensioenservices, AGH, AZL, Centric, PGB, PGGM, TKP en Provisum. Ook verzekeraars stappen over op de UPA. Koplopers zijn hier BeFrank en a.s.r.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

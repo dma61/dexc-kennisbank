@@ -1,0 +1,42 @@
+---
+layout: post
+title: "IRMA voor Authenticatie"
+date: 2021-07-27
+categories: []
+question_id: 992675
+---
+
+# IRMA voor Authenticatie
+
+IRMA is naast gegevensontsluiting ook geschikt als inlog/authenticatiemiddel. De gebruiker (bijvoorbeeld een verzekeringsnemer of een pensioendeelnemer) logt dan in op de mijn-omgeving van de verzekeraar of zijn pensioenfonds met de IRMA-app. De aanname daarbij is dat de gebruiker een geactiveerde IRMA-app met een persoonlijke Pincode heeft en dat deze geladen is met persoonsgegevens uit de BRP (via de Gemeente Nijmegen). In dat geval doorloopt de gebruiker typisch de volgende stappen: 
+
+- Gebruiker gaat naar de website voor de mijn-omgeving van de verzekeraar/het pensioenfonds.
+
+- De gebruiker klikt op de knop voor inloggen met IRMA.
+
+- De website toont een QR-code.
+
+- De gebruiker opent de IRMA-app en scant de QR-code met zijn camera.
+
+- De gebruiker wordt om consent gevraagd en toetst daarna de pincode van de IRMA-app in, ter confirmatie van het delen van de attributen. 
+
+- De IRMA-app deelt attributen over de gebruiker met de verzekeraar/het pensioenfonds.
+
+- De gebruiker krijgt toegang tot zijn mijn-omgeving. 
+
+Op dit moment loggen veel gebruikers in op de mijn-omgeving met een eigen door de verzekeraar/het pensioenfonds verstrekte authenticatie-oplossing (denk aan wachtwoord en gebruikersnaam). Het vervangen van deze oplossing door IRMA kan relatief eenvoudig door de gebruiker eerst in te laten loggen met de eigen oplossing en vervolgens met IRMA (door een QR-code te tonen) en beide oplossingen te koppelen. De volgende keer kan de gebruiker met IRMA inloggen. De verzekeraar kan dan de eigen oplossing langzaam uitfaseren. **Fout! Verwijzingsbron niet gevonden**. toont een voorbeeld van inloggen met IRMA bij een controleur. 
+
+Eind 2019 publiceerde SIVI een rapport over IRMA ‘’IRMA voor pensioen- en verzekeringssector, Een veilige of risicovolle keuze?’’. Hierin worden onder andere meerdere Use cases besproken. 
+
+![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627387396776-1627387396776.png)
+
+Inloggen met IRMA bij Crowdience. 
+
+#### De door IRMA gedeelde gegevens zijn e-mailadres en volledige naam. 
+Op het eerste gezicht lijkt IRMA gratis. Echter, als de verzekeraar of het pensioenfonds garanties wil over bijvoorbeeld de beschikbaarheid van IRMA, dan zal daar een prijskaartje aan hangen. Bij frequent gebruik van IRMA als authenticatie-oplossing dient rekening gehouden te worden met het consent dat de gebruiker dient te geven voor het vrijgeven van attributen. IRMA geeft daarbij ook het authenticatieniveau van het credential door, bijvoorbeeld dat van DigiD of iDIN. Voor veel diensten zal dat voldoende betrouwbaar zijn. In plaats van credentials uit de BRP of iDIN te gebruiken, kan de ontvanger/controleur zelf ook een authenticatie-attribuut uitgeven voor de IRMA-app, bijvoorbeeld een pseudoniem identificatiemiddel. Hiervoor zal de ontvanger/controleur echter moeten gaan betalen aan de Stichting Privacy by Design (in de orde van 10.000 euro per jaar). 
+
+IRMA biedt een goedkope authenticatie-oplossing. De betrouwbaarheid hangt af van de betrouwbaarheid van de doorgegeven credentials. Voor veel diensten in de sector (verzekeringen en pensioenen) zal dit voldoende betrouwbaar zijn.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Peer-to-peer gegevensuitwisseling"
+date: 2022-09-26
+categories: ["Bouwstenen/Principes"]
+question_id: 1533654
+---
+
+# Peer-to-peer gegevensuitwisseling
+
+[Peer-to-peer gegevensuitwisseling](https://nl.wikipedia.org/wiki/Peer-to-peer) (P2P) staat voor directe gegevensuitwisseling tussen partijen (het Engelse peer betekent gelijke), zonder dat een centrale partij nodig is voor zaken als routering, identificatie, authenticatie, autorisatie of tijdelijke opslag. 
+
+Moderne communicatie loopt meestal via internet (bellen, mailen, sms’en, videovergaderen) en biedt een peer-to-peer-ervaring, maar voor de meeste technieken zijn centrale partijen des te noodzakelijk. Voor tijdelijke opslag van mailberichten, voor adressering van gesprekken, voor notificaties van binnenkomende berichten. 
+
+De afgelopen jaren hebben communicatieprotocollen zoals HTTP, REST API’s en websockets een enorme vlucht genomen, omdat deze technieken bij een bredere groep programmeurs bekend zijn. Daarom kunnen we verwachten dat in bepaalde ketens de functies van centrale voorzieningen overbodig worden, omdat partijen deze zelf invullen. Zo kan een gedeeld beveiligd adressenboek beschikbaar gesteld worden, zodat alle partijen met elkaar kunnen communiceren, zonder dat een centraal routeringsmechanisme bestaat.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

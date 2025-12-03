@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Blauwe Knop"
+date: 2021-07-27
+categories: ["Operators (regietoepassingen)"]
+question_id: 993029
+---
+
+# Blauwe Knop
+
+De [Blauwe Knop](https://www.vngrealisatie.nl/producten/blauweknop) was een initiatief dat is ontstaan vanuit het Kloosterhoeveberaad, met als doel mensen meer regie te geven op hun eigen gegevens. Het gaat hierbij om gege![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627400062744-1627400062744.png)vens waar uitvoerders en gemeentes over beschikken (zoals diplomagegevens, kentekengegevens of NAW-gegevens). VNG Realisatie trekt dit initiatief samen met andere uitvoerders. Het Nederlandse programma is geïnspireerd door het ['Blue Button Initiative](https://www.healthit.gov/topic/health-it-initiatives/blue-button)' voor het downloaden van zorggegevens in de VS. Daar is de ‘Blue Button’ ingezet voor burgers om te zorgen dat zij zorggegevens (zoals medische historie, overzichten van vaccinaties) overzichtelijk in kunnen zien en delen met zorgverleners of bij het wisselen van zorgverzekering.
+
+***Het beoogde groeipad***
+
+In het groeipad was voorzien dat de Blauwe Knop drie verschillende [verschijningsvormen](https://rog.pleio.nl/news/view/57900558/blauwe-knop-programma-exploreert-onderzoekt-en-realiseert) heeft:
+
+- Blauwe Knop Basis: een downloadvoorziening om een gewaarmerkte set persoonlijke gegevens bij één organisatie te downloaden in pdf- of machineleesbaar-formaat, naar de telefoon, laptop, computer of tablet van de persoon.
+
+- Blauwe Knop Basis 2.0: een downloadvoorziening om één geaggregeerde, gewaarmerkte set persoonlijke gegevens vanuit meerdere organisaties te downloaden in pdf- en machineleesbaar-formaat naar de telefoon, laptop, computer of tablet van de persoon.
+
+- Blauwe Knop Plus: een voorziening om via een API (een interface tussen verschillende computersystemen) een gewaarmerkte set persoonlijke gegevens (mogelijk samengesteld vanuit verschillende bronnen) van de bron beschikbaar te stellen aan andere partijen. In deze vorm, kan iemand bijvoorbeeld de Belastingdienst toestemming geven, inkomensgegevens te delen met zijn of haar wooncorporatie. Op die manier kan een persoon ‘bewijzen’ dat hij of zij voldoet aan de criteria voor een specifieke huurwoning.
+
+***Eindresultaten***
+
+In het kader van het project De Blauwe Knop zijn verscheidene onderzoeken uitgevoerd, om inzichten en ervaringen te verzamelen. Uit het afrondende onderzoek komt naar voren dat er algemeen draagvlak is voor de Blauwe Knop onder zowel publieke als private organisaties. De mate van draagvlak is per variant van de Blauwe Knop verschillend. Onder iets meer dan de helft van de participanten (zowel publieke als private organisaties) is er het meeste draagvlak aanwezig voor de Plus variant. Het rapport stelt resumerend: ‘’ Resumerend, op basis van de ervaringen en bevindingen in dit rapport, kan worden gesteld dat de Blauwe Knop het beeldmerk kan zijn dat op een herkenbare manier betekenisvolle regie op gegevens voor burgers symboliseert en vertegenwoordigt.’’
+
+***Overzicht resultaten***
+
+[Deze pagina](https://vng.nl/artikelen/de-blauwe-knop-rapportage) bevat de verzameling van de rapportages van elk van de onderzoeken en het eindrapport van het project. Momenteel (juli 2022) loopt een opschalingsanalyse. Tot nu toe is immers alleen ervaring met Blauwe Knop Basis gerealiseerd.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

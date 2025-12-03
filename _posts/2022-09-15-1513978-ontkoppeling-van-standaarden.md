@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Ontkoppeling van standaarden"
+date: 2022-09-15
+categories: ["Bouwstenen/Principes"]
+question_id: 1513978
+---
+
+# Ontkoppeling van standaarden
+
+De ontkoppeling van standaarden maakt het mogelijk om AFD-berichten via meerdere syntaxen (bijvoorbeeld XML, JSON, EDIFACT) en transportprotocollen uit te wisselen.
+
+Een AFD-bericht beschrijft de interface tussen twee geautomatiseerde toepassingen die berichten op basis van de gegevensstandaard AFD uitwisselen. Voorbeelden van toepassingen zijn bijvoorbeeld de backoffice van een verzekeraar/volmacht en het administratiepakket van een adviseur.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)
