@@ -16,7 +16,12 @@ We onderkennen 3 categorieën gegevensuitwisseling: 
 
 - en mens to machine (altijd direct)
 
-[Tabel - zie origineel]
+| Tijdigheidseis response | Type interactie |
+| --- | --- |
+| Tijdigheidseis response | Type interactie |
+| Mens tot machine | Machine naar Machine |
+| Direct | Synchroon | Synchroon |
+| Op enig moment | - | Asynchroon |
 
 ---
 

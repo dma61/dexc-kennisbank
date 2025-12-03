@@ -33,7 +33,14 @@ Dit omvat krediet-, betalings- enelektronisch geldinstellingen, beleggingsondern
 
 De tabel laat de inhoud van de (voor ons) belangrijkstetitels zien.
 
-[Tabel - zie origineel]### 1.2 Om welke categorieën gegevens gaat het?
+| Titel | Inhoud |
+| --- | --- |
+| I. | Stelt het onderwerp, de reikwijdte en de definities vast. |
+| II. | Introduceert een wettelijke verplichting voor gegevenshouders en regelt de manier waarop deze verplichting moet worden uitgeoefend. |
+| III. | Stelt de vereisten vast om verantwoord gebruik en beveiliging van gegevens te waarborgen. |
+| IV. | Stelt de vereisten vast voor het opzetten en beheren van regelingen voor het delen van financiële gegevens die tot doel hebben gegevenshouders, gegevensgebruikers en consumentenorganisaties samen t... |
+| V. | Bevat de bepalingen over vergunningverlening en bedrijfsvoorwaarden van aanbieders van financiële informatiediensten. |
+| VI. | Bevat details over de bevoegdheden van de bevoegde autoriteiten. |### 1.2 Om welke categorieën gegevens gaat het?
 Voortbouwend op de fundamenten van openbanking, zou het ontwerp van Open Finance Act de reikwijdte van te delenfinanciële gegevens verbreden tot de volgende categorieën:
 
 - Het saldo,voorwaarden en transacties van een hypotheek, krediet en spaarrekeningen.

@@ -110,7 +110,21 @@ Een aantal ketenservices komt aan bod:
 
 - Hippoline Insurance Platform (HIP).
 
-[Tabel - zie origineel]
+| Oplossing | Particuliere klant | Zakelijkeklant | Keten |
+| --- | --- | --- | --- |
+| ReadID |  |  |  |
+| Gebruikersnaam/wachtwoord |  |  |  |
+| Gebruikersnaam/wachtwoord + Tweede Factor |  |  |  |
+| DigiD |  |  |  |
+| Itsme |  |  |  |
+| Cleverbase ID |  |  |  |
+| NotarisID |  |  |  |
+| IRMA |  |  |  |
+| iDIN |  |  |  |
+| PiM |  |  |  |
+| eHerkenning |  |  |  |
+| Bedrijfscertificaat |  |  |  |
+| HDN certificaat |  |  |  |
 
 ---
 

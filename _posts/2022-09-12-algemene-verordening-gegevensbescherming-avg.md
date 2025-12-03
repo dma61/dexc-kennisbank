@@ -25,7 +25,13 @@ Minimaal één van de gronden moet van toepassing zijn; een combinatie van grond
 
 - Gerechtvaardigd belang
 
-[Tabel - zie origineel]Onderstaande figuur geeft een overzicht wat onder het regiedomein wordt verstaan in het kader van de AVG. Het overzicht geeft de verschillende verwerkingsgronden en verwerkingen weer. In blauw staan de aspecten waar regie betrekking op heeft. 
+| Afsluiten verzekeringHet afsluiten van een verzekering is een verwerkingsgrond, namelijk het uitvoeren van een overeenkomst. Voor alle doelen die de overeenkomst specificeert mag de verzekeraar, de noodzakelijke persoonsgegevens verwerken. |
+| --- |
+| Afsluiten verzekeringHet afsluiten van een verzekering is een verwerkingsgrond, namelijk het uitvoeren van een overeenkomst. Voor alle doelen die de overeenkomst specificeert mag de verzekeraar, de... |
+
+| Inzien klantgegevensPrivéomstandigheden kunnen wijzigen. Een klant wil dan misschien zijn gegevens inzien om te bepalen of wijzigingen nodig zijn. Een verzekeraar biedt een klant in dit geval toegang tot een ‘mijn omgeving’ waar de klant al zijn persoonsgegevens kan inzien. Conform de wet moet de verzekeraar toegang bieden tot alle persoonsgegevens betreffende de klant waarover de verzekeraar beschikt. |
+| --- |
+| Inzien klantgegevensPrivéomstandigheden kunnen wijzigen. Een klant wil dan misschien zijn gegevens inzien om te bepalen of wijzigingen nodig zijn. Een verzekeraar biedt een klant in dit geval toega... |Onderstaande figuur geeft een overzicht wat onder het regiedomein wordt verstaan in het kader van de AVG. Het overzicht geeft de verschillende verwerkingsgronden en verwerkingen weer. In blauw staan de aspecten waar regie betrekking op heeft. 
 
  
 
@@ -123,7 +129,7 @@ De verwerkingsverantwoordelijke moet redelijke maatregelen nemen om de gegevens 
 
 Indien het verwerkingsverantwoordelijke besluit de gegevens te anonimiseren, mag ze deze bewaren, op voorwaarde dat ze niet tot een individu te herleiden zijn.
 
-[Tabel - zie origineel]
+
 
 ---
 

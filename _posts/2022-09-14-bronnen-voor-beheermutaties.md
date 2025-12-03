@@ -32,7 +32,14 @@ Waar een particulier product twee partijen kent, te weten verzekeraar en de verz
 
 **Bronnen voor beheermutaties**
 
-[Tabel - zie origineel]
+| Gegevensbron | Toelichting |
+| --- | --- |
+| Werkgever/werknemer | [Uniforme Pensioen Aangifte](https://www.sivi.org/standaarden/uniforme-pensioenaangifte/) |
+| Basisregistratie Personen (BRP) | De BRP is voor contracten die onder de Pensioenwet vallen de bron voor wijziging in de persoonlijke gegevens van werknemers ten gevolge van bijvoorbeeld: verhuizen, het sluiten van een huwelijk, sc... |
+| UWV - SUAG | Status Uitkering Arbeidsgeschiktheid, verder te noemen SUAG, is een gegevensdienst van UWV aan afnemers, op basis van een afnemerindicatie. Het betreft een gegevenslevering over personen die een ui... |
+| UWV – Melding AOG | Het product Melding AOG is bedoeld voor levering van een melding van arbeidsongeschiktheid aan pensioenuitvoerders, die een Arbeidsongeschiktheidspensioen, (Vervroegd) ouderdomspensioen, Nabestaand... |
+| Arbodiensten | [Verzuimstandaard](https://www.sivi.org/standaarden/verzuimstandaard/verzuimstandaard-arbodiensten-verzekeraars/downloads-verzuimstandaard-arbodiensten-verzekeraars/) |
+| Polisadministratie | [Polisadministratie](https://www.loonaangifteketen.nl/de-loonaangifteketen/de-keten-in-kaart) |
 
 ---
 

@@ -15,7 +15,30 @@ Faster Forward biedt voor financiële adviseurs het softwarepakket [Elements](ht
 
 Hieronder staat een aantal voorbeelden van koppelingen:
 
-[Tabel - zie origineel]**Faster Forward Elements API**
+| Soort software | Koppeling met | Toelichting |
+| --- | --- | --- |
+| Hypotheeksoftware | HDN | De HDN-inbox in Elements verzamelt binnengekomen AX-, KX, LX, OX-, SX-, DA- en DX-berichten. Ook kunnen adviseurs berichten versturen, bijvoorbeeld een hypotheekaanvraag. |
+| Adviesbox | Exporteren van klantgegevens vanuit Elements naar de gekoppelde applicatie. Vanuit deze applicatie komt het advies weer terug naar Elements. |
+| Findesk |
+| Figlo Advisor |
+| Finix | Importeren adviesrapport. |
+| PortefeuilleSignalen | Onder meer ontvangen van diverse signalen. |
+| DIAS | Exporteren klantgegevens. |
+| UwKluis | Delen van berichten en documenten. |
+| Verzekeringssoftware | Meetingpoint Advies | Importeren verzekeringsaanvragen. |
+| Aplaza | Ontvangen documenten, ADN-berichten. |
+| Time | Ontvangen ADN-berichten. |
+| Risk Subliempakket | Verzekeringen vergelijken. Alle gegevens één keer invoeren. |
+| Differ Solutions |
+| Rolls |
+| MyTP |
+| AWI Connect |
+| Financiële Software | Finrust | Klantgegevens die via de Ockto-app binnenkomen, worden overgenomen in FinRust. |
+| MAEX | Importeren kredieten handmatig per contract of periodiek per batch. |
+| Nextens | Exporteer klantgegevens uit Elements naar Nextens om een belastingadvies op te stellen. |
+| Split-Online | Met Split-Online stelt een adviseur eenvoudig convenanten, financiële overzichten, co-ouderschapsberekeningen en vermogensopstellingen op. Na het opstellen van deze documenten, slaat u ze eenvoudig... |
+| Overig | Ockto | Datacollectie via Ockto en import in Elements. |
+| Postex | Geautomatiseerde klantcommunicatie en volgen met het Postex communicatieplatform. |**Faster Forward Elements API**
 
 De Faster Forward Elements API collectie is set van objectbeschrijvingen die het mogelijk maken om te connecteren met het Faster Forward Elements Platform. 
 

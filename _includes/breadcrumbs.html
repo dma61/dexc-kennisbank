@@ -1,0 +1,12 @@
+<!-- _includes/breadcrumbs.html -->
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ site.baseurl }}/">Home</a>
+  {% if page.categories %}
+    {% for cat in page.categories %}
+      <span class="separator">›</span>
+      <a href="{{ site.baseurl }}/categorieen/{{ cat | slugify }}">{{ cat }}</a>
+    {% endfor %}
+  {% endif %}
+  <span class="separator">›</span>
+  <span class="current">{{ page.title }}</span>
+</nav>

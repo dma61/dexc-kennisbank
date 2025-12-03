@@ -69,7 +69,13 @@ Overigens hoeft het niet altijd om een PDF-document te gaan, het kan bijvoorbeel
 
  
 
-[Tabel - zie origineel]De variant ‘SKP-*Basis*’ is geheel nieuw. Het uitgangspunt is dat met beperkte technische complexiteit en zeer geringe inspanning altijd een koppeling mogelijk is. Dit creëert ruimte voor een nieuwe toonzetting rond het ondersteunen van koppelingen binnen de keten. De minimale complexiteit en kosten van de variant ‘SKP-Basis’ maken dat dit niveau van koppelen als de norm gezien kan worden. Het ontbreken van een koppeling op niveau ‘SKP-Basis’ zal uiteindelijk als ondermijning van de kostenstructuur binnen de keten gezien worden.
+|  | Basis | Uitgebreid | Compleet |
+| --- | --- | --- | --- |
+|  | Basis | Uitgebreid | Compleet |
+| Opgestart vanuit eigen omgeving als assurantiesoftware | - | - | ü |
+| Opgestart uit andere omgeving als extranet | ü | ü | - |
+| XML met data retour | - | ü | ü |
+| PDF-document retour (optioneel) | ü | (ü) | (ü) |De variant ‘SKP-*Basis*’ is geheel nieuw. Het uitgangspunt is dat met beperkte technische complexiteit en zeer geringe inspanning altijd een koppeling mogelijk is. Dit creëert ruimte voor een nieuwe toonzetting rond het ondersteunen van koppelingen binnen de keten. De minimale complexiteit en kosten van de variant ‘SKP-Basis’ maken dat dit niveau van koppelen als de norm gezien kan worden. Het ontbreken van een koppeling op niveau ‘SKP-Basis’ zal uiteindelijk als ondermijning van de kostenstructuur binnen de keten gezien worden.
 
 #### SIVI All Finance API-raamwerk
 Binnen het digitale ecosysteem speelt het gebruik van webservices een essentiële rol, of het nu gaat om gegevensuitwisseling, het uitvoeren van functies of het volgen van een workflow binnen de keten. Het kenmerk van een webservice is dat twee machines direct met elkaar communiceren (synchrone communicatie) om een service (functie) uit te voeren. Bijvoorbeeld het uitvoeren van een tariefberekening of het doorgeven van een mutatie. De communicatie vindt inmiddels vrijwel altijd plaats via een (beveiligde) internetverbinding. Het aan derden ter beschikking stellen van een of meer webservices heet een API (Application Programming Interface). Voor veel organisaties zijn API's essentieel voor digitaal zakendoen. Ze maken het mogelijk om transacties aan te bieden (zoals tarief, offerte en aanvraag) en inhoud te publiceren (zoals objectgegevens en weergegevens). 

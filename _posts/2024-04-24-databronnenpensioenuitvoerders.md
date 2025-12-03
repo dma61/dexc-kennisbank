@@ -18,13 +18,69 @@ Onderstaande figuur laat zien van wie pensioenuitvoerders data ontvangen en aan 
 # Uitvoeringsinstituut Werknemersverzekeringen (UWV)
  
 
-[Tabel - zie origineel] 
+| Categorie | Toelichting |
+| --- | --- |
+| Gegevensset | Status Uitkering Arbeidsgeschiktheid (SUAG) |
+| Productbeschrijving | [https://www.uwv.nl/zakelijk/Images/productbeschrijving-suag.pdf](https://www.uwv.nl/zakelijk/Images/productbeschrijving-suag.pdf) |
+| Locatie/link | [https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/gegevens-over-wijzigingen-in-de-status-van-de-arbeidsgeschiktheid-van-pensioendeelnemers-suag](https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/gegevens-over-wijzigingen-in-de-status-van-de-arbeidsgeschiktheid-van-pensioendeelnemers-suag) |
+| Toelichting | Met dit product ontvangt de afnemer maandelijks gegevens over veranderingen in de status van de arbeidsgeschiktheidsgegevens van zijn pensioendeelnemers met een WAO-, WAZ- of WIA-uitkering.De afnem... |
+| Wetgeving/grondslag | [https://wetten.overheid.nl/BWBR0013280/2019-01-01](https://wetten.overheid.nl/BWBR0013280/2019-01-01) |
+| Volume | Hoog |
 
-[Tabel - zie origineel] 
+| Categorie | Toelichting |
+| --- | --- |
+| Gegevensset | Werkgevergegevens (voorheen Administratieve Eenheden - AEH) |
+| Locatie/link | [https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/gegevens-over-werkgevers-binnen-uw-sector-aeh](https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/gegevens-over-werkgevers-binnen-uw-sector-aeh) |
+| Toelichting | Met het product Werkgevergegevens (voorheen Administratieve Eenheden - AEH) ontvangt de afnemer gegevens over (specifieke) werkgevers binnen zijn sector. De afnemer gebruikt de gegevens bijvoorbeel... |
+| Wetgeving/grondslag | [https://wetten.overheid.nl/BWBR0013280/2019-01-01](https://wetten.overheid.nl/BWBR0013280/2019-01-01) |
+| Wijze van leveren | [Mijn Gegevensdiensten](https://mijngegevensdiensten.uwv.nl/iam/inloggen?dmn=2H) |
+| Volume | Hoog |
 
-[Tabel - zie origineel]# Kamer van Koophandel (KvK)
-[Tabel - zie origineel]# Basisregistratie Personen (BRP)
-[Tabel - zie origineel]# Centraal Curatele- en bewindregister (CCBR)
+| Categorie | Toelichting |
+| --- | --- |
+| Gegevensset | Loonaangiftegegevens (voorheen Inkomstenverhoudingen - IKV) |
+| Locatie/link | [https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/werknemergegevens-van-werkgevers-binnen-uw-sector-ikv](https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/werknemergegevens-van-werkgevers-binnen-uw-sector-ikv) |
+| Toelichting | Met het product Loonaangiftegegevens ontvangt de afnemer de werknemergegevens van werkgevers binnen zijn sector: de inkomstenverhoudingen en de loon- en persoonsgegevens van werknemers. De afnemer ... |
+| Wetgeving/grondslag | [https://wetten.overheid.nl/BWBR0013280/2019-01-01](https://wetten.overheid.nl/BWBR0013280/2019-01-01) |
+| Wijze van leveren | [Mijn Gegevensdiensten](https://mijngegevensdiensten.uwv.nl/iam/inloggen?dmn=2H) |
+| Volume | Hoog |
+
+| Categorie | Toelichting |
+| --- | --- |
+| Gegevensset | KVK Dataservice Inschrijving, versie 3.0. |
+| Productbeschrijving | Gegevens over:· rechtsvorm· rechtspersoon· onderneming· hoofdvestiging· functionarissen· overige vestigingen· eigenaar, bestuurders, vennoten, gemachtigden en andere functionarissen |
+| Locatie/link | [https://www.kvk.nl/producten-bestellen/handelsregister-dataservice/dataservice-inschrijving/](https://www.kvk.nl/producten-bestellen/handelsregister-dataservice/dataservice-inschrijving/) |
+| Toelichting | Het handelsregister is een basisregistratie waarin alle bedrijven, rechtspersonen en andere organisaties die deelnemen aan het economisch verkeer staan ingeschreven. |
+| Wetgeving/grondslag | Het Handelsregister is een van de (10) basisregistraties in Nederland. |
+| Toelichting | Algemeen toegankelijke informatie, geen wettelijke grondslag voor gebruik vereist. |
+| Wijze van leveren | Een KVK API levert een directe koppeling met data uit het Handelsregister.Voor de aansluiting van de KVK API betaal je maandelijks € 5,20. Daarnaast betaal je een klein bedrag per bevraging. |
+| Volume | Midden |
+
+| Categorie | Toelichting |
+| --- | --- |
+| Gegevensset | Basisregistratie personen (BRP) incl. Registratie Niet-ingezetenen (RNI) |
+| Productbeschrijving | In de BRP worden verschillende persoonsgegevens geregistreerd. Het gaat daarbij om bijvoorbeeld voornamen en achternaam, geslacht en Burgerservicenummer.Niet-ingezetenen zijn personen die niet in N... |
+| Locatie/link | [https://www.rvig.nl/brp](https://www.rvig.nl/brp) |
+| Wetgeving/grondslag | [artikel 3.3 Wet BRP](http://wetten.overheid.nl/BWBR0033715/2015-09-01#Hoofdstuk3_Afdeling1_Paragraaf1_Artikel3.3) |
+| Toelichting | [https://wetten.overheid.nl/BWBR0034306/2022-10-22](https://wetten.overheid.nl/BWBR0034306/2022-10-22) |
+| Volume | Hoog |
+
+| Categorie | Toelichting |
+| --- | --- |
+| Gegevensset | Gegevens betreffende opleiding en diploma (o.b.v. Bijlage II. bedoeld in artikel 6.1 van de Regeling SUWI eenmalige gegevensuitvraag) |
+| Productbeschrijving | Gegevens betreffende opleiding en diploma.1. Onderwijsdeelname2. Opleidingsaanbod3. Opleiding (met o.a.)4. Opleidingsniveau5. Studiegebied (omschrijving)6. Studie inhoud (omschrijving)7. Studie uit... |
+| Locatie/link | [https://wetten.overheid.nl/BWBR0013280/2019-01-01#BijlageII](https://wetten.overheid.nl/BWBR0013280/2019-01-01#BijlageII) |
+| Wetgeving/grondslag | [https://wetten.overheid.nl/BWBR0013280/2019-01-01](https://wetten.overheid.nl/BWBR0013280/2019-01-01) |
+| Toelichting | Het wezenpensioen eindigt wanneer de deelnemer 18 jaar wordt. Als die studeert kan het wezenpensioen worden voortgezet tot het 27e jaar.De pensioenuitvoerder maakt gebruik van de gegevens van de Di... |
+| Wijze van leveren | [API](https://onderwijsdata.duo.nl/datasets/p04hogdipl) |
+| Contract | Vanaf 1 oktober 2022 is een overeenkomst met DUO verplicht. De volgende werkwijze is afgestemd:de uitvoeringsorganisatie ondertekent één overeenkomst namens alle pensioenfondsen; of het pensioenfon... |
+| Volume | Laag | 
+
+ 
+
+# Kamer van Koophandel (KvK)
+# Basisregistratie Personen (BRP)
+# Centraal Curatele- en bewindregister (CCBR)
 ## Context
 Mensen die vanwege hunlichamelijke of geestelijke toestand niet in staat zijn belangrijkebeslissingen te nemen kunnen beschermd worden:
 
@@ -80,7 +136,7 @@ Bluem Payment Service
 Bluem Payment Service ontwikkelde een service die dit voor de eindgebruiker eenvoudiger maakt. De eindgebruiker kan de desbetreffende service eenvoudig meteen aanvraag bevragen waarop direct sprake is van een eindresponse.
 
 # DUO
-[Tabel - zie origineel]# Gerechtsdeurwaarders
+# Gerechtsdeurwaarders
 Wie is SNG?
 
 - Organisatie opgericht in 1995.

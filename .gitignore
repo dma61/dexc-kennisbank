@@ -6,3 +6,9 @@ vendor/
 csv/
 
 _posts_backup_*
+*.xlsx
+*.csv
+~$*
+*.pyc
+__pycache__/
+*.py

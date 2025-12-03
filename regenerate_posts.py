@@ -1,223 +1,258 @@
-# Scaffolding timestamp: 2025-01-03
+# regenerate_posts.py
+# Scaffolding timestamp: 2025-12-03
 """
-DEXC Kennisbank Regenerator
-Regenereert _posts met correcte titels uit questions.csv
+Converteert Helpjuice CSV-export naar Jekyll _posts met correcte tabelconversie.
 """
 
 import csv
 import re
-import shutil
 import sys
 from pathlib import Path
 from datetime import datetime
-from html import unescape
+from bs4 import BeautifulSoup
 
-csv.field_size_limit(10_000_000)
+# Verhoog CSV field size limit
+csv.field_size_limit(2147483647)
 
-# === CONFIGURATIE ===
 BASE_DIR = Path(r"C:\MINISFORUMNAB6\DEV\dexc-kennisbank")
 CSV_DIR = BASE_DIR / "csv"
 POSTS_DIR = BASE_DIR / "_posts"
 
-QUESTIONS_CSV = CSV_DIR / "u1108114919_questions.csv"
-ANSWERS_CSV = CSV_DIR / "u1108114919_answers.csv"
-CATEGORIES_CSV = CSV_DIR / "u1108114919_categories.csv"
-CATEGORIZATIONS_CSV = CSV_DIR / "u1108114919_categorizations.csv"
-
-
-def load_questions(csv_path):
-    questions = {}
-    with open(csv_path, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            qid = row.get('id', '').strip()
-            name = row.get('name', '').strip()
-            codename = row.get('codename', '').strip()
-            created = row.get('created_at', '').strip()
-            is_published = row.get('is_published', '').strip().lower() == 'true'
-            
-            if qid and name:
-                questions[qid] = {
-                    'title': name,
-                    'slug': codename or f"artikel-{qid}",
-                    'created_at': created,
-                    'is_published': is_published
-                }
-    return questions
-
-
-def load_answers(csv_path):
-    answers = {}
-    with open(csv_path, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            qid = row.get('question_id', '').strip()
-            body_txt = row.get('body_txt', '').strip()
-            body = row.get('body', '').strip()
-            created = row.get('created_at', '').strip()
-            
-            if qid:
-                answers[qid] = {
-                    'body_txt': body_txt,
-                    'body_html': body,
-                    'created_at': created
-                }
-    return answers
-
-
-def load_categories(csv_path):
-    categories = {}
-    with open(csv_path, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            cat_id = row.get('id', '').strip()
-            name = row.get('name', '').strip()
-            if cat_id and name:
-                categories[cat_id] = name
-    return categories
-
-
-def load_categorizations(csv_path):
-    categorizations = {}
-    with open(csv_path, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            qid = row.get('question_id', '').strip()
-            cat_id = row.get('category_id', '').strip()
-            if qid and cat_id:
-                if qid not in categorizations:
-                    categorizations[qid] = []
-                categorizations[qid].append(cat_id)
-    return categorizations
-
+def html_table_to_markdown(table_soup):
+    """Converteer HTML <table> naar Markdown tabel."""
+    rows = []
+    
+    # Header rij (thead of eerste tr)
+    header_row = table_soup.find('thead')
+    if header_row:
+        headers = [th.get_text(strip=True) for th in header_row.find_all(['th', 'td'])]
+    else:
+        first_row = table_soup.find('tr')
+        if first_row:
+            headers = [cell.get_text(strip=True) for cell in first_row.find_all(['th', 'td'])]
+        else:
+            return ""
+    
+    if not headers:
+        return ""
+    
+    # Markdown header
+    rows.append("| " + " | ".join(headers) + " |")
+    rows.append("| " + " | ".join(["---"] * len(headers)) + " |")
+    
+    # Data rijen
+    tbody = table_soup.find('tbody')
+    data_rows = tbody.find_all('tr') if tbody else table_soup.find_all('tr')[1:]
+    
+    for tr in data_rows:
+        cells = tr.find_all(['td', 'th'])
+        # Behoud links in cellen
+        cell_contents = []
+        for cell in cells:
+            # Check voor links
+            link = cell.find('a')
+            if link and link.get('href'):
+                text = link.get_text(strip=True)
+                href = link['href']
+                cell_contents.append(f"[{text}]({href})")
+            else:
+                # Gewone tekst, verwijder newlines en extra spaties
+                text = cell.get_text(strip=True)
+                text = re.sub(r'\s+', ' ', text)
+                # Escape pipe characters
+                text = text.replace('|', '\\|')
+                cell_contents.append(text)
+        
+        if cell_contents:
+            rows.append("| " + " | ".join(cell_contents) + " |")
+    
+    return "\n".join(rows)
 
 def html_to_markdown(html_content):
+    """Converteer HTML naar Markdown met tabelondersteuning."""
     if not html_content:
         return ""
     
-    text = html_content
-    text = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<h2[^>]*>(.*?)</h2>', r'## \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<h3[^>]*>(.*?)</h3>', r'### \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<h4[^>]*>(.*?)</h4>', r'#### \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<strong>(.*?)</strong>', r'**\1**', text, flags=re.DOTALL)
-    text = re.sub(r'<b>(.*?)</b>', r'**\1**', text, flags=re.DOTALL)
-    text = re.sub(r'<em>(.*?)</em>', r'*\1*', text, flags=re.DOTALL)
-    text = re.sub(r'<i>(.*?)</i>', r'*\1*', text, flags=re.DOTALL)
-    text = re.sub(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', r'[\2](\1)', text, flags=re.DOTALL)
-    text = re.sub(r'<img[^>]*src="([^"]*)"[^>]*/?>',r'![](\1)', text, flags=re.DOTALL)
-    text = re.sub(r'<li[^>]*>(.*?)</li>', r'- \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'</?[ou]l[^>]*>', '', text)
-    text = re.sub(r'<p[^>]*>(.*?)</p>', r'\1\n\n', text, flags=re.DOTALL)
-    text = re.sub(r'<br\s*/?>', '\n', text)
-    text = re.sub(r'<hr\s*/?>', '\n---\n', text)
-    text = re.sub(r'<blockquote[^>]*>(.*?)</blockquote>', r'> \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<table[^>]*>.*?</table>', '[Tabel - zie origineel]', text, flags=re.DOTALL)
-    text = re.sub(r'<[^>]+>', '', text)
-    text = unescape(text)
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    # Converteer tabellen EERST (voordat we andere HTML verwerken)
+    for table in soup.find_all('table'):
+        md_table = html_table_to_markdown(table)
+        table.replace_with(BeautifulSoup(f"\n\n{md_table}\n\n", 'html.parser'))
+    
+    # Converteer links
+    for a in soup.find_all('a'):
+        href = a.get('href', '')
+        text = a.get_text(strip=True)
+        if href and text:
+            a.replace_with(f"[{text}]({href})")
+    
+    # Converteer bold/strong
+    for tag in soup.find_all(['strong', 'b']):
+        text = tag.get_text()
+        tag.replace_with(f"**{text}**")
+    
+    # Converteer italic/em
+    for tag in soup.find_all(['em', 'i']):
+        text = tag.get_text()
+        tag.replace_with(f"*{text}*")
+    
+    # Converteer headers
+    for i in range(1, 7):
+        for tag in soup.find_all(f'h{i}'):
+            text = tag.get_text(strip=True)
+            tag.replace_with(f"\n\n{'#' * i} {text}\n\n")
+    
+    # Converteer lijsten
+    for ul in soup.find_all('ul'):
+        items = []
+        for li in ul.find_all('li', recursive=False):
+            items.append(f"- {li.get_text(strip=True)}")
+        ul.replace_with("\n" + "\n".join(items) + "\n")
+    
+    for ol in soup.find_all('ol'):
+        items = []
+        for idx, li in enumerate(ol.find_all('li', recursive=False), 1):
+            items.append(f"{idx}. {li.get_text(strip=True)}")
+        ol.replace_with("\n" + "\n".join(items) + "\n")
+    
+    # Converteer paragrafen
+    for p in soup.find_all('p'):
+        text = p.get_text()
+        p.replace_with(f"\n\n{text}\n\n")
+    
+    # Converteer line breaks
+    for br in soup.find_all('br'):
+        br.replace_with("\n")
+    
+    # Haal tekst op en clean up
+    text = soup.get_text()
+    
+    # Verwijder Helpjuice glossary spans (data-definition etc.)
+    text = re.sub(r'\s+', ' ', text)
+    
+    # Fix multiple newlines
     text = re.sub(r'\n{3,}', '\n\n', text)
+    
+    # Herstel markdown tabellen (die zijn al correct geformatteerd)
+    # Ze kunnen platgeslagen zijn door get_text()
+    
     return text.strip()
 
-
-def slugify(text):
-    text = text.lower()
-    text = re.sub(r'[^\w\s-]', '', text)
-    text = re.sub(r'[\s_]+', '-', text)
-    text = re.sub(r'-+', '-', text)
-    return text.strip('-')[:50]
-
-
-def parse_date(date_str):
-    if not date_str:
-        return datetime.now()
-    try:
-        return datetime.strptime(date_str.replace(' UTC', ''), '%Y-%m-%d %H:%M:%S')
-    except:
-        return datetime.now()
-
-
-def generate_posts():
-    print("Laden van CSV bestanden...")
-    questions = load_questions(QUESTIONS_CSV)
-    answers = load_answers(ANSWERS_CSV)
-    categories = load_categories(CATEGORIES_CSV)
-    categorizations = load_categorizations(CATEGORIZATIONS_CSV)
+def regenerate_posts_from_html():
+    """Regenereer posts met originele HTML uit answers.csv."""
     
-    print(f"  - {len(questions)} questions geladen")
-    print(f"  - {len(answers)} answers geladen")
-    print(f"  - {len(categories)} categories geladen")
-    print(f"  - {len(categorizations)} categorizations geladen")
+    # Laad answers (bevat HTML content)
+    answers = {}
+    answers_file = list(CSV_DIR.glob("*answers.csv"))[0]
+    with open(answers_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            qid = row.get('question_id', '')
+            html = row.get('body', '')
+            if qid and html:
+                answers[qid] = html
     
-    if POSTS_DIR.exists():
-        shutil.rmtree(POSTS_DIR)
+    # Laad questions (metadata)
+    questions = {}
+    questions_file = list(CSV_DIR.glob("*questions.csv"))[0]
+    with open(questions_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            qid = row.get('id', '')
+            if qid:
+                questions[qid] = {
+                    'title': row.get('name', ''),
+                    'slug': row.get('codename', ''),
+                    'published_at': row.get('published_at', ''),
+                    'accessibility': row.get('accessibility', '')
+                }
+    
+    # Laad categorieën
+    categories = {}
+    categories_file = list(CSV_DIR.glob("*categories.csv"))[0]
+    with open(categories_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            cid = row.get('id', '')
+            name = row.get('name', '')
+            if cid and name:
+                categories[cid] = name
+    
+    # Laad categorizations (question -> category mapping)
+    categorizations = {}
+    cat_file = list(CSV_DIR.glob("*categorizations.csv"))[0]
+    with open(cat_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            qid = row.get('question_id', '')
+            cid = row.get('category_id', '')
+            if qid and cid:
+                if qid not in categorizations:
+                    categorizations[qid] = []
+                if cid in categories:
+                    categorizations[qid].append(categories[cid])
+    
+    # Genereer posts
     POSTS_DIR.mkdir(exist_ok=True)
     
-    print("\nGenereren van posts...")
     generated = 0
     skipped = 0
     
-    for qid, q_data in questions.items():
-        title = q_data['title']
-        slug = q_data['slug']
-        created = parse_date(q_data['created_at'])
+    for qid, meta in questions.items():
+        title = meta['title']
+        slug = meta['slug']
+        published = meta['published_at']
         
-        if title.lower().startswith('(sample)') or title.lower().startswith('helpjuice'):
+        # Skip samples/tests
+        if any(x in title.lower() for x in ['sample', 'test', 'example']):
             skipped += 1
             continue
-        if 'untitled article' in title.lower():
-            skipped += 1
-            continue
         
-        answer = answers.get(qid, {})
-        body_html = answer.get('body_html', '')
-        body_txt = answer.get('body_txt', '')
-        
-        if body_html:
-            content = html_to_markdown(body_html)
-        elif body_txt:
-            content = body_txt
+        # Parse datum
+        if published:
+            try:
+                dt = datetime.fromisoformat(published.replace('Z', '+00:00'))
+                date_str = dt.strftime('%Y-%m-%d')
+            except:
+                date_str = datetime.now().strftime('%Y-%m-%d')
         else:
-            content = "*Geen inhoud beschikbaar.*"
+            date_str = datetime.now().strftime('%Y-%m-%d')
         
-        cat_ids = categorizations.get(qid, [])
-        cat_names = [categories.get(cid, '') for cid in cat_ids if cid in categories]
-        cat_names = [c for c in cat_names if c and not c.startswith('(Sample)')]
+        # Haal HTML content
+        html_content = answers.get(qid, '')
         
-        date_str = created.strftime('%Y-%m-%d')
-        safe_slug = slugify(slug) or slugify(title) or f"artikel-{qid}"
-        filename = f"{date_str}-{safe_slug}.md"
-        filepath = POSTS_DIR / filename
+        # Converteer naar Markdown
+        md_content = html_to_markdown(html_content)
         
-        yaml_categories = str(cat_names).replace("'", '"') if cat_names else '[]'
+        # Haal categorieën
+        cats = categorizations.get(qid, ['Algemeen'])
         
-        post_content = f"""---
+        # Bouw frontmatter
+        frontmatter = f"""---
 layout: post
 title: "{title.replace('"', '\\"')}"
 date: {date_str}
-categories: {yaml_categories}
+categories: {cats}
 question_id: {qid}
 ---
-
-# {title}
-
-{content}
-
----
-
-[← Terug naar home]({{{{ site.baseurl }}}}/)
 """
         
+        # Schrijf bestand
+        filename = f"{date_str}-{slug}.md"
+        filepath = POSTS_DIR / filename
+        
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(post_content)
+            f.write(frontmatter)
+            f.write("\n")
+            f.write(f"# {title}\n\n")
+            f.write(md_content)
         
         generated += 1
-        if generated % 50 == 0:
-            print(f"  {generated} posts gegenereerd...")
     
-    print(f"\n✅ Klaar!")
-    print(f"   - {generated} posts gegenereerd")
-    print(f"   - {skipped} overgeslagen")
-
+    print(f"=== Regenerate Posts Complete ===")
+    print(f"✓ {generated} posts gegenereerd")
+    print(f"⊘ {skipped} posts overgeslagen (sample/test)")
 
 if __name__ == "__main__":
-    generate_posts()
+    regenerate_posts_from_html()
