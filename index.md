@@ -1,61 +1,52 @@
 ---
 layout: default
-title: Home
+title: DEXC Kennisbank
 ---
 
-# Data Exchange Kennisbank
+<div class="home-container">
+  <h1>📚 DEXC Kennisbank</h1>
+  
+  <div class="nav-cards">
+    <a href="{{ '/zoeken/' | relative_url }}" class="nav-card">
+      <span class="icon">🔍</span>
+      <span class="label">Zoeken</span>
+    </a>
+    <a href="{{ '/categorieen/' | relative_url }}" class="nav-card">
+      <span class="icon">📂</span>
+      <span class="label">Categorieën</span>
+    </a>
+    <a href="{{ '/contact/' | relative_url }}" class="nav-card">
+      <span class="icon">💬</span>
+      <span class="label">Contact</span>
+    </a>
+  </div>
+  
+  <h2>Recente artikelen</h2>
+  <ul class="post-list">
+  {% for post in site.posts limit: 20 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="meta">{{ post.date | date: "%Y-%m-%d" }} | {{ post.categories | join: ", " }}</span>
+    </li>
+  {% endfor %}
+  </ul>
+  
+  <p><a href="{{ '/categorieen/' | relative_url }}">Bekijk alle {{ site.posts.size }} artikelen →</a></p>
+</div>
 
-Welkom bij de kennisbank voor ICT-professionals werkzaam aan Data Exchange binnen de financiële sector.
-
----
-
-## Categorieën
-
-- [(Sample) Internal Category]({{ site.baseurl }}/categorie/sample-internal-category/) (1 artikelen)
-- [(Sample) Using Helpjuice]({{ site.baseurl }}/categorie/sample-using-helpjuice/) (2 artikelen)
-- [Afsprakenstelsel]({{ site.baseurl }}/categorie/afsprakenstelsel/) (2 artikelen)
-- [Algemene Verordening Gegevensbescherming (AVG)]({{ site.baseurl }}/categorie/algemene-verordening-gegevensbescherming-avg/) (4 artikelen)
-- [Basic koppelingsvarianten]({{ site.baseurl }}/categorie/basic-koppelingsvarianten/) (6 artikelen)
-- [Bouwstenen/Principes]({{ site.baseurl }}/categorie/bouwstenenprincipes/) (68 artikelen)
-- [Databronnen]({{ site.baseurl }}/categorie/databronnen/) (6 artikelen)
-- [Gegevensstandaarden]({{ site.baseurl }}/categorie/gegevensstandaarden/) (3 artikelen)
-- [Huishoudboekjes]({{ site.baseurl }}/categorie/huishoudboekjes/) (9 artikelen)
-- [Intern]({{ site.baseurl }}/categorie/intern/) (6 artikelen)
-- [Jaarlijks checken! (januari)]({{ site.baseurl }}/categorie/jaarlijks-checken-januari/) (4 artikelen)
-- [Kennisbank algemeen]({{ site.baseurl }}/categorie/kennisbank-algemeen/) (14 artikelen)
-- [Klantmappen]({{ site.baseurl }}/categorie/klantmappen/) (1 artikelen)
-- [Onduidelijk wat hier de bedoeing van was]({{ site.baseurl }}/categorie/onduidelijk-wat-hier-de-bedoeing-van-was/) (6 artikelen)
-- [Operators (regietoepassingen)]({{ site.baseurl }}/categorie/operators-regietoepassingen/) (13 artikelen)
-- [Oplossingen  ► particuliere klant]({{ site.baseurl }}/categorie/oplossingen-particuliere-klant/) (2 artikelen)
-- [Oplossingen  ► zakelijke klant]({{ site.baseurl }}/categorie/oplossingen-zakelijke-klant/) (4 artikelen)
-- [Oplossingen ► B2B (keten)]({{ site.baseurl }}/categorie/oplossingen-b2b-keten/) (41 artikelen)
-- [Oplossingen ► Particuliere klant]({{ site.baseurl }}/categorie/oplossingen-particuliere-klant/) (5 artikelen)
-- [Oplossingen ► Zakelijke klant]({{ site.baseurl }}/categorie/oplossingen-zakelijke-klant/) (6 artikelen)
-- [Oplossingen ► particuliere klant]({{ site.baseurl }}/categorie/oplossingen-particuliere-klant/) (16 artikelen)
-- [Oplossingen ► zakelijke klant]({{ site.baseurl }}/categorie/oplossingen-zakelijke-klant/) (7 artikelen)
-- [Overig]({{ site.baseurl }}/categorie/overig/) (40 artikelen)
-- [Planningstools]({{ site.baseurl }}/categorie/planningstools/) (13 artikelen)
-- [Services]({{ site.baseurl }}/categorie/services/) (3 artikelen)
-- [Standaarden ► B2B (keten)]({{ site.baseurl }}/categorie/standaarden-b2b-keten/) (10 artikelen)
-- [Standaarden ► particuliere klant]({{ site.baseurl }}/categorie/standaarden-particuliere-klant/) (3 artikelen)
-- [Standaarden ►zakelijke klant]({{ site.baseurl }}/categorie/standaarden-zakelijke-klant/) (9 artikelen)
-- [Toegang]({{ site.baseurl }}/categorie/toegang/) (2 artikelen)
-- [Toegang tot gegevens bij financiële dienstverleners]({{ site.baseurl }}/categorie/toegang-tot-gegevens-bij-financiele-dienstverlener/) (1 artikelen)
-- [Tools bij schuldhulpverlening en voorkomen van schulden]({{ site.baseurl }}/categorie/tools-bij-schuldhulpverlening-en-voorkomen-van-sch/) (8 artikelen)
-- [Transport]({{ site.baseurl }}/categorie/transport/) (5 artikelen)
-- [Wetgeving]({{ site.baseurl }}/categorie/wetgeving/) (27 artikelen)
-- [eHerkenning]({{ site.baseurl }}/categorie/eherkenning/) (7 artikelen)
-- [iDIN]({{ site.baseurl }}/categorie/idin/) (2 artikelen)
-
----
-
-## Alle artikelen
-
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>({{ post.date | date: "%d-%m-%Y" }})</small>
-  </li>
-{% endfor %}
-</ul>
+<style>
+.home-container { max-width: 900px; margin: 0 auto; padding: 20px; }
+.nav-cards { display: flex; gap: 20px; margin: 30px 0; flex-wrap: wrap; }
+.nav-card { 
+  flex: 1; min-width: 150px; padding: 30px 20px; 
+  background: #f5f5f5; border-radius: 12px; 
+  text-align: center; text-decoration: none; color: inherit;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.nav-card:hover { transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+.nav-card .icon { display: block; font-size: 2.5em; margin-bottom: 10px; }
+.nav-card .label { font-weight: bold; }
+.post-list { list-style: none; padding: 0; }
+.post-list li { padding: 12px 0; border-bottom: 1px solid #eee; }
+.post-list .meta { display: block; color: #666; font-size: 0.85em; margin-top: 3px; }
+</style>
