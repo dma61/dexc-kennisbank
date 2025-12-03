@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Checklist Onbemenste Toepassingen"
+date: 2024-04-24
+categories: ["Oplossingen ► B2B (keten)"]
+question_id: 2529546
+---
+
+# Checklist Onbemenste Toepassingen
+
+**Ontwikkeling**
+
+SIVI ontwikkelde de afgelopen jaren de checklist en het [platform](https://www.sivi.org/platform-kwaliteit-onbemenste-toepassingen/) Onbemenste Toepassingen. Onder meer geadviseerd door een Commissie met hoogleraren en aansprekende vertegenwoordigersu it de verzekeringssector ontwikkelt SIVI dit door.
+
+Geheel geautomatiseerde processen hebben als kenmerk dat taken (als het afsluiten van een verzekering of het uitbrengen van advies) worden uitgevoerd zonder menselijke tussenkomst. Deze processen worden uitgevoerd door onbemenste toepassingen, die vaak volledig autonoom een taak uitvoeren. Een belangrijk aandachtspunt bij het gebruik van onbemenste toepassingen is dat er geen directe menselijke reflectie op de uitkomst is.SIVI heeft de Checklist Onbemenste Toepassingen (Checklist-OT) ontwikkeld voor alle partijen binnen de financiële dienstverlening die geheel geautomatiseerde(onbemenste) toepassingen of deeltoepassingen aanbieden of ontwikkelen. De Checklist-OT is bedoeld voor toepassingen gericht op eindklanten en adviseurs. Met de Checklist-OT krijgt een organisatie inzicht in hoe zij omgaat met borging van de kwaliteit rond belangrijke thema’s als wet- en regelgeving, technologische risico’s, testen, herleidbaarheid en monitoring. De Checklist-OT geeft geen kwalificatie van ‘goed’ of ‘fout’ maar geeft een gestructureerdoverzicht van de belangrijkste risico’s en helpt bij het inhoud geven aan het mitigeren van deze risico’s.
+
+**Doel**
+
+In een branchebrede samenwerking wil SIVI het klantbelang beter borgen door voorwaarden te scheppen rond het inzichtelijk maken van de kwaliteit van onbemenste toepassingen.
+
+De checklist:
+
+- Biedt gestructureerd overzicht maatregelen rond kwaliteit;
+
+- Levert inzicht;
+
+- Bevatgeen normen;
+
+- Levert geen kwalificatie.
+
+I**nvulling checklist**
+
+Het invullen van de checklist daagt uit een verhaal te vertellen over hoe de desbetreffende organisatie omgaat met kwaliteit. Dat leidt in de praktijk tot groter risicobesef en het benoemen van nieuwe niet onderkende risico’s. Belangrijk is dan ook om bij de invulling een zo volledig mogelijk beeld neer te zetten met voldoende detail, zodat ook anderen - zowel intern in de organisatie als externen - een goed beeld krijgen.
+
+Een ingevulde checklist geeft een 360 graden beeld over de kwaliteit van een toepassing. Zowel voor interne als externe doeleinden kan de checklist worden gebruikt. Voor intern gebruik is de checklist een template voor het uitvoeren van een evaluatie binnen een project. Daarnaast is de checklist een middel om met bijvoorbeeld een externe leverancier de borging van kwaliteit aantoonbaar en inzichtelijk te maken.
+
+**Gebruik**
+
+Certificering vindt niet plaats. Wel kan aan SIVI worden gevraagd een ingevulde checklist te evalueren. De checklists zijn niet openbaar maar kunnen tussen de betrokken ketenpartijen wel worden gedeeld.
+
+Het invullen van Checklist-OT is een ontdekkingsreis. De verschillende hoofdonderwerpen stellen je in staat om stapsgewijs alle aandachtsgebieden in kaart te brengen. De antwoorden die gegeven worden, zijn bepalend voor de vervolgvragen. Hierdoor worden alleen relevante aspecten belicht die voor jouw toepassing gelden. Vanuit de checklist kan de gebruiker uitstapjes maken naar de kennisbank.
+
+De checklist leidt in de kern tot inzicht/overzicht en reflectie.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

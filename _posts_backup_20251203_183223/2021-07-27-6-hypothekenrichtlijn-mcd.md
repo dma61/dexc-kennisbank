@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Hypothekenrichtlijn MCD"
+date: 2021-07-27
+categories: ["Wetgeving"]
+question_id: 992568
+---
+
+# Hypothekenrichtlijn MCD
+
+De [Mortgage Credit Directive](https://www.afm.nl/nl-nl/professionals/onderwerpen/hypothekenrichtlijn) (MCD) – de hypothekenrichtlijn - verplicht aanbieders vanaf 2016 om![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627383576699-1627383576699.png) de consument een bindende offerte aan te bieden die op een eenvoudige wijze te vergelijken is met die van andere aanbieders. Het European Standardised Information Sheet (ESIS) is een precontractueel gepersonaliseerd informatiedocument dat door de (hypotheek)aanbieder of bemiddelaar aan de consument moet worden verstrekt. De vorm en inhoud van het document zijn voorgeschreven. Belangrijk is dat ruim voordat de consument gebonden is aan de overeenkomst, hij het document in zijn bezit moet hebben. Ook moet hij de mogelijkheid hebben gehad om verschillende producten te vergelijken en te beoordelen. 
+
+Het gegeven dat een bindende offerte moet worden aangeboden geeft aanbieders van hypothecaire leningen de verplichting om het proces van het inwinnen van informatie over de betreffende consument naar voren te halen. Toegang tot brondata is hiervoor van groot belang.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Opbouw Databronnen"
+date: 2022-09-06
+categories: ["Databronnen"]
+question_id: 1500629
+---
+
+# Opbouw Databronnen
+
+**Samenhang met andere onderdelen kennisbank**
+
+In het onderdeel Services ligt het accent op diensten van dienstverleners. Diensten in het verlengde van Datauitwisseling. In dit onderdeel Databronnen leggen we de nadruk op de databronnen zelf.
+
+**Wetgeving**
+
+Bepaalde aanbieders van gegevens (ook wel genoemd: bronhouders) zullen aan specifieke wet- en regelgeving zijn gebonden met betrekking tot het verstrekken van gegevens. Wetgeving rond vooral PSD2 en AVG speelt een belangrijke rol bij het ontsluiten van databronnen. 
+
+**Bouwstenen/principes**
+
+Bouwstenen zijn onderdeel van de oplossingen gericht op digitale toegang tot databronnen. Een leidend principe is hierbij Privacy By Design. Dit houdt in dat al bij de ontwikkeling van producten en diensten aandacht moet zijn voor privacy. 
+
+Andere zaken die we kort bespreken:
+
+- Basisregistraties;
+
+- Big Data;
+
+- Data analytics en Semantic analytics;
+
+- Data lake;
+
+- Datafabric;
+
+- Dataregister van de Nederlandse overheid;
+
+- Datavirtualisatie;
+
+- Edge Computing;
+
+- Gedragscodes voor uitwerking AVG;
+
+- Linked Data;
+
+- Persoonsgegevens;
+
+- Servicemanagement;
+
+- Verwijsindex;
+
+- Zero knowledge proof.
+
+**Oplossingen ► particuliere klant**
+
+Dit zijn oplossingen die consumenten toegang gegeven tot databronnen.
+Voorbeelden van databronnen die waarde (kunnen) toevoegen voor consumenten:
+
+![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1662497028440-1662497028440.png)
+
+**Oplossingen ► zakelijke klant**
+
+Dit zijn oplossingen die zakelijke klanten (inclusief zzp’ers) toegang gegeven tot databronnen. Bedrijven/werkgevers wisselen data uit met onder meer UWV, Belastingdienst, Kamer van Koophandel, pensioenuitvoerders, arbodiensten, verzekeraars. Hierbij wordt vaak gebruik gemaakt van een intermediair en/of administratiekantoor. Een paar specifieke databronnen passeert de revue. 
+
+**Oplossingen ► B2B (keten)**
+
+Dit zijn oplossingen die medewerkers en applicaties van partijen in de keten toegang gegeven tot databronnen. De [SIVI Catalogus Datadiensten](https://www.sivi.org/actueel/sivi-catalogus-datadiensten/) levert een overzicht van relevante externe databronnen in het verzekeringsdomein, de condities waaronder deze beschikbaar zijn en kwaliteitskenmerken. SIVI breidt de catalogus voortdurend uit.
+
+We bespreken tevens de bronnen voor beheermutaties op collectieve contracten.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

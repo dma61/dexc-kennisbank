@@ -1,0 +1,213 @@
+---
+layout: post
+title: "Operators (regietoepassingen)"
+date: 2022-09-21
+categories: ["Oplossingen  ► particuliere klant"]
+question_id: 1525840
+---
+
+# Operators (regietoepassingen)
+
+### Dappre
+[Dappre](https://dappre.com) is een mobiele app waarin we loyalty- en cadeaukaarten kunnen opslaan. Het is ook mogelijk in de Dappre App een kaartje aan te maken en daarop persoonsgegevens in te vullen. Gebruikers kiezen daarbij zelf of en welke persoonsgegevens zij voor welk doel met wie willen delen en voor hoelang. Dappre is ontstaan vanuit [Digital Me](https://digital-me.nl/) en is ook gebaseerd op de Qiy Trust Principles. Dappre is operationeel en focust zich op de Europese markt van de consumenten sector.
+
+### Blauwe Knop
+De [Blauwe Knop](https://www.vngrealisatie.nl/producten/blauweknop) was een initiatief dat is ontstaan vanuit het Kloosterhoeveberaad, met als doel mensen meer regie te geven op hun eigen gegevens. Het gaat hierbij om gegevens waar uitvoerders en gemeentes over beschikken (zoals diplomagegevens, kentekengegevens of NAW-gegevens). VNG Realisatie trekt dit initiatief samen met andere uitvoerders. Het Nederlandse programma is geïnspireerd door het ['Blue Button Initiative](https://www.healthit.gov/topic/health-it-initiatives/blue-button)' voor het downloaden van zorggegevens in de VS. Daar is de ‘Blue Button’ ingezet voor burgers om te zorgen dat zij zorggegevens (zoals medische historie, overzichten van vaccinaties) overzichtelijk in kunnen zien en delen met zorgverleners of bij het wisselen van zorgverzekering.
+
+***Het beoogde groeipad***
+
+In het groeipad was voorzien dat de Blauwe Knop drie verschillende [verschijningsvormen](https://rog.pleio.nl/news/view/57900558/blauwe-knop-programma-exploreert-onderzoekt-en-realiseert) heeft:
+
+- Blauwe Knop Basis: een downloadvoorziening om een gewaarmerkte set persoonlijke gegevens bij één organisatie te downloaden in pdf- of machineleesbaar-formaat, naar de telefoon, laptop, computer of tablet van de persoon.
+
+- Blauwe Knop Basis 2.0: een downloadvoorziening om één geaggregeerde, gewaarmerkte set persoonlijke gegevens vanuit meerdere organisaties te downloaden in pdf- en machineleesbaar-formaat naar de telefoon, laptop, computer of tablet van de persoon.
+
+- Blauwe Knop Plus: een voorziening om via een API (een interface tussen verschillende computersystemen) een gewaarmerkte set persoonlijke gegevens (mogelijk samengesteld vanuit verschillende bronnen) van de bron beschikbaar te stellen aan andere partijen. In deze vorm, kan iemand bijvoorbeeld de Belastingdienst toestemming geven, inkomensgegevens te delen met zijn of haar wooncorporatie. Op die manier kan een persoon ‘bewijzen’ dat hij of zij voldoet aan de criteria voor een specifieke huurwoning.
+
+***Eindresultaten***
+
+In het kader van het project De Blauwe Knop zijn verscheidene onderzoeken uitgevoerd, om inzichten en ervaringen te verzamelen. Uit het afrondende onderzoek komt naar voren dat er algemeen draagvlak is voor de Blauwe Knop onder zowel publieke als private organisaties. De mate van draagvlak is per variant van de Blauwe Knop verschillend. Onder iets meer dan de helft van de participanten (zowel publieke als private organisaties) is er het meeste draagvlak aanwezig voor de Plus variant. Het rapport stelt resumerend: ‘’ Resumerend, op basis van de ervaringen en bevindingen in dit rapport, kan worden gesteld dat de Blauwe Knop het beeldmerk kan zijn dat op een herkenbare manier betekenisvolle regie op gegevens voor burgers symboliseert en vertegenwoordigt.’’
+
+***Overzicht resultaten***
+
+[Deze pagina](https://vng.nl/artikelen/de-blauwe-knop-rapportage) bevat de verzameling van de rapportages van elk van de onderzoeken en het eindrapport van het project. Momenteel (juli 2022) loopt een opschalingsanalyse. Tot nu toe is immers alleen ervaring met Blauwe Knop Basis gerealiseerd.
+
+### Haal BRP
+Maart 2022 startte een pilot met ruim 20 overheidsorganisaties en pensioenfondsen (via APG) om aan te sluiten op de BRP met de BRP API. In 2022 komen er Haal Centraal API’s beschikbaar waarmee overheden kunnen aansluiten op de Basisregistratie Personen bij RvIG. RvIG realiseert de API’s. VNG Realisatie maakt de API-specificaties binnen het programma [Haal Centraal](https://www.rvig.nl/actueel/nieuws/2022/03/14/meer-dan-20-organisaties-starten-pilot-haal-centraal-brp-api).
+
+### Schluss
+[Schluss](https://schluss.org/nl/over-ons/) bouwt aan een community en werkt toe naar een coöperatie. Schluss ziet zichzelf graag als belangenbehartiger. Bij Schluss staat soevereiniteit centraal. Daarmee bepaal je je eigen privacy. 
+
+Schluss levert tevens een service voor opslag van, regie op en overzicht over persoonlijke gegevens. Dit kan gaan om bijvoorbeeld adresgegevens, medische of financiële gegevens. Identificatie en autorisatie zijn gewaarborgd via derden. De gebruiker bepaald wie toegang krijgt, voor welk doel en voor welke periode. Schluss biedt een overzicht van welke inzagen verleend zijn, zodat een persoon ook weer kan intrekken (afhankelijk van de juridische kaders). 
+
+Schluss heeft een roadmap met mijlpalen:
+
+- In 2023 staan de persoonsgegevens nog steeds gedistribueerd bij de verschillende organisaties. Maar de desbetreffende persoon bepaalt met wie de gegevens gedeeld mogen worden.
+
+- In 2025 staan de persoonsgegevens in de kluis van de eigenaar. De persoon bepaalt wie deze gegevens mag gebruiken.
+
+### Financieel Paspoort (FP)
+De [Stichting Financieel Paspoort](https://financieelpaspoort.nl/) biedt een mobiele app waarmee gebruikers gemakkelijk een overzicht van hun financiën krijgen, zonder dat andere mensen deze gegevens kunnen inzien of opslaan. Hiermee focussen ze zich op de financiële zelfredzaamheid van de Nederlandse burgers. De gebruiker kan zelf bij verschillende manieren van datadiensten, zoals de Belastingdienst, de bank of het pensioenregister, gegevens ophalen en deze opslaan op een locatie en ter beschikking stellen aan een ontvangende organisatie naar keuze. Voor deze uitwisseling is ook de ontwikkeling van de Gegevensstandaard Persoonlijke Financiën gestart.
+
+Financieel Paspoort heeft ambities zich door te ontwikkelen tot open source.
+
+### Invers
+[Invers](https://www.invers.nl/services) is een voorbeeld van een organisatie die analyses biedt op basis van financiële data. Banktransacties worden opgehaald onder expliciete toestemming van de gebruiker. In 2019 kreeg Invers een PSD2 vergunning. Deze gegevens verrijkt en verwerkt Invers tot financiële analyses (in JSON formaat). Denk aan categoriseren van transacties en verwerking tot uitgave overzichten. Deze diensten levert Invers aan B2B en B2C klanten. Klanten met een PSD2 vergunning hebben de mogelijkheid zelf voort te bouwen op de white-label technologie van Invers. Invers zit naar eigen zeggen onder de motorkap van veel financiële diensten.
+
+In 2020 ging Invers een [samenwerking](https://www.amweb.nl/financiele-planning/nieuws/2020/05/ockto-en-invers-gaan-samenwerking-aan-101122940) aan met Ockto om een financieel overzicht te kunnen bieden, waarbij Invers gecategoriseerde banktransacties aanlevert.
+
+### Datakeeper
+Rabobank zet met [IDA](https://mijnida.nl/ida/) (25 FTE in het voorjaar van 2021) groot in op een rol nemen in het ‘’data custodian’’ landschap. Daarin faciliteert Rabobank een oplossing om persoonlijke gegevens veilig te delen zonder daarin ook maar iets van de gegevens of transacties te zien.
+Inmiddels is IDA omgedoopt tot [Datakeeper](https://datakeeper.nl/).
+
+[Voorbeeld](https://www.readid.com/use-cases/datakeeper) van de werking:
+
+Datakeeper kunnen we bijvoorbeeld inzetten voor autoverhuur bij Autohopper. Met deze service kunnen consumenten een auto huren en vooraf hun persoonlijke gegevens doorgeven aan Datakeeper. De autoverhuurder stuurt via de digitale kluis een dataverzoek naar de consument om een rijbewijs en identiteitskaart of paspoort te verstrekken. Doordat de consument dit vooraf via Datakeeper aanlevert, betekent dit minder medewerkers aan de balie; ze hoeven geen kopieën van identiteitsbewijzen te maken en kunnen de consument sneller helpen bij het huren van een auto. De consument behoudt de controle over zijn persoonsgegevens.
+
+Datakeeper gaat uit van [geverifieerde credentials](https://www.w3.org/TR/vc-data-model/). Een digitale credential representeert zelfde als fysieke credential of document, en biedt onder meer fraudebestendigheid, focus op privacy, juiste bron garantie.
+
+De Datakeeper app gebruikt de blockchain technologie om de (persoons)gegevens van consumenten te verifiëren. Hierbij slaat de app geen (persoons)gegevens in de blockchain op. In de blockchain slaat Datakeeper alleen het [bewijs van uitgifte van deze gegevens](https://datakeeper.nl/veelgestelde-vragen) op, dus niet de gegevens zelf.
+
+	## Welke bronnen ontsluit Ockto?
+
+	Op dit moment kan een gebruiker met de Ockto app onder andere gegevens ophalen bij de Belastingdienst, UWV, MijnPensioenoverzicht, DUO en MijnOverheid middels een QR code. Het ophalen van studieschuld was daarin niet onomstreden: het voornemen om studieschuld toegankelijk te maken voor hypotheekverstekkers leidde tot [Kamervragen](https://zoek.officielebekendmakingen.nl/ah-tk-20192020-821.html), maar werd toegestaan op basis van de AVG (dus mits het gegeven onder toestemming van de burger is opgevraagd).
+
+	Bij de website MijnOverheid haal je met Ockto onder andere gegevens op uit de Basis Registratie Personen (BRP), het Kadaster en het WOZ-register.
+
+	Ockto werkt samen met [Invers](https://www.amweb.nl/financiele-planning/nieuws/2020/05/ockto-en-invers-gaan-samenwerking-aan-101122940) om een financieel overzicht te kunnen aanbieden met gecategoriseerde transactiegegevens. Ockto heeft zelf ook een PSD2 vergunning. 
+
+	
+
+***Welke bronnen ontsluit Ockto?***
+
+Op dit moment kan een gebruiker met de Ockto app onder andere gegevens ophalen bij de Belastingdienst, UWV, MijnPensioenoverzicht, DUO en MijnOverheid middels een QR code. Het ophalen van studieschuld was daarin niet onomstreden: het voornemen om studieschuld toegankelijk te maken voor hypotheekverstekkers leidde tot [Kamervragen](https://zoek.officielebekendmakingen.nl/ah-tk-20192020-821.html), maar werd toegestaan op basis van de AVG (dus mits het gegeven onder toestemming van de burger is opgevraagd).
+
+Bij de website MijnOverheid haal je met Ockto onder andere gegevens op uit de Basis Registratie Personen (BRP), het Kadaster en het WOZ-register.
+
+Ockto werkt samen met [Invers](https://www.amweb.nl/financiele-planning/nieuws/2020/05/ockto-en-invers-gaan-samenwerking-aan-101122940) om een financieel overzicht te kunnen aanbieden met gecategoriseerde transactiegegevens. Ockto heeft zelf ook een PSD2 vergunning. 
+
+***Ockto Brondata Service***
+
+Via de Ockto Brondata Service (OBS) kan de consument zijn data veilig delen met verschillende partijen binnen de hypotheekketen.** **In het aanvraagtraject van een hypotheek zorgt OBS ervoor dat geldverstrekkers zelf bepaalde brondata en documenten kunnen ophalen, zonder dat de adviseur deze hoeft aan te leveren. 
+
+***Wie gebruiken Ockto?***
+
+Specifiek voor de hypotheekketen heeft Ockto, samen met onder andere HDN, de Ockto Brondata Service ontwikkeld. Dit zorgt ervoor dat de consument [minder documenten](https://www.ockto.nl/ockto-brondata-service/) hoeft op te leveren bij de aanvraag van een hypotheek. [Ockto vermeldt ](https://www.ockto.nl/hypotheekverstrekkers_brondata_service/) welke documenten bij welke aanbieder komen te vervallen. Het betreft documenten die nodig zijn voor het sluiten van een hypotheek.
+
+Daarnaast wordt Ockto ook toegepast in verschillende applicatie het bieden van financieel overzicht, zoals [FinanceBook](https://financebook.nl/#/home) van Achmea en MyLife van Yellowtail.
+
+Via ‘Opvragen Digitale Klantgegevens’ in FAN, de adviseursomgeving van [Florius](https://www.vvponline.nl/nieuws/florius-stelt-brondata-beschikbaar-voor-adviesgesprek?mid=k5*YrGlkmWSYkQ==), kunnen klanten via Ockto voor het adviesgesprek hun digitale klantgegevens aanleveren.
+
+Met behulp van het Ockto platform is het voor een prospect mogelijk om kredietverleners op een eenvoudige en veilige manier inzage te geven in de informatie die zij nodig hebben voor de [kredietbeoordeling](https://www.ockto.nl/consumptief-krediet/).
+
+***Hoe haalt Ockto gegevens op?***
+
+De gegevensuitwisseling tussen Ockto en data aanbieders en afnemers verloopt de uitwisseling via API of screen scraping (bij screen scraping is er geen waarmerking vanuit de data aanbieder). De data worden opgeslagen op het apparaat van de gebruiker en verwerkt op de server van Ockto. Een data-afnemer kan de gebruiker daarnaast vragen om de gegevens maximaal 2 maanden bij Ockto beschikbaar te houden. Daardoor kan een geldverstrekker de persoonsgegevens gebruiken voor het uitbrengen van een aanbod.
+
+***Met welke pakketten is Ockto gekoppeld?***
+
+Ockto heeft koppelingen met de voor financieel advies belangrijke softwarepakketten. Via Ockto gedeelde gegevens hoeft men dan niet meer handmatig in te voeren. 
+
+Adviessoftware
+
+	- Adviesbox
+
+	- DIAS Advies
+
+	- Figlo
+
+	- FinDash
+
+	- Findesk
+
+	- FinRust
+
+	- Private Wealth Navigator
+
+	- Scope
+
+CRM-pakketten
+
+	- Accelerate
+
+	- Elements
+
+	
+***Pensioenchecker***
+
+De [**Pensioenchecker**](https://www.pensioenchecker.org/) is door Ockto gemaakt voor een samenwerkingsverband van de [**Pensioenfederatie**](https://www.pensioenfederatie.nl/home) en Nederlandse pensioenuitvoerders. Iedereen die in Nederland pensioen opbouwt kan de app gebruiken om te zien wat hij of zij op de pensioenleeftijd netto per maand kan verwachten.
+
+***Vertaling Ockto Data Model naar AFD***
+
+De vertaling van het Ockto Data Model naar de AFD-standaard van SIVI is in 2021 gerealiseerd. Deze Ockto-AFD-mapping moet het voor software ontwikkelaars makkelijker maken om de data uit het Ockto-bericht te importeren binnen het klantdossier.
+
+--->
+ 
+### Ockto
+
+Ockto Ockto zorgt ervoor dat consumenten snel en simpel informatie kunnen verzame...
+
+[insert-question 1529502]
+
+ -->
+
+### Veilig Ophalen
+[Veilig Ophalen](https://www.veiligophalen.nl/) BV maakt het mogelijk om gegevens geautomatiseerd, bij de bron, te verzamelen. **Veilig Ophalen BV werkt hiertoe samen met de **[**Nationale Hypotheekbond**](https://www.hypotheekbond.nl/)** en **[**Ordina**](https://www.ordina.nl/)**.**
+
+Met Veilig Ophalen verzamel je financiële gegevens die nodig zijn voor je (hypotheek)aanvraag. Geef je toestemming dan verstuurt Veilig Ophalen de gegevens naar de partij die erom vroeg. Daarna zijn alle opgehaalde gegevens weer van je telefoon verdwenen. 
+
+De mogelijkheid voor Veilig Ophalen biedt de financieel dienstverlener aan, waar jij contact mee hebt. Deze maakt een unieke QR-code voor je aan, en deelt die met je. Je scant deze QR-code binnen de Veilig Ophalen app. Hierna start het Veilig Ophalen automatisch. Veilig Ophalen slaat jouw informatie alleen gedurende het proces op. Dus totdat de informatie is aangekomen bij de organisatie waarna je deze wilt versturen. 
+
+ 
+### MijnPensioenoverzicht
+
+MijnPensioenoverzicht (MPO) biedt de deelnemer een overzicht van zijn gecumuleerd...
+
+[insert-question 993045]
+
+MijnPensioenoverzicht (MPO)
+
+		***Stichting Pensioenregister***
+
+		Het Pensioenregister vervult een wettelijke taak gebaseerd op artikel 51 van de Pensioenwet. 
+
+		De Pensioenuitvoerders vormen, via hun vertegenwoordigende organen Pensioenfederatie en Verbond van verzekeraar, samen met de SVB het bestuur van de Stichting Pensioenregister
+
+		***Toelichting Mijnpensioenoverzicht.nl (MPO)***
+
+		MPO biedt de deelnemer een overzicht van zijn gecumuleerde rechten op 1e en 2e pijler pensioen zoals dat vastligt bij de gezamenlijke Pensioenuitvoerders. De website kent elk jaar bezoek van 7,5 miljoen gebruikers die met DigiD of eIDAS inloggen. 
+
+		Het doel van MPO is om overzicht en (tijdig) inzicht voor de deelnemer te creëren zodat de deelnemer actie kan ondernemen. MPO en de bijbehorende helpdesk adviseert niet. Wel wijst MPO bij een potentieel AOW-tekort op de mogelijkheid om bij te verzekeren. 
+
+		De getoonde gegevens op MPO worden realtime-online opgehaald bij de Pensioenuitvoerders (via het verwijzingsregister) en de SVB. Daardoor bepalen de Pensioenuitvoerders en de SVB de actualiteit en de kwaliteit van de door MPO getoonde data. De consequentie van gemiste AOW-opbouwjaren werken bijvoorbeeld door in de getoonde data. 
+
+		MPO biedt de mogelijkheid aan pensioenuitvoerders om te informeren bij welke andere pensioenuitvoerder een gewezen deelnemer pensioenaanspraken opbouwt. Dit ten behoeve van waardeoverdracht van pensioen.
+
+		***Pensioenregister **API** ***
+
+		De inzet van de API wacht op aanpassing van wetgeving. De huidige regelgeving spreekt over “tonen” van informatie door het Pensioenregister en niet over het “delen” van informatie. Vanuit het juridisch perspectief van SZW blijkt dit de ingebruikname van de API te blokkeren. Dat in de praktijk de deelnemer de getoonde informatie toch al deelt, doet daar kennelijk niet aan af. 
+
+		De hoop is dat de API in 2023 operationeel is. De nieuwe wetgeving voorziet vooralsnog uitsluitend in het gebruik van de API door de Pensioenuitvoerders. Intermediairs en adviesorganisaties zullen er dus geen gebruik van mogen maken. 
+
+		***Pensioenchecker***
+
+		Met [Pensioenchecker](https://www.pensioenchecker.org/#faq) app kun je gegevens uit MPO ophalen. Pensioenchecker is een initiatief van de Pensioenfederatie en pensioenuitvoerders.
+
+		**WTP **
+
+		Ten aanzien van de Wet Toekomst Pensioenen is het Pensioenregister volgend. Benodigde wijzigingen lopen via de Pensioenkoepelorganisaties.
+
+-->
+### iWize
+[iWize](https://www.iwize.nl/) haalt gegevens op die vervolgens verder verwerkt kunnen worden, onder toestemming van de gebruiker. De bronnen waar het om gaat zijn onder andere inkomen, gezinssamenstelling, uitkering, arbeidsverleden, studieschuld, en pensioenen. Hiervoor haalt iWize [onder meer](https://www.iwize.nl/pages/solutions.html) gegevens op bij Belastingdienst, UWV, MijnPensioenoverzicht, MijnOverheid, DUO, Funda en LinkedIn. De consument kiest welke gegevens ontsloten worden. De opzet van iWize is B2B; het biedt de tooling white-label aan om consent en gegevensuitwisseling te regelen binnen de processen van de afnemende organisatie.
+
+### TM-pro
+[TM-pro](https://tm-pro.eu/#/) biedt tooling die er met name gericht is op personen meer inzicht in financiën te geven. Onder meer door diverse dashboards op basis van transactiegegevens. Dit wordt echter niet direct aan consumenten aangeboden, maar als white-label platform voor organisaties. Via TM-pro kunnen ook betalingen verwerkt worden voor organisaties met PSD2 vergunning, en voor organisaties die hier niet over beschikken middels het Swift protocol.
+
+De oplossingen van TM-pro worden gebruikt door banken, verzekeraars, family offices en financiële startups in heel Europa. De software biedt TM-pro aan in de vorm van white label-componenten, vaak geïntegreerd in en ter ondersteuning van bestaande omgevingen.
+
+In 2020 nam TM-Pro het technologieplatform [Moneyou Go](https://www.banken.nl/nieuws/22648/fintech-tm-pro-verwerft-platform-moneyou-van-abn-amro) over van ABN AMRO.
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)

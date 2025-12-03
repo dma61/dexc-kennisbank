@@ -1,0 +1,493 @@
+---
+layout: post
+title: "Note advice connection rinis 2021"
+date: 2021-08-16
+categories: []
+question_id: 1012049
+---
+
+# Note advice connection rinis 2021
+
+# 
+
+Page
+
+1 of 5
+
+To: Steering Group DSO
+
+From: Working Group IDP
+
+Date: March 24, 2021
+
+Subject: Joint broker advice
+
+**Summary**
+
+UWV discloses data for pension funds. Data becomes available
+
+made via the portal of UWV Data Services. In addition, data
+
+increasingly available via an application-to-application (A2A) facility
+
+posed.
+
+RINIS simplifies the connection to the A2A facility by acting as a broker
+
+between pension funds and UWV. Pension fund Horeca and Catering
+
+and UWV have successfully tested this form of data exchange in a
+
+pilot in which data from the payroll tax return chain was exchanged. this note
+
+substantiates a positive advice issued by the IDP working group on the use
+
+of RINIS as a broker for UWV data deliveries.
+
+In addition to wage declaration data, other data sets can also be exchanged
+
+be, both with UWV (e.g. SUAG data) and with other participants of
+
+RINIS. An overview of the participants of RINIS can be found on the website
+
+of RINIS (https://www.rinis.nl/nl/about-rinis). For the pension sector are
+
+parties such as DUO, CAK and BZK/Logius may be relevant. This is not in the pilot
+
+investigated further and the working group will therefore not issue an opinion on this.
+
+***1.***
+
+*** ***
+
+***Cause***
+
+In 2018, the IDP working group issued advice on the options
+
+to receive automated data from the UWV. It has been researched
+
+whether T&T could act as a broker. This turned out not to be a possible scenario.
+
+Subsequently, it was investigated whether the RINIS
+
+1
+
+could fulfill this function. RINIS
+
+has been providing digital messaging between various
+
+government bodies. This turned out to be technically possible but relatively expensive, while the
+
+possible savings at the pension provider are limited.
+
+In 2019, the UWV again contacted the IDP working group because a
+
+new connection via RINIS was made possible.
+
+2
+
+This link becomes A2A
+
+called (Application-to-Application). This connection is simpler and can
+
+be achieved at lower costs.
+
+This has led to this renewed advice in which the IDP working group has given a positive
+
+advises on the connection via RINIS.
+
+1
+
+https://www.rinis.nl
+
+2
+
+See https://www.rinis.nl/nl/nieuws-item/rinis-verbindt-pensioenfondsen-en-uwv
+
+# 
+
+Page
+
+2 of 5
+
+***2.***
+
+*** ***
+
+***pilot***
+
+Pensioenfonds Horeca en Catering has conducted a pilot to determine
+
+whether the link with RINIS is an improvement over the current
+
+method. This was done by receiving the payroll tax return data via the
+
+RINIS connection. In this pilot it was established that the exchange is functional
+
+is correct and meets the safety requirements of Pensioenfonds Horeca en
+
+catering. It has also been established that realizing a connection for a
+
+pension provider is not complex.
+
+The results of the pilot are attached in Appendix A.
+
+***3.***
+
+*** ***
+
+***business case***
+
+***Cost***
+
+The connection **examined in 2018** had two variants:
+
+•
+
+A connection as a customer of RINIS. This included one-off costs
+
+of €22,500 and annual costs of €31,200.
+
+•
+
+A connection as a participant of RINIS. For this, the one-off
+
+costs $50,000 and the annual cost is $90,600.
+
+**The new offer** that applies to the A2A connection has the following
+
+cost structure (excluding VAT):
+
+•
+
+One-time €4,800
+
+•
+
+€5,000 annually
+
+The starting point for this offer is that in the long term at least three
+
+connect pension providers. The first operator to connect does not pay
+
+higher costs. This is further elaborated in Appendix B.
+
+It is good to mention that these costs are per technical connection.
+
+Several products can be used within a technical connection
+
+declined. (e.g. SUAG and Wage Declaration)
+
+Because at the time of writing the UWV can only join per fund
+
+a technical connection must be made for each fund. The mentioned
+
+costs are therefore still per pension fund. However, UWV is working on
+
+data deliveries per pension provider (intermediary in UWV terminology)
+
+to realise. This is expected to be completed in Q2 2021. From that moment on you can
+
+an operator with one technical connection to RINIS data for all
+
+exchange funds.
+
+The internal costs that a pension provider has to incur for a connection
+
+depend on various factors and are therefore not included. Pension fund
+
+Horeca en Catering realized the connection within a few days. (See
+
+Annex A).
+
+# 
+
+Page
+
+3 of 5
+
+*** ***
+
+***Benefit***
+
+Financial benefits are limited. It is expected that approximately 0.2 FTE per
+
+executor are saved (for a executor with 1 or some
+
+pension funds).
+
+The main reason for joining will therefore be due to qualitative benefits
+
+are. Below, the manual and automatic methods are compared.
+
+Item** **
+
+Current situation** **
+
+Working method with RINIS** **
+
+Quality*** ***
+
+Manually at the risk of
+
+faults.*** ***
+
+The quality of the services provided by UWV
+
+supplied data remains
+
+unchanged.*** ***
+
+Completely automated*** ***
+
+The quality of the services provided by UWV
+
+supplied data remains
+
+unchanged.
+
+Speed
+
+Files are saved during
+
+office hours downloaded.
+
+Data is often only
+
+the next night or
+
+weekend in the administration
+
+incorporated.
+
+Files can (if
+
+desired) immediately after receipt
+
+to be processed
+
+offered.
+
+Process*** ***
+
+Simple stable process with
+
+manual actions.*** ***
+
+Process is automated
+
+full automatic without
+
+intervention of employees.*** ***
+
+backup
+
+by
+
+administrator
+
+Because the process is manual
+
+contains actions there must be
+
+coordination between
+
+administrators are for the
+
+performance in the absence.
+
+The process is automated.
+
+Therefore there is no
+
+dependence on the
+
+availability of a
+
+administrator.
+
+Technic*** ***
+
+UWV Portal on which
+
+authorized administrators in
+
+can log*** ***
+
+Secure File Transfer Protocol*** ***
+
+Security*** ***
+
+eRecognition with 2 factor
+
+authentication.
+
+Possibility for
+
+employees to the
+
+files after download and
+
+mutate before processing.*** ***
+
+Secure File Transfer Protocol with
+
+Public/Private key authentication
+
+and encryption.
+
+It is possible for performers
+
+to set up the STP process
+
+where the employees
+
+can't file
+
+manipulate.
+
+# 
+
+Page
+
+4 of 5
+
+***4.***
+
+*** ***
+
+***Connection process***
+
+RINIS acts as processor of the data exchange, but the
+
+contracting parties remain the UWV and the pension fund.
+
+In the event of a connection, the UWV will make an adjustment to the Data Delivery
+
+agreements (GLA) are made stating that from now on delivery
+
+is provided via the transport channel A2A and RINIS. The content and definition
+
+of the delivery remain unchanged.
+
+With RINIS, a processing agreement is concluded in accordance with the requirements of the GDPR
+
+drawn up. RINIS has a model agreement available for this. (Appendix C)
+
+Furthermore, a DAP (Dossier
+
+Agreements and procedures) drawn up. This includes, among other things, how to
+
+act in the event of incidents and changes.
+
+A connection instruction has been drawn up by RINIS for the technical connection.
+
+(Appendix D)
+
+If a pension provider wants to join, the lead time for the link is
+
+about 3 months between UWV and RINIS. The connection between
+
+the executor and RINIS can be realized in parallel.
+
+***5.***
+
+*** ***
+
+***Future perspective***
+
+The link with RINIS provides new possibilities in the future for
+
+pension providers:
+
+***Message service***
+
+The UWV is working on new services that are realized via the A2A interface
+
+could be. It is a subscription service for life events. Via this
+
+service, an executor can receive a direct signal in the event of relevant changes in
+
+the policy administration.
+
+The following events have already been developed within the Subscription Service:
+
+•
+
+Creation of a new income relationship;
+
+•
+
+Termination of income relationship.
+
+On the basis of these events, for example, start and stop letters can be sent
+
+could be.
+
+***Information about other government parties***
+
+RINIS does not only provide UWV data but links several
+
+government parties. These parties are participants of RINIS. An overview of the
+
+current participants can be consulted on the RINIS website:
+
+https://www.rinis.nl/nl/over-rinis and also attached in Appendix E.
+
+For pension funds there is a link with DUO for receiving
+
+consider school statements.
+
+# 
+
+Page
+
+5 out of 5
+
+***6.***
+
+*** ***
+
+***Conclusion and advice***
+
+•
+
+The quality of data transport improves, the quality of the
+
+content of the data remains the same.
+
+•
+
+The process of the transport is fully automated but is
+
+more complex, several parties are involved in bottlenecks.
+
+•
+
+Savings in personnel are very limited. On the other hand, the costs are
+
+the link to realize low.
+
+*** ***
+
+•
+
+There is always the possibility to fall back on the portal of
+
+UWV data services if the data is unexpectedly not via the A2A
+
+coupling can be provided.
+
+The IDP working group therefore advises positively on the UWV data delivery via
+
+RINIS.
+
+On behalf of the IDP working group:
+
+Sandor Hofman – Pension Fund Horeca and Catering
+
+Ad van Leest – APG
+
+---
+
+[← Terug naar home]({{ site.baseurl }}/)
