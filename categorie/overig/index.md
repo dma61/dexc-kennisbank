@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Overig"
+---
+
+# Overig
+
+<ul>
+{% for post in site.posts %}
+  {% if post.categories contains "Overig" %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <small>({{ post.date | date: "%d-%m-%Y" }})</small>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+[← Terug naar home]({{ site.baseurl }}/)
