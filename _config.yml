@@ -1,4 +1,4 @@
-title: "Data Exchange Kennisbank"
+﻿title: "Data Exchange Kennisbank"
 description: "Kennisbank voor ICT-professionals in financiële Data Exchange"
 baseurl: "/dexc-kennisbank"
 url: "https://dma61.github.io"
@@ -10,6 +10,8 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+
+permalink: /:year/:month/:day/:title.html
 
 defaults:
   - scope:
