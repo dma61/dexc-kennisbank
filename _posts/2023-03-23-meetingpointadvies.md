@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1869800
 ---
 
-# MeetingpointAdvies
-
 MeetingpointAdvies biedt aan adviseurs een online platform biedt ter ondersteuning van oriëntatie, inventarisatie en het vergelijken van verzekeringsproducten. Het platform wordt door TJIP The Platform Engineer in de markt gezet. Bij een aantal producten wordt er sterk op vermindering van het invullen van data gestuurd door pre-fill van data uit externe bronnen en administratiesystemen.
 
 In het geval van arbeidsongeschiktheidsverzekeringen en overlijdensrisicoverzekeringen kan bij diverse aanbieders de aanvraag direct bij de verzekeraar worden ingediend.

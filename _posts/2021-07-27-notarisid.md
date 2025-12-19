@@ -6,8 +6,6 @@ categories: ["Oplossingen ► particuliere klant"]
 question_id: 992668
 ---
 
-# NotarisID
-
 **Wat is het?**
 
 [**NotarisID**](https://www.knb.nl/nieuwsberichten/knb-ledenraad-akkoord-met-gebruik-notarisid-voor-notariele-transacties-koninklijke-notariele-beroepsorganisatie) is een identificatiemiddel van Koninklijke Notariële Beroe![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627387018884-1627387018884.png)psorganisatie (KNB). Kort door de bocht kunnen gebruikers na een face-to-face-onboarding (bij de notaris) via een App op de telefoon authenticeren. Daarbij kunnen allerlei attributen worden geladen en getoond aan derden. Deze worden niet opgeslagen maar worden per sessie opgehaald en getoond.

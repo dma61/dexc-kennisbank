@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 992609
 ---
 
-# Wet Digitale Overheid (WetDO)
-
 **Kaderwet**
 De WDO is een kaderwet. Het wetsvoorstel regelt algemene principes, verantwoordelijkheden en procedures, maar geen gedetailleerde regels. Om techniek verantwoorde de ruimte te bieden is wendbaarheid en flexibiliteit noodzakelijk. De systematiek is stapsgewijs, in tranches. Publieke dienstverleners zijn verplicht de authenticatiemiddelen die zijn toegelaten onder de WDO te accepteren. In ieder geval zullen dit DigiD en eHerkenning zijn. De gegevens die onder WDO kunnen worden uitgewisseld zijn ook de gegevens die de toegelaten authenticatiemiddelen kunnen verwerken. Voor DigiD is dat voorlopig BSN en voor eHerkenning is dat op dit moment een pseudoniem van de gebruiker, een KvK nummer van het bedrijf namens wie deze handelt en een machtiging hiervoor. 
 

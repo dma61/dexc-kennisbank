@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1419233
 ---
 
-# OpenID Connect
-
 **Wat is het?**
 [OpenID Connect](https://openid.net/connect/) is een standaard die beschrijft hoe gebruikers federatief kunnen inloggen. Wanneer men federatief authentiseert wordt aan een vertrouwde partij gevraagd om de authenticatie af te handelen. Deze vertrouwde partij geeft vervolgens terug of er juist geauthentiseerd is, en geeft een aantal gevraagde attributen terug zodat eventueel ook geautoriseerd kan worden.
 

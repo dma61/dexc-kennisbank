@@ -6,8 +6,6 @@ categories: ["Databronnen"]
 question_id: 992227
 ---
 
-# Databronnen Introductie
-
 ### **Algemeen**
 We zien de afgelopen jaren een aantal ontwikkelingen rond het gebruik van data in financiële processen in het algemeen en verzekeringsprocessen in het bijzonder. Dit betreft onder meer:
 

@@ -6,8 +6,6 @@ categories: ["Oplossingen ► zakelijke klant"]
 question_id: 992722
 ---
 
-# Oplossingen ► zakelijke klant
-
 De belangrijkste oplossingen:
 
 - Gebruikersnaam/wachtwoord al dan niet uitgebreid met een tweede factor.

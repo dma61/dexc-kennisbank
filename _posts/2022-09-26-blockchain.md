@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533666
 ---
 
-# Blockchain
-
 Een blockchain is een gedistribueerd data-uitwisselingssysteem dat werkt op basis van consensus en een onveranderbare gedecentraliseerde verzameling van data, die opgeslagen wordt in volgorde van wanneer die data is binnengekomen. Gedistribueerde systemen zijn een computerparadigma waarbij twee of meer knooppunten (deelnemers) op een gecoördineerde manier met elkaar samenwerken om een gemeenschappelijk resultaat te bereiken. 
 
 Onderscheidende elementen zijn volgens [Nictiz](https://www.nictiz.nl/wp-content/uploads/2017/01/Blockchain_in_de_zorg.pdf):

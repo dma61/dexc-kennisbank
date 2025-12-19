@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1533830
 ---
 
-# Huidige infrastructuur berichtuitwisseling
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1664186960212-1664186960212.png)
 
 In de figuur hierboven een overzicht op hoofdlijnen van variatie in de huidige NL-infrastructuur voor berichtenuitwisseling binnen de financiële dienstverlening rond verzekeringen. De figuur gaat in op de setting rond verzekeraars, serviceproviders en adviseurs. Merk echter op dat ook andere actoren in de keten berichtenuitwisseling gebruiken. Er is binnen de varianten in de figuur een grotere diversiteit rond zowel ontvangers als verzenders met partijen als CIS, Market Scan, Schadeherstellers, Infofolio, Adviessoftwareleveranciers, etc. Voor een deel gaan deze berichtenstromen ook via Solera en Aplaza. Onderstaand een toelichting bij de nummers in de figuur:

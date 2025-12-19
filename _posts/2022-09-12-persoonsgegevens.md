@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1508192
 ---
 
-# Persoonsgegevens
-
 Persoonsgegevens kunnen worden onderverdeeld in een aantal soorten (categorieën). Het belang van deze indeling is gelegen in de verschillende mate van (wettelijk vereiste) zorgvuldigheid waarin deze categorieën mogen worden gebruikt. 
 
 De figuur toont een verdeling van de verschillende categorieën gegevens gerelateerd aan personen.![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1663014495392-persoonsgegevens.png) Hieronder volgt een korte beschrijving van de verschillende categorieën.

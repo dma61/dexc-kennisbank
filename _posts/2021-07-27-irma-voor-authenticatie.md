@@ -6,8 +6,6 @@ categories: []
 question_id: 992675
 ---
 
-# IRMA voor Authenticatie
-
 IRMA is naast gegevensontsluiting ook geschikt als inlog/authenticatiemiddel. De gebruiker (bijvoorbeeld een verzekeringsnemer of een pensioendeelnemer) logt dan in op de mijn-omgeving van de verzekeraar of zijn pensioenfonds met de IRMA-app. De aanname daarbij is dat de gebruiker een geactiveerde IRMA-app met een persoonlijke Pincode heeft en dat deze geladen is met persoonsgegevens uit de BRP (via de Gemeente Nijmegen). In dat geval doorloopt de gebruiker typisch de volgende stappen: 
 
 - Gebruiker gaat naar de website voor de mijn-omgeving van de verzekeraar/het pensioenfonds.

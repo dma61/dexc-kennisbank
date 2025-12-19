@@ -7,8 +7,6 @@ categories: []
 question_id: 913017
 ---
 
-# Welcome To Helpjuice (2min video)
-
 Welcome to Helpjuice! This is a sample article we wrote for your to better try Helpjuice's Article Editor. 
 
 ### 

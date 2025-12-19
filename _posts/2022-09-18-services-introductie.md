@@ -6,8 +6,6 @@ categories: ["Services"]
 question_id: 1516242
 ---
 
-# Services Introductie
-
 **Services voor de particuliere klant**
 
 Data ontsluiten we niet alleen, maar allerlei diensten voegen ook waarde toe. We illustreren dit aan de hand van het belang van financiële data voor de consument. 

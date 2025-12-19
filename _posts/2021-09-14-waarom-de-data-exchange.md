@@ -6,8 +6,6 @@ categories: []
 question_id: 1046812
 ---
 
-# Waarom de Data Exchange Kennisbank?
-
 De Stichting Contactgroep Automatisering, CGA, is overtuigd dat de ontwikkeling van een branchebrede **set van afspraken en voorlichting** ten behoeve van Data Exchange cruciaal en vanzelfsprekend is voor een goed werkend **digitaal ecosysteem van financiële diensten** en daarmee ook voor het functioneren van financieel dienstverleners.
 
 De CGA-kennisbank is bedoeld om inzicht en overzicht te bieden over alle aspecten rond data-uitwisseling binnen het ecosysteem van de financiële dienstverlening. Denk daarbij onder andere aan verzekeraars, serviceproviders, gevolmachtigden, tussenpersonen en aanbieders van toepassingen. De kennisbank zal vooral gebruikt worden door **beslissers,

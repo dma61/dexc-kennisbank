@@ -6,8 +6,6 @@ categories: ["Intern"]
 question_id: 1553495
 ---
 
-# kb op google
-
 If you want to notify Google about your KB and speed up indexing, you can submit the sitemap.xml file as described here: [https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#addsitemap](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#addsitemap)
 
 The sitemap is found at [https://sivi.helpjuice.com/sitemap.xml](https://sivi.helpjuice.com/sitemap.xml)

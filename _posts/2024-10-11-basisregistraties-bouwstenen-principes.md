@@ -6,8 +6,6 @@ categories: ["Databronnen"]
 question_id: 2851892
 ---
 
-# Basisregistraties
-
 #### 
      We are currently translating the article, please give Helpjuice a few moments while
      it goes through the article and refresh the page.

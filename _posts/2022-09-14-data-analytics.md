@@ -6,8 +6,6 @@ categories: ["Oplossingen ► Zakelijke klant"]
 question_id: 1512583
 ---
 
-# Data analytics
-
 Bedrijven verzamelen onder andere data om hun klanten beter te kunnen bedienen. Met behulp van data analytics is het mogelijk om de klantreis in kaart te brengen. Hier zijn [veel leveranciers](https://www.bisystemen.nl/bi-software) actief. Sprake is van veel [tools](https://www.ictinformatiecentrum.nl/data-analytics/data-analytics-tools). Het ICT Informatiecentrum geeft [overzicht en inzicht](https://www.ictinformatiecentrum.nl/data-analytics).
 
 ---

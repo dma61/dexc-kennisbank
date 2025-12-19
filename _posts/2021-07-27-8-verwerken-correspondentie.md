@@ -6,8 +6,6 @@ categories: ["Onduidelijk wat hier de bedoeing van was"]
 question_id: 993017
 ---
 
-# Verwerken correspondentie
-
 Correspondentie wordt voorzien van metagegevens waardoor bij de ontvanger opslag in het juiste dossier mogelijk is.
 
 ---

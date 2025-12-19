@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1418555
 ---
 
-# EU-ID-wallet
-
 ## Inleiding
 Deze wallet wordt bij wet afgedwongen en gelet op de toepassingsmogelijkheden is een hoog volume in gebruik te verwachten. Bovendien is de wallet gebaseerd op zelf soevereine identiteiten, met alle voordelen van dien. 
 

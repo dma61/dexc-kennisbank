@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1510449
 ---
 
-# Linked Data
-
 ### Inleiding
 [Linked Data](https://www.sbr-nl.nl/werken-met-sbr/experimenten-sbr-vernieuwing/technologiescan) is een vrij nieuwe technologie waarbij de semantiek van de data direct aan de data zelf gekoppeld is. Hierdoor wordt het mogelijk om op een zeer gedetailleerd niveau links tussen verschillende datasets te leggen.
 

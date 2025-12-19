@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1513959
 ---
 
-# Wetgeving
-
 In de financiële sector is veel wetgeving van toepassing. Het is niet relevant deze hier uitgebreid te gaan bespreken. Deze [wetgeving](https://www.joho.org/nl/hoe-zijn-verzekeringen-bij-wet-geregeld-chapter-1) heeft invloed op de betekenis van begrippen die in gegevenswoordenboeken worden gebruikt. Een paar voorbeelden maken dit duidelijk. 
 
 - De Uniforme Pensioenaangifte is gebaseerd op de Loonaangifte. In de Wet SUWI is aangegeven welke gegevens met welk doel in de Loonaangifte worden uitgevraagd. Daar staat ook voor welke doeleinden de gegevens mogen worden gebruikt.

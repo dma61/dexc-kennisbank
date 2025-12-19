@@ -6,8 +6,6 @@ categories: ["Operators (regietoepassingen)"]
 question_id: 1529732
 ---
 
-# Veilig Ophalen
-
 Rabobank zet met [IDA](https://mijnida.nl/ida/) (25 FTE in het voorjaar van 2021) groot in op een rol nemen in het ‘’data custodian’’ landschap. Daarin faciliteert Rabobank een oplossing om persoonlijke gegevens veilig te delen zonder daarin ook maar iets van de gegevens of transacties te zien.
 Inmiddels is IDA omgedoopt tot [Datakeeper](https://datakeeper.nl/).
 

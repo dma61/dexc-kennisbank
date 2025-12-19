@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1418772
 ---
 
-# Overzicht Bouwstenen / Principes
-
 Zowel binnen het particuliere domein als binnen het zakelijke domein vormt authenticatie een essentieel onderdeel van onlinedienstverlening. Vanuit het aangaan van verplichtingen of het mogen uitvoeren van handelingen is het vaststellen en bevestigen van identiteiten van gebruikers belangrijk. SIVI onderscheidt vier deel-domeinen rond authenticatie). Op het eerste niveau een uitsplitsing tussen consumentenauthenticatie en zakelijke authenticatie. Het zakelijke domein bestaat vervolgens uit machine-machine en mens-machine. Binnen mens-machine bestaat een onderscheid tussen authenticatie met laagfrequent en hoogfrequent gebruik.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/2073056/image001.png)

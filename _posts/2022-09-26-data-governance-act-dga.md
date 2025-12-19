@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1533594
 ---
 
-# Data Governance Act (DGA)
-
 De Europese Commissie (EC) wil met de ‘[Data Governance Act’](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_nl) (DGA)datadelen tussen landen en sectoren binnen de EU [makkelijker en betrouwbaarder](https://www.digitaleoverheid.nl/nieuws/ec-stelt-nieuwe-regels-datadeling-voor/?pk_campaign=nieuwsbrief-19-2020) maken. De kern van de verordening is dat zogenaamde data-intermediairs gaan functioneren als een neutrale partij die data-houders en data-gebruikers met elkaar verbindt. Deze intermediairs moeten een Europees alternatief bieden voor de grote techbedrijven; ze moeten aan strenge eisen gaan voldoen om hun neutraliteit te waarborgen. En ze mogen de gegevens niet op eigen initiatief verhandelen.
 
 De verordening bestaat uit:

@@ -7,8 +7,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 993202
 ---
 
-# Overzichten
-
 [Tabel - zie origineel]
 
 ---

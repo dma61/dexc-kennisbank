@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1419235
 ---
 
-# Security Assertion Markup Language (SAML)
-
 [SAML](http://saml.xml.org/protocols) is een standaard die beschrijft hoe gebruikers federatief kunnen inloggen. SAML wordt onder andere gebruikt in bijvoorbeeld SURFconext, iDIN, DigiD Machtigen, eHerkenning en Idensys. [SAML](https://www.forumstandaardisatie.nl/open-standaarden/saml) moet volgens de overheid worden toegepast op de uitwisseling van authenticatie- en autorisatiegegevens om gebruikers na eenmalig inloggen toegang te geven tot meerdere diensten.
 
 SAML standaardiseert het berichtenverkeer tussen een Identity Provider (IdP) en een Service Provider (SP). Een IdP is een partij die verantwoordelijk is voor authenticatie van gebruikers en die identiteitsattributen van gebruikers kan verschaffen. Een SP is een dienstverlener die een elektronische dienst aanbiedt aan de gebruikers. Een constellatie van bij elkaar horende IdPs en SPs wordt een (SAML-) federatie genoemd.

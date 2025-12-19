@@ -6,8 +6,6 @@ categories: ["Planningstools"]
 question_id: 993053
 ---
 
-# APG Helder Overzicht en Inzicht
-
 APG heeft een [vermogensplanner](https://www.ppf-apg.nl/plan-jouw-pensioen/inzicht-in-jouw-financiele-toekomst/) laten ontwikkelen door Finbase, de partij achter MijnGeldzaken.nl. Voor de berekeningen wordt gebruik gemaakt van Ortec Finance. De planner heet Helder Overzicht en Inzicht. De tool is beschikbaar voor alle fondsen die door APG bediend worden, maar wordt nu gebruikt door een paar (ABP, SPW, Personeelspensioenfonds APG). De tool bevat scenario’s (eerder stoppen met werken, sabbatical, langer doorwerken) en de informatie kan op gezinsniveau worden bekeken, in netto bedragen. Deelnemers kunnen zelf handmatig andere regelingen, buiten APG, toevoegen.
 
 ---

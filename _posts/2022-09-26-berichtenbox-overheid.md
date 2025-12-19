@@ -6,8 +6,6 @@ categories: ["Oplossingen ► particuliere klant"]
 question_id: 1533801
 ---
 
-# Berichtenbox overheid
-
 De [Berichtenbox](https://mijn.overheid.nl/wat-is-de-berichtenbox/) is onderdeel van “MijnOverheid” en is de persoonlijke brievenbus van de burger. De burger ontvangt hier digitale post van de overheid en een aantal andere instanties (zoals de pensioenfondsen). Pensioenfondsen mogen als één van de weinige niet-overheidspartijen gebruik maken van de Berichtenbox.
 
 **Voordelen Berichtenbox**

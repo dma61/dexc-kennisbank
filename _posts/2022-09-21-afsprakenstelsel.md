@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1525809
 ---
 
-# Afsprakenstelsel
-
 **Wat is een afsprakenstelsel?**
 
 Een afsprakenstelsel is een set aan **specificaties, regels en afspraken** die de governance van een systeem met meerdere partijen bepalen. Een afsprakenstelsel wordt gevormd vanuit een gemeenschappelijk doel, het is gemaakt om transacties tussen de groep deelnemers te faciliteren, onder de set van afgesproken requirements.

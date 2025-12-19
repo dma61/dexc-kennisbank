@@ -6,8 +6,6 @@ categories: ["Klantmappen"]
 question_id: 993099
 ---
 
-# Klantmappen
-
 Via een klantmap heeft de klant online toegang tot zijn/haar eigen klantdossier. De klant kan hier veelal heel eenvoudig polissen bekijken, mutaties doorgeven of zelf documenten uploaden. De klant ziet zo in één oogopslag welke producten hij/zij heeft lopen en heeft vierentwintig uur per dag, zeven dagen per week toegang tot zijn/haar gegevens. Daarnaast beschikt de klantmap over services waarmee de klant gemakkelijk contact op kan nemen, vragen kan stellen of zelf direct eventuele schades kan melden.
 
 Klantmappen in de verzekeringsketen worden gerealiseerd en aangeboden door diverse partijen zoals blijkt uit onderstaande figuur.

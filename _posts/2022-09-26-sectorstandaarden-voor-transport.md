@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533669
 ---
 
-# Sectorstandaarden voor transport
-
 #### ADN-berichtenverkeer
 Dit - Store & Forward via Elektronisch Postbussen - systeem is een koppelingsvorm waarbij elektronische berichten worden verstuurd en/of opgehaald. Het ADN berichtenverkeer maakt van oudsher gebruik van een postbussensysteem. Berichten worden in het postvak van de ontvanger geplaatst. De ontvanger kan dan – op een later moment - de gegevens ophalen en verwerken. Dit mechanisme staat bekend als Store & Forward.
 

@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 992730
 ---
 
-# Digitaal Paspoort
-
 Het Digitaal Paspoort is in 1997 in de verzekeringsbranche geïntroduceerd door ADN (later ABZ, nog later Solera). Verzekeraars waren aandeelhouder in ADN. Het betreft een SSL-certificaat, waarvan anno 2019 ongeveer 35.000 in omloop zijn. Het werkt als een elektronisch identiteitsbewijs met onder andere de volgende informatie:
 
 - Naam certificaathouder;

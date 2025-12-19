@@ -6,8 +6,6 @@ categories: ["Databronnen"]
 question_id: 992593
 ---
 
-# Oplossingen ► werkgever
-
 Werkgevers wisselen data uit met onder meer UWV, Belastingdienst, Kamer van Koophandel, pensioenuitvoerders, arbodiensten, verzekeraars. Hierbij wordt vaak gebruik gemaakt van een intermediair en/of administratiekantoor.
 
 ---

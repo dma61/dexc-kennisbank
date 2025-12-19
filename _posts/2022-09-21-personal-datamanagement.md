@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1525680
 ---
 
-# Personal Datamanagement
-
 **PDM**
 
 Persoonlijk data management, ofwel PDM, betekent dat mensen (persoonlijke) gegevens kunnen gebruiken om hun leven, werk of bedrijf te organiseren, terwijl belangrijke waarden als veiligheid en privacy geborgd zijn. Persoonlijk data management gaat over toegang, corrigeren en delen van persoonlijke data, maar ook inzicht hebben in wie deze persoonlijke gegevens gebruikt, onder controle van het individu.

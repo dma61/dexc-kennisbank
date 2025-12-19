@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 2511351
 ---
 
-# Open Finance Act
-
 ## 1 EU & Open Finance
 De Europese Commissie heeft (28 juni2023) haar voorstel voor een verordening over [een kader voor toegang tot financiëlegegevens](https://finance.ec.europa.eu/publications/financial-data-access-and-payments-package_en) gepubliceerd. Het ontwerp van de Open Finance Act beoogteen wettelijk kader te introduceren dat de toegang tot en het gebruik van klantgegevens in de financiële sector reguleert. In onderhavig hoofdstuk – voor een deel gebaseerd op dit [artikel](https://www.osborneclarke.com/insights/european-commission-introduces-proposal-open-finance-framework) - bespreken we de hoofdlijnen van het genoemde voorstel. Toegang tot financiële gegevens verwijst naar de toegang tot en verwerking van business-to-business en business-to-customer(inclusief consumenten) gegevens op verzoek van de klant voor een breed scala aan financiële diensten. Het voorstel is onderverdeeld in negen titels. In Bijlage C staan meer details
 

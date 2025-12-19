@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 2529546
 ---
 
-# Checklist Onbemenste Toepassingen
-
 **Ontwikkeling**
 
 SIVI ontwikkelde de afgelopen jaren de checklist en het [platform](https://www.sivi.org/platform-kwaliteit-onbemenste-toepassingen/) Onbemenste Toepassingen. Onder meer geadviseerd door een Commissie met hoogleraren en aansprekende vertegenwoordigersu it de verzekeringssector ontwikkelt SIVI dit door.

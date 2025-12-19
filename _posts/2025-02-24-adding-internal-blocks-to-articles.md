@@ -6,8 +6,6 @@ categories: []
 question_id: 3082717
 ---
 
-# Adding Internal Blocks to Articles
-
 Sometimes you need to add private notes or internal documentation within your public knowledge base articles. Internal blocks let you create restricted sections that are only visible to your team members while keeping the rest of the article public. 
 
       To add an internal block: 

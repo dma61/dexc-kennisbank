@@ -6,8 +6,6 @@ categories: ["Huishoudboekjes"]
 question_id: 993086
 ---
 
-# MijnGeldzaken.nl
-
 Voorheen AFAS Personal, nu het online huishoudboekje van MijnGeldzaken.nl heeft een koppeling met de meeste banken in Nederland en sommige banken in België. Automatisch (via Invers/PSD2) of handmatig kunnen transacties worden ingelezen. Transacties worden direct in de juiste categorieën gezet.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627401313566-1627401313566.png)

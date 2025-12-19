@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533650
 ---
 
-# Synchrone gegevensuitwisseling
-
 Processen die directe response op de vraag vereisen of die plaatsvinden tussen mens en machine zijn altijd synchroon. De brede inzet van portalen is hier de invulling van. Verder zijn er synchrone machine to machine processen die een directe response vereisen, denk aan services voor pensioenberekeningen ten behoeve van deelnemers. In de sector worden die bij voorkeur ondersteund met gestandaardiseerde webservice protocollen om branchebreed op dezelfde manier met elkaar te communiceren en tegelijkertijd de implementatielast te beperken. 
 
 ### Screen scraping

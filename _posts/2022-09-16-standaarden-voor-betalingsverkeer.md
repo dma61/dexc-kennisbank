@@ -6,8 +6,6 @@ categories: ["Standaarden ► particuliere klant", "Standaarden ►zakelijke kla
 question_id: 1515346
 ---
 
-# Standaarden voor betalingsverkeer
-
 ### **SEPA**
 De realisatie van één uniforme Europese betaalmarkt, de Single Euro Payments Area (SEPA), heeft ertoe geleid dat alle eurobetalingen in Europa zijn gestandaardiseerd.
 

@@ -6,8 +6,6 @@ categories: ["Planningstools"]
 question_id: 993072
 ---
 
-# Adviesbox
-
 Intersoftware is de leverancier van [Adviesbox](https://www.adviesbox.nl/), een pakket vooral bestemd voor de financieel adviseur. Met dit pakket beschikken financieel adviseurs over een eigen financiële planningtool. 
 
 Brondata wordt opgehaald uit verschillende databronnen:

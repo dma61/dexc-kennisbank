@@ -6,8 +6,6 @@ categories: ["Algemene Verordening Gegevensbescherming (AVG)"]
 question_id: 992554
 ---
 
-# Rechten voor consumenten
-
 Rechten voor consumenten scheppen de ruimte voor regie. Hierna leggen we kort uit wat de diverse rechten voor consumenten volgens de AVG zijn.
 
 Recht om toestemming te geven en in te trekken

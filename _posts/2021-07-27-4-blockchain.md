@@ -6,8 +6,6 @@ categories: ["Onduidelijk wat hier de bedoeing van was"]
 question_id: 993011
 ---
 
-# Blockchain
-
 Blockchain is een specifieke databasetechnologie die leidt tot een gedistribueerd autonoom grootboeksysteem. 
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627399650451-1627399650451.png)

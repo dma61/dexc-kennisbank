@@ -6,8 +6,6 @@ categories: ["Standaarden ► B2B (keten)"]
 question_id: 992975
 ---
 
-# Overzicht HDN Berichten
-
 - Document Aanvraag & Document Bericht (DA & DX)
 
 - Hypotheekaanvraag (AX)

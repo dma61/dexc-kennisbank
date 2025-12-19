@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1513979
 ---
 
-# Bouwstenen gegevensstandaard AFD 1.0
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1663245552349-20220915%20Bouwstenen%20gegevensstandaard%20AFD%201.0p.png) **Entiteiten/attributen**
 
 Het AFD bestaat uit een verzameling entiteiten. In een entiteit worden bij elkaar horende gegevenselementen (attributen) vastgelegd. Een entiteit beschrijft op die manier een object of zaak uit de werkelijkheid. Voorbeelden: Verzekeringnemer (VP), Verzekerde, Motorrijtuig. Een attribuut beschrijft één eigenschap van één entiteit, bijvoorbeeld geboortedatum Verzekeringnemer (VP). Aan iedere entiteit en aan ieder attribuut wordt een uniek label toegekend van respectievelijk 2 en maximaal 7 posities. Deze labels worden in het berichtenverkeer gebruikt om de gegevens te duiden. Door een label te interpreteren is het bijbehorende gegeven (bijvoorbeeld een verzekerd bedrag) automatisch te verwerken. De labels worden in XML-berichten als XML tags toegepast. 

@@ -6,8 +6,6 @@ categories: ["Oplossingen ► particuliere klant"]
 question_id: 2529529
 ---
 
-# Vergelijking authenticatiemiddelen voor de verzekeringsconsument
-
 De onderstaande tabel is bedoeld als overzicht van concrete toepassingen met een hoog-over inschatting op de toepasbaarheid voor de verzekeringssector.  
 
 Let op: voor alle middelen geldt dat digitaal niet-vaardige klanten een ‘papieren’ alternatief geboden zal moeten worden. Deze mensen zullen immers uitvallen in het digitale proces, als ze daar al aan beginnen.  

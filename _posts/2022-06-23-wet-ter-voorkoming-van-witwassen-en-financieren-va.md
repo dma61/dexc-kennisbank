@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1418497
 ---
 
-# Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft)
-
 De Wwft is per 1 augustus 2008 in werking getreden. Met de invoering van de Wwft werden de Wet identificatie bij dienstverlening (Wid) en de Wet melding ongebruikelijke transacties (Wet MOT) samengevoegd. De [Wwft](https://www.afm.nl/nl-nl/professionals/onderwerpen/wwft-wet) dwingt af dat [financiële organisaties](https://www.fintool.nl/20472/voor-wie-geldt-wwft.htm) hun klanten goed kennen. Hiervoor stellen deze organisaties onder andere een risicoprofiel van de klant op. Deze [wetgeving](https://wetten.overheid.nl/BWBR0024282/2020-07-10) is de Nederlandse implementatie van het AMLD (Anti-Money Laundering Directive) en wordt ook wel verwoord als ‘KYC’ of [Know Your Customer principe](https://www.betaalvereniging.nl/actueel/achtergrondinformatie/in-het-kort/ken-uw-klant-in-het-kort/).
 
 De wet verplicht dat financiële instellingen de identiteit van hun klanten moeten controleren, maar de wet schrijft niet voor hoe dat moet gebeuren. DNB en de AFM geven in hun Leidraden Wwft diverse [voorbeelden](https://www.vvponline.nl/nieuws/financiele-instellingen-mogen-online-identificatie-eisen?mid=lZyTqXFjmGSYkQ==), zoals video-identificatie, het uitlezen van de chip op een ID, een liveness-check en een eID-middel. Een Kifid-uitspraak maakt duidelijk dat de consument niet kan volstaan met het per aangetekende post verzenden van een gewaarmerkte kopie van een ID

@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1533557
 ---
 
-# Stichting Efficiënte Processen Schadeverzekeraars
-
 De [Stichting Efficiënte Processen Schadeverzekeraars](https://www.seps.nl/zakelijk/contact/over-ons/) (Stichting EPS of SEPS)  heeft tot doel efficiency voordelen te behalen voor schadeverzekeraars op gebieden waar de concurrentiële verhoudingen tussen de verschillende maatschappijen niet wordt beïnvloed.
 
 **Clearinghuis Regresschades**

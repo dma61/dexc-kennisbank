@@ -6,8 +6,6 @@ categories: ["Oplossingen  ► zakelijke klant"]
 question_id: 1533497
 ---
 
-# eBenefits
-
 [eBenefits](https://www.ebenefits.nl/product/communicatie-portalen) levert Communicatieportalen voor pensioen, bijvoorbeeld LifeSight dat voorziet in de groeiende vraag naar flexibele en moderne pensioenregelingen voor werkgevers met 25 of meer medewerkers. Lifesight is ook gericht op werknemer en pensioenadviseur.
 
 eBenefits levert voorts een Pensioenplanner en Pensioen app.

@@ -6,8 +6,6 @@ categories: ["Transport"]
 question_id: 1533590
 ---
 
-# Opbouw Transport
-
 **Wetgeving**
 
 De Europese Commissie stelt eisen aan het delen van data door data-intermediairs. Voorts is een wet in aantocht die het voor consumenten makkelijker moet maken om gegevens over te dragen die zijn gegenereerd door allerlei apparaten, van slimme gadgets in huis tot elektrische auto’s.

@@ -6,8 +6,6 @@ categories: ["Huishoudboekjes"]
 question_id: 993080
 ---
 
-# Cashflow Online
-
 Cashflow Online is een online huishoudboekje waarbij de gebruiker handmatig gegevens moet uploaden en vervolgens de uitgave geschiedenis kan inzien. Het verdienmodel van dit huishoudboekje is een voorbeeld van het freemium model: de basis versie van de applicatie is gratis. Daarna kunnen gebruikers tegen betaling verschillende versies met meer functionaliteiten aanschaffen door middel van een jaarlijks abonnement.
 
 ---

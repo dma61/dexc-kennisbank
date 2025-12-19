@@ -6,8 +6,6 @@ categories: ["eHerkenning"]
 question_id: 992747
 ---
 
-# Hoe werkt eHerkenning?
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627390830760-img4.jpg)
 
 ### Werking eHerkenning

@@ -6,8 +6,6 @@ categories: ["Gegevensstandaarden"]
 question_id: 1513945
 ---
 
-# Gegevenstandaarden Introductie
-
 **Waarom zijn gegevensstandaarden nodig?**
 
 Financiële dienstverleners wisselen gegevens uit met hun klanten, met andere (financiële) dienstverleners en databronnen. Berichten bestaan uit een set gegevens die we bij digitale communicatie uitwisselen. Een bericht heeft de bedoeling bepaalde informatie over te dragen van een zender naar een ontvanger. Om deze gegevens uit berichten - zonder menselijke tussenkomst - te verwerken zijn afspraken nodig:

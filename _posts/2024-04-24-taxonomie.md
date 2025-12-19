@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 2529560
 ---
 
-# Taxonomie
-
 In een taxonomie worden gegevens, hun definitie en hun onderlinge samenhang gedefinieerd, inclusief de eisen die daarop van toepassing zijn. 
 
 Gegevens in een bronbestand, zoals bijvoorbeeld een bedrijfsadministratie, kunnen worden gekoppeld aan een taxonomie, waardoor gegevens op eenvoudige wijze kunnen worden (her)gebruikt voor verschillende soorten rapportages aan uitvragende partijen, zoals overheidsinstellingen, toezichthouders en banken.

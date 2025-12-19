@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533690
 ---
 
-# Cross-sectoraal datadelen
-
 De [Data Sharing Coalition](https://datasharingcoalition.eu/nl/) (DSC) is een open internationaal initiatief waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. Het initiatief is in januari 2020 gestart nadat het ministerie van Economische Zaken en Klimaat de markt uitnodigde om de samenwerking op te zoeken voor het cross-sectoraal delen van data. Het doel van de Data Sharing Coalition is het stimuleren van cross-sectoraal delen van data onder controle van de rechthebbende(n) door het realiseren van interoperabiliteit tussen datadeelinitiatieven en het versterken van individuele initiatieven. 
 
 Gestreefd wordt naar generieke afspraken op het gebied van bijvoorbeeld: 

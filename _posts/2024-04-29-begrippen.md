@@ -7,8 +7,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 2537850
 ---
 
-# Begrippen
-
 [Tabel - zie origineel]
 
 ---

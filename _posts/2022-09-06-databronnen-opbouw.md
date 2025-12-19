@@ -6,8 +6,6 @@ categories: ["Databronnen"]
 question_id: 1500629
 ---
 
-# Opbouw Databronnen
-
 **Samenhang met andere onderdelen kennisbank**
 
 In het onderdeel Services ligt het accent op diensten van dienstverleners. Diensten in het verlengde van Datauitwisseling. In dit onderdeel Databronnen leggen we de nadruk op de databronnen zelf.

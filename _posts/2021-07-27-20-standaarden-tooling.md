@@ -6,8 +6,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 993213
 ---
 
-# Standaarden & Tooling
-
 [Tabel - zie origineel]
 
 ---

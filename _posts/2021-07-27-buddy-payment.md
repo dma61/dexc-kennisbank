@@ -6,8 +6,6 @@ categories: ["Tools bij schuldhulpverlening en voorkomen van schulden"]
 question_id: 993089
 ---
 
-# Buddy Payment
-
 Buddy Payment  is een internetbankieren applicatie die is gemaakt om mensen te helpen met hun bankzaken. De Buddy app geeft een overzicht van de financiële situatie van de gebruiker, scheidt vaste kosten van leefgeld en geeft financiële tips. De gebruikers kunnen zelf hun gegevens vanuit de banken en schuldeisers in de applicatie laden. Buddy is ontstaan vanuit een samenwerking tussen gemeentes en de Rabobank. 
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627401426247-1627401426247.png)

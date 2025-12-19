@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1525697
 ---
 
-# Personal Data Storage (PDS)
-
 Met services voor persoonlijke gegevensopslag kan een persoon zijn belangrijkste persoonlijke gegevens op een veilige en gestructureerde manier opslaan en beheren. Ze geven de persoon een centraal controlepunt voor zijn persoonlijke informatie. 
 
 Persoonlijke data opslag maakt het mogelijk om data van verschillende data aanbieders (inclusief data die een zelf creëert) samen te brengen in een persoonlijke datakluis (‘’personal cloud’’) die onder controle staat van het individu. Elk initiatief gebruikt zo zijn eigen manier, maar data van de ene operator kan een consument nog niet zomaar bij een andere operator opslaan.

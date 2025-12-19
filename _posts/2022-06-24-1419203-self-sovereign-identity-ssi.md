@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1419203
 ---
 
-# Self Sovereign Identity (SSI)
-
 **Wat is het?**
 SSI is een [digitale identiteit](https://livebook.manning.com/book/self-sovereign-identity/chapter-2/v-1/89) waarbij de gebruiker en diens privacy centraal staat. De gebruiker kan met SSI zelf zijn identiteit bewaren in een soort digitale portefeuille. Het gaat hierbij om gegevens over iemands identiteit, maar ook bijvoorbeeld over een diploma of een registratie bij de Kamer van Koophandel. Dit worden ook wel ‘verklaringen’ genoemd, die zijn gekoppeld aan een specifieke persoon, via een digitale identiteit. Deze verklaringen worden eenmalig digitaal ondertekend door bijvoorbeeld de overheid, banken, werkgevers, verzekeraars. 
 

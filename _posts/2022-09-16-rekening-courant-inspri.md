@@ -6,8 +6,6 @@ categories: ["Standaarden ► B2B (keten)"]
 question_id: 1515502
 ---
 
-# Rekening-courant (INSPRI)
-
 **Rekening-courant**
 
 In de rekening-courant worden de financiële gevolgen van de samenwerking tussen intermediair en verzekeraar/serviceprovider geregistreerd. Alle vorderingen die over en weer tijdens de samenwerking ontstaan, zijn terug te vinden in de rekening-courant. Het is daardoor te vergelijken met een bankrekening, waarbij de verzekeraar/serviceprovider fungeert als bank. De rekening wordt dagelijks bijgewerkt. Slechts één keer per maand wordt een rekeningafschrift verstuurd. 

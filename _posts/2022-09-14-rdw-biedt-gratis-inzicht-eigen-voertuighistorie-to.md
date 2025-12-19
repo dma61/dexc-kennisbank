@@ -6,8 +6,6 @@ categories: ["Oplossingen ► Particuliere klant"]
 question_id: 1512514
 ---
 
-# RDW biedt gratis inzicht (eigen) voertuighistorie tot negen jaar terug
-
 De RDW maakt het sinds juni 2022 mogelijk om met gebruikmaking van je DigiD de informatie in te zien die de [RDW](https://www.rdw.nl/particulier/voertuigen/auto/uw-persoons--en-voertuiggegevens/uw-voertuiggegevens-bij-de-rdw/mijn-voertuigen-bekijken) bezit over jouw auto en de gegevens van jouw rijbewijs.
  Direct na inloggen kan je een overzicht printen met onder meer de volgende gegevens: 
 

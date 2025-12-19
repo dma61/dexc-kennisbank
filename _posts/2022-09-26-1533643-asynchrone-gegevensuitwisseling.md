@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533643
 ---
 
-# Asynchrone gegevensuitwisseling
-
 Asynchrone gegevensuitwisseling betreft Machine – Machine interactie waarbij een toepassing van de verzender (Machine) op een onafhankelijk tijdstip van de ontvanger een bericht klaarzet en de toepassing van de ontvanger (Machine) op een onafhankelijk tijdstip van de verzender het bericht ophaalt. 
 
 We kennen ook processen waar het synchrone aspect niet ingevuld kan worden (autonome mutaties, bijvoorbeeld door slapende deelnemers in de BRP) of hoeft te worden (pensioenaangiften). Ook is sprake van situaties waarin asynchrone afhandeling de voorkeur heeft in verband met de lagere proceskosten (koppeling tussen omgevingen waarbij sprake is van uitwisseling van grote aantallen documenten, bijvoorbeeld UPO’s). Deze asynchrone procesvoering wordt om efficiency redenen vaak ondersteund door een message broker.

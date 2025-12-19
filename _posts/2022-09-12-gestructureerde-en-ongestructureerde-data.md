@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1508156
 ---
 
-# Gestructureerde en ongestructureerde data
-
 Ongestructureerde data betreft data die geen specifiek format volgen. Gestructureerde data zijn gegevens die in een database worden opgeslagen. Een database is volgens [Oracle](https://www.oracle.com/nl/database/what-is-database/) een georganiseerde verzameling gestructureerde informatie of data, die doorgaans elektronisch wordt opgeslagen in een computersysteem.  
 Ongestructureerde data is moeilijk te classificeren, voorbeelden zijn: 
 

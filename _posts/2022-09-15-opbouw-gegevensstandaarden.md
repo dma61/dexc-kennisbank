@@ -6,8 +6,6 @@ categories: ["Gegevensstandaarden"]
 question_id: 1513958
 ---
 
-# Opbouw Gegevensstandaarden
-
 **Wetgeving**
 
 In de financiële sector is veel wetgeving van toepassing. Het is niet relevant deze hier uitgebreid te gaan bespreken. Deze [wetgeving](https://www.joho.org/nl/hoe-zijn-verzekeringen-bij-wet-geregeld-chapter-1) heeft invloed op de betekenis van begrippen die in gegevenswoordenboeken worden gebruikt. Een paar voorbeelden maken dit duidelijk. 

@@ -6,8 +6,6 @@ categories: ["Onduidelijk wat hier de bedoeing van was"]
 question_id: 993003
 ---
 
-# Gekwalificeerde Handtekening
-
 Dit is een elektronische handtekening met een gekwalificeerd certificaat. Zo'n certificaat hoort bij een digitale code die afzenders aan hun bericht toevoegen. Er zijn speciale organisaties die certificaten uitgeven, de zogeheten certificatiedienstverleners.  Agentschap Telecom controleert de certificatiedienstverleners. Deze handtekeningen zijn altijd rechtsgeldig. Een gekwalificeerde elektronische handtekening is juridisch gelijk aan een gewone handtekening.
 
 De gekwalificeerde elektronische handtekening :

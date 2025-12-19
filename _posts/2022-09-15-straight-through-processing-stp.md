@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1513975
 ---
 
-# Straight Through Processing (STP)
-
 **STP voor betalingen en effectenhandel**
 
 Aanvankelijk is STP vooral toegepast voor [betalingen en effectenhandel](https://www.investopedia.com/terms/s/straightthroughprocessing.asp). Geavanceerde automatisering vermindert arbeidsintensieve taken, verkort handmatige verwerkingstijden en helpt bedrijven om meer efficiëntie te bereiken, terwijl we tegelijkertijd de kosten verlagen en de nauwkeurigheid van processen verbeteren. Dit is over het algemeen mogelijk door middel van Straight Through Processing (STP). STP is een volledig automatisch proces voor het uitvoeren van financiële transacties zonder handmatige invoer. 

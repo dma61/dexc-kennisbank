@@ -6,8 +6,6 @@ categories: ["Standaarden ► B2B (keten)"]
 question_id: 1515487
 ---
 
-# All Finance Datacatalogus (AFD)
-
 **Inleiding**
 
 Het AFD richt zich in de meest ruime zin op het verzekeringsdomein. Ontstaan vanuit het Assurantie Data Netwerk in 1990 is het AFD uitgegroeid tot een zeer brede standaard. Het AFD bevat duizenden definities van gegevens. Binnen alle verzekeringsdomeinen zetten nagenoeg alle partijen binnen de keten de standaard in.

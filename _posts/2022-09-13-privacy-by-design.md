@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1510383
 ---
 
-# Privacy by Design
-
 ### Inleiding
 Privacy by Design en Privacy by Default houden in dat ontwikkelaars bij de ontwikkeling van producten en diensten meteen al rekening houden met het waarborgen van privacy; ze moeten de passende technische en organisatorische maatregelen en ook dataminimalisatie toepassen. Aan de ene kant dus door ontwerp, zowel technisch als procedureel. Aan de andere kant door middel van standaardinstellingen.  
 

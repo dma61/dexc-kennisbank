@@ -6,8 +6,6 @@ categories: ["Planningstools"]
 question_id: 993059
 ---
 
-# Financiële planningstools verzekeraars
-
 Verschillende verzekeraars en banken bieden hun klanten vormen van financiële planningtools. Naast Zwitserleven en Knab, zijn dat onder meer:
 
 - ING Pensioenwijzer;

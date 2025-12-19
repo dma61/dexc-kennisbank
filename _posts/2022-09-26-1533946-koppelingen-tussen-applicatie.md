@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1533946
 ---
 
-# Koppelingen tussen applicatie
-
 Koppelen is vanzelfsprekend omdat alle softwarepakketten wel een of meer koppelingen hebben met andere applicaties. Via deze koppelingen vindt uitwisseling plaats van gegevens en documenten.
 
 #### Faster Forward

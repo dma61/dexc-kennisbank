@@ -6,8 +6,6 @@ categories: ["Oplossingen  ► particuliere klant"]
 question_id: 1525840
 ---
 
-# Operators (regietoepassingen)
-
 ### Dappre
 [Dappre](https://dappre.com) is een mobiele app waarin we loyalty- en cadeaukaarten kunnen opslaan. Het is ook mogelijk in de Dappre App een kaartje aan te maken en daarop persoonsgegevens in te vullen. Gebruikers kiezen daarbij zelf of en welke persoonsgegevens zij voor welk doel met wie willen delen en voor hoelang. Dappre is ontstaan vanuit [Digital Me](https://digital-me.nl/) en is ook gebaseerd op de Qiy Trust Principles. Dappre is operationeel en focust zich op de Europese markt van de consumenten sector.
 

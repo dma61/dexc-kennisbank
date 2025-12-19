@@ -6,8 +6,6 @@ categories: ["Oplossingen ► particuliere klant", "Oplossingen ► B2B (keten)"
 question_id: 1533804
 ---
 
-# Ockto Brondata Service
-
 Via de Ockto Brondata Service (OBS) kan de consument zijn data veilig delen met verschillende partijen binnen de hypotheekketen.** **In het aanvraagtraject van een hypotheek zorgt OBS ervoor dat geldverstrekkers zelf bepaalde brondata en documenten kunnen ophalen, zonder dat deze door de adviseur aangeleverd hoeven te worden. 
 
 [Ockto](https://www.ockto.nl/hypotheekverstrekkers_brondata_service/) vermeldt welke documenten bij welke aanbieder komen te vervallen.

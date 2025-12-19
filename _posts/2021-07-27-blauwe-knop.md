@@ -6,8 +6,6 @@ categories: ["Operators (regietoepassingen)"]
 question_id: 993029
 ---
 
-# Blauwe Knop
-
 De [Blauwe Knop](https://www.vngrealisatie.nl/producten/blauweknop) was een initiatief dat is ontstaan vanuit het Kloosterhoeveberaad, met als doel mensen meer regie te geven op hun eigen gegevens. Het gaat hierbij om gege![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627400062744-1627400062744.png)vens waar uitvoerders en gemeentes over beschikken (zoals diplomagegevens, kentekengegevens of NAW-gegevens). VNG Realisatie trekt dit initiatief samen met andere uitvoerders. Het Nederlandse programma is geïnspireerd door het ['Blue Button Initiative](https://www.healthit.gov/topic/health-it-initiatives/blue-button)' voor het downloaden van zorggegevens in de VS. Daar is de ‘Blue Button’ ingezet voor burgers om te zorgen dat zij zorggegevens (zoals medische historie, overzichten van vaccinaties) overzichtelijk in kunnen zien en delen met zorgverleners of bij het wisselen van zorgverzekering.
 
 ***Het beoogde groeipad***

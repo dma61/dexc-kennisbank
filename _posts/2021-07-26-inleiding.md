@@ -6,8 +6,6 @@ categories: []
 question_id: 992246
 ---
 
-# Inleiding
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627342153123-1627342153123.png)
 
 De Algemene verordening gegevensbescherming (AVG) gaat over het rechtmatig omgaan met persoonsgegevens. De AVG is de Nederlandse implementatie van de Europese verordening GDPR (General Data Protection Regulation) en is vanaf 25 mei 2018 van toepassing. De belangrijkste regels voor omgang met persoonsgegevens zijn hierin vastgelegd. 

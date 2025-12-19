@@ -6,8 +6,6 @@ categories: ["Oplossingen ► Zakelijke klant"]
 question_id: 1512584
 ---
 
-# DATA-collectief
-
 Het [DATA-collectief](https://www.datacollectief.nl/) omvat de gegevens van alle bedrijven en organisaties in Nederland, in totaal zo’n 2,7 miljoen. Daarnaast zijn ook de 3,6 miljoen contactpersonen behorend bij die bedrijven opgenomen.
 
 ---

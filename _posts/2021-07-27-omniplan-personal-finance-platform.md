@@ -6,8 +6,6 @@ categories: ["Planningstools"]
 question_id: 993061
 ---
 
-# Omniplan Personal Finance Platform
-
 Het [Personal Finance Platform](https://www.omniplan.nl/personal-finance-platform/) stelt adviseurs in staat consumenten financieel inzicht te bieden. Hiertoe zijn via Ockto onder meer verschillende externe databronnen ontsloten (MijnOverheid, MijnPensioenoverzicht, kadaster, UWV etc.).
 
 ---

@@ -6,8 +6,6 @@ categories: ["Transport"]
 question_id: 1533588
 ---
 
-# Transport Introductie
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1664172237054-1664172237054.png)
 
 Bovenstaande figuur laat zien wat komt kijken als we een AFD-bericht – gebaseerd op de gegevensstandaard van SIVI – willen versturen via Internet. Allereerst stelt het All Finance Datacatalogus eisen aan de wijze waarop we de gegevens structureren en aan de opmaak. Een datum van 1 juli 2022 geven we bijvoorbeeld weer als 20220701; de lexicografische volgorde voor datumnotatie conform ISO 8601 zonder opmaak symbolen. De data verpakken we volgens een gekozen syntax en dan kiezen we voor een bepaalde wijze van verzenden.

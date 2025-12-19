@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1512596
 ---
 
-# Databron oplossingen B2B
-
 Het combineren van interne eigen data met extern beschikbare data zijn voor de verdere uitbouw van de benutting van data in het verzekeringsdomein randvoorwaarde. Steeds meer data komen vrij beschikbaar onder de noemer Open Data. Overheden, semioverheden en zelfs commerciële organisaties bieden gratis of tegen beperkte vergoeding datasets aan. Veel (semi-)overheidsinstellingen leveren vanuit de eigen processen naast open data ook data tegen betaling. Het verschil zit deels in de actualiteit en toegankelijkheid van de data. Daarnaast zijn er meer specialistische datasets of datasets met een specifieke doelbestemming waarop toezicht moet plaatsvinden. Commerciële datasets kunnen als aanvulling op bovenstaande datasets zeer waardevol zijn.
 
 ---

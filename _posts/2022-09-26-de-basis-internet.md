@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533617
 ---
 
-# De basis: Internet
-
 Digitale datadragers zijn onder meer cd’s, data-tapes, diskettes, Dvd’s, geheugenkaarten en USB sticks. Digitaal transport van data loopt echter veelal via Internet. Daarom loont het de moeite dit uit te leggen door de belangrijkste protocollen en standaarden kort te bespreken.
 
 **Wat is het Internet?**

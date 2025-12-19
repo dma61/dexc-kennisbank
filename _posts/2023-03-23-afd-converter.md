@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1869808
 ---
 
-# AFD Converter
-
 ### Inleiding
 Wie in de verzekeringswereld kijkt naar de keten van intermediairs, serviceproviders en aanbieders, ziet dat de keten een enorme sprong voorwaarts heeft gemaakt in de kwaliteit en de snelheid van de processen door de het gebruik van de **SIVI standaard AFD 1.0**. In 2020 heeft **SIVI de nieuwe SIVI All Finance Standaard (SIVI AFS)** geïntroduceerd. Als onderdeel van SIVI AFS is **AFD 2.0** geïntroduceerd als opvolger van AFD 1.0. Een nieuwe versie brengt altijd voordelen met zich mee, of het nu gaat om functionaliteit dan wel om technische verbeteringen. Maar een migratie van de oude naar de nieuwe wereld vraagt ook altijd een flinke inspanning van een organisatie. Zeker als het om specialistisch werk gaat is het goed om de juiste spelers bij het traject te betrekken. 
  

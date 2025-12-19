@@ -6,8 +6,6 @@ categories: ["Standaarden ► B2B (keten)"]
 question_id: 992911
 ---
 
-# AFD Definitie Standaard
-
 De [AFD-definitie Standaard](https://www.sivi.org/standaarden/afd-definitie-standaard/) richt zich op het uniformeren van verschillende aspecten rond de definities van services en/of producten. Hiermee kunnen zowel de opslag van data als het berichtverkeer in de keten, op eenduidige wijze plaatsvinden. De AFD-definitie Standaard is dan ook ontwikkeld en bedoeld voor álle partijen in de verzekeringsketen.
 
 De AFD-definitie Standaard richt zich op twee dimensies waarin productdefinities een grote rol spelen: Registraties en Services. Bij Registraties gaat het om hoe gegevens opgeslagen worden in de database. Bij Services gaat het om het gebruik van functies; hoe deze aangeroepen worden en wat het resultaat is.

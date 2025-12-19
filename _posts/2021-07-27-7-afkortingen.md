@@ -7,8 +7,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 993190
 ---
 
-# Afkortingen
-
 [Tabel - zie origineel]
 
 ---

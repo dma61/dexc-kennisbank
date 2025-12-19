@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1488981
 ---
 
-# Online identificeren
-
 Ockto schreef een [whitepaper](https://www.ockto.nl/online-identificatie-met-ocktoid/) over het online identificeren van klanten, met name met het oog op compliance. De verschillende methoden kunnen we ook inzetten bij registreren van personen bij een dienstverlener die authenticatiemiddelen verstrekt. Vooral vanuit perspectief van kosten en gemak is dit aantrekkelijk ten opzichte van controles als de persoon in levenden lijve verschijnt. Hierna volgt een korte opsomming van de besproken methoden. Ockto geeft in haar whitepaper ook een beeld van de voordelen en nadelen.
 
 **Electronic Identity Verification (eIDV)**

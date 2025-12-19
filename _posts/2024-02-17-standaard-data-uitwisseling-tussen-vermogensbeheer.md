@@ -6,8 +6,6 @@ categories: ["Gegevensstandaarden"]
 question_id: 2416215
 ---
 
-# Standaard Data-uitwisseling tussen Vermogensbeheer en Pensioenuitvoering
-
 **Onderzoek**
 
 Begin september 2023 verscheen het eindrapport ‘’[Resultaten onderzoek: Standaard voor datauitwisseling pensioenuitvoering & vermogensbeheer partijen](https://www.pensioenfederatie.nl/cms/streambin.aspx?documentid=18380)’’.

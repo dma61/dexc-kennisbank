@@ -6,8 +6,6 @@ categories: ["Oplossingen ► Zakelijke klant"]
 question_id: 2529502
 ---
 
-# Belangrijke databronnen voor pensioenuitvoerders
-
 # Overzicht
 Onderstaande figuur laat zien van wie pensioenuitvoerders data ontvangen en aan wie pensioenuitvoerders data leveren.
 

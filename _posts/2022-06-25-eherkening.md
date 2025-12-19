@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)", "Oplossingen ► zakelijke klant"]
 question_id: 1419854
 ---
 
-# eHerkenning
-
 De leveranciers van middelen staan [hier](https://www.eherkenning.nl/leveranciersoverzicht). 
 De makelaars staan [hier](https://www.eherkenning.nl/nl/contact#eherkenningsmakelaars).   
 

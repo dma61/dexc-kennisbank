@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)", "Oplossingen ► B2B (keten)"]
 question_id: 1533539
 ---
 
-# Volmachtbeheer Producten Interface (VPI)
-
 Vanaf 2006 werkte een aantal verzekeraars onder leiding van (destijds) Colimbra samen onder de noemer VPI. Met het ontwikkelen van een gezamenlijk platform voor de hosting van services en het maken van gezamenlijke afspraken met systeemhuizen sloten alle verzekeraars aan en was één platform voor VPI een feit.
 
 **Waarom is de VPI ontwikkeld? **

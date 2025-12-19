@@ -6,8 +6,6 @@ categories: []
 question_id: 1015080
 ---
 
-# Concept greenpaper upa 1.03
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/1413003/Concept_greenpaper_upa_1.03_-_Attachment_1)![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/1413004/Concept_greenpaper_upa_1.03_-_Attachment_2)
 March 2019
 

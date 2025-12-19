@@ -6,8 +6,6 @@ categories: []
 question_id: 992928
 ---
 
-# UPA biedt veel voordelen
-
 Dankzij de UPA wordt de pensioenpremie op het juiste moment geïnd en belegd. Voorschotnota’s en nacalculaties zijn niet meer nodig. Door betere gegevenskwaliteit zorgt de UPA voor lagere uitvoeringskosten en een verbeterde pensioenuitvoering. Ook het versturen van verplichte deelnemerscorrespondentie is mede afhankelijk van de tijdige beschikbaarheid van deelnemersgegevens. 
 
 Doordat de UPA alle aan te geven gegevens van alle werknemers van een werkgever bevat wordt handhaving eenvoudiger.

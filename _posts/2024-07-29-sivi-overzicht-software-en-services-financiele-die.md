@@ -6,8 +6,6 @@ categories: []
 question_id: 2698638
 ---
 
-# SIVI-overzicht software en services financiële dienstverlening
-
 [Tabel - zie origineel]
 
 ---

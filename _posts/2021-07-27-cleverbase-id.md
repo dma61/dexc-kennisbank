@@ -6,8 +6,6 @@ categories: ["Oplossingen ► particuliere klant"]
 question_id: 992666
 ---
 
-# Cleverbase ID
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627387002023-1627387002023.png)
 
 Cleverbase is een Qualified Trust Service Provider (QTSP – een begrip uit de eIDASverordening) en geeft digitale identiteiten en middelen uit voor het zetten van gekwalificeerde elektronische handtekeningen en staat onder toezicht van het Agentschap Telecom.

@@ -6,8 +6,6 @@ categories: ["eHerkenning"]
 question_id: 992738
 ---
 
-# Wat zijn de belangrijkste voordelen van eHerkenning?
-
 De belangrijkste voordelen van eHerkenning zijn:
 
 - eHerkenning is de facto de standaard voor zakelijke authenticatie in heel Nederland, ook buiten de verzekeringsbranche. Vooral voor gebruikers is dit een groot voordeel: zij zullen veelal sowieso een eHerkenningsmiddel moeten aanschaffen om gebruik te maken van diensten van de Belastingdienst, UWV en overheidsinstellingen. 

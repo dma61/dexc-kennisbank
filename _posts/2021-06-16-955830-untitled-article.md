@@ -7,8 +7,6 @@ categories: []
 question_id: 955830
 ---
 
-# PSD2
-
 *Geen inhoud beschikbaar.*
 
 ---

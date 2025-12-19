@@ -6,8 +6,6 @@ categories: ["Oplossingen  ► particuliere klant"]
 question_id: 1533574
 ---
 
-# Oplossingen particuliere klant
-
 De opgenomen toepassingen zijn vooral gericht op financiële processen (al dan niet met een rol voor financiële adviseurs)
 
 ### [Operators (regietoepassingen)](https://kennisbank.dexc.nl/nl_NL/operators-regietoepassingen)

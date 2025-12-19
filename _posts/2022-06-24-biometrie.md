@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1419214
 ---
 
-# Biometrie
-
 **Wet- en regelgeving**
 Het toepassen van biometrie en het verwerken van biometrische gegevens (bijzondere persoonsgegevens) kent uitgebreide wet- en regelgeving. Denk aan de paspoort- en rijbewijzenwet waarin wordt gesteld hoe vingerafdrukken, pasfoto’s en handtekeningen worden afgenomen en verwerkt. Opslag ervan vindt plaats op de chip van het identiteitsdocument. 
 

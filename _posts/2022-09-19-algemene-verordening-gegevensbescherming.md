@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1517445
 ---
 
-# Algemene Verordening Gegevensbescherming
-
 Voor iedere verwerking van persoonsgegevens moet een grondslag zijn. Gegevens mogen niet worden verwerkt tenzij er ten minste één wettelijke basis is om dit te doen:
 
 - De betrokkene heeft **toestemming** gegeven voor de verwerking van persoonsgegevens voor een of meer specifieke doeleinden.

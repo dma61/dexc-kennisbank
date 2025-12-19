@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1525356
 ---
 
-# Open Finance
-
 Open Finance is een datadeel model waarmee mensen hun financiële data met derden kunnen delen. Het is de volgende stap na [Open Banking](https://www.dfbonline.nl/begrip/22323/open-banking). Deze beweging stelde de regels vast waarmee individuen hun bankgegevens met derden kunnen delen via API's 
 
 Open Finance breidt het bereik van dit concept uit naar meer databronnen. Het bevat bijvoorbeeld gegevens van belastingautoriteiten, verzekeringen, pensioenfondsen of zelfs nutsbedrijven zoals elektriciteitsbedrijven, die we dankzij dit model ook toegankelijk maken en verrijken om nieuwe financiële producten te bouwen. 

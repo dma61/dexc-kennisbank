@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1533613
 ---
 
-# Wet gegevensverwerking door samenwerkingsverbanden
-
 **Waarom relevant?**
 
 Dit wetvoorstel raak met name de uitwisseling tussen overheidsinstanties en de totstandkoming geeft een goed beeld van de gevoeligheden rond het uitwisselen van persoonsgegevens.

@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533661
 ---
 
-# Formaten voor gegevensuitwisseling
-
 De meest algemeen aanvaarde formaten voor gegevensuitwisseling zijn: XML, CSV, JSON. 
 
 Deze formaten bespreken we hierna. Daarna gaan kort in op EDIFACT. Dit formaat is nog steeds in gebruik voor het uitwisselen van ADN-berichten. 

@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 1488940
 ---
 
-# Sanctiewet
-
 Een financiële dienstverlener moet volgens deze [wet](https://wetten.overheid.nl/BWBR0003296/2015-01-01) controleren of klanten op deze lijsten staan:
 
 - de Engelstalige Europese sanctielijst (bevriezingslijst)

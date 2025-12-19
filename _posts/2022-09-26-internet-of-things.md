@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533784
 ---
 
-# Internet Of Things
-
 Het Internet der Dingen (IoT) is een ontwikkeling waarbij vele apparaten en objecten op een eenvoudige en goedkope manier met elkaar kunnen communiceren. Deze ontwikkeling is mogelijk gemaakt door de miniaturisering van elektronische componenten zoals zender-ontvanger-combinaties en batterijen, de opkomst van het internet en communicatieafspraken. Edge computing is een manier om dataverkeer van IoT-apparaten te stroomlijnen en om lokale data-analyses real-time aan te bieden. ** **
 
 **Kansen voor verzekeraars**

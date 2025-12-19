@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1513971
 ---
 
-# Gegevenswoordenboeken
-
 **Gegevenswoordenboek**
 
 In diverse domeinen van de financiële sector maken organisaties afspraken om te komen tot eenduidige gegevensbeschrijvingen. Deze sets met eenduidige beschrijvingen vallen onder de brede noemer 'gegevenswoordenboek.' Andere termen voor gegevenswoordenboeken zijn: informatiemodellen, vocabulaires, thesauri, taxonomieën, tabellenboeken, ontologieën en registers. Duidelijk moet zijn wat we bedoelen als het over bepaald gegevenswoordenboek gaat: wat staat er wel in, wat niet? Voor welk doel is het samengesteld, op welk detailniveau en wat kunnen we er dus wel en niet mee? Een voorbeeld van een gegevenswoordenboek is de All Finance Datacatalogus van SIVI.

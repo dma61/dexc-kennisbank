@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1533566
 ---
 
-# HippoLine Insurance Platform (HIP)
-
 Voor klanten van ANVA bouwde Hippoline het [HippoLine Insurance Platform](https://web.axians.nl/referenties/pggm-op-weg-naar-een-moderne-data-delivery-infrastructure/) (HIP) een oplossing voor managementinformatie. De apps op het [HIP platform](https://www.hippoline.nl/hip/) zijn verdeeld over tien thema’s, elk specifiek voor het verkrijgen van waardevolle inzichten in een deel van het assurantiebedrijf. De tien thema’s zijn: portefeuille, financieel, schade, resultaat, polis operationeel, commercieel operationeel, acceptatie operationeel, schade operationeel, concern totaal en beheer. Aan de applicaties op HIP kan een adviseur externe databronnen koppelen, zoals bijvoorbeeld de financiële administratie (Twinfield, Afas, Multivers, Exact e.a.).
 
 ---

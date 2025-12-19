@@ -6,8 +6,6 @@ categories: ["Services"]
 question_id: 1516243
 ---
 
-# Opbouw Services
-
 **Wetgeving**
 
 Veel wetgeving is al besproken bij de onderdelen Databronnen, Toegang, Transport en Gegevensstandaarden. Het voert daarom te ver deze hier nogmaals uitgebreid te gaan bespreken. 

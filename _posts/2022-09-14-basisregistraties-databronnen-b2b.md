@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1512598
 ---
 
-# Gebruik basisregistraties
-
 Onder bepaalde voorwaarden kunnen private partijen in de financiële sector gebruik maken van de [basisregistraties](/_questions/1510416) van de overheid; bijvoorbeeld pensioenuitvoerders kunnen gebruik maken van de BRP.
 
 **Recente ontwikkeling**

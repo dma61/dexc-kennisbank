@@ -6,8 +6,6 @@ categories: ["Standaarden ►zakelijke klant"]
 question_id: 1515358
 ---
 
-# Loonaangifte
-
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1663338550066-Loonaangifte.png)
 
 # **Loonaangifteketen**

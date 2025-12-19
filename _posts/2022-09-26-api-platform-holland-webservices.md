@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1533935
 ---
 
-# API-platform Holland Webservices
-
 Holland Webservices levert een [API-platform](https://www.hollandwebservices.nl/nl/#webservices-api-s) met Hypotheek API’s en Hypotheek Rente API’s.
 
 ---

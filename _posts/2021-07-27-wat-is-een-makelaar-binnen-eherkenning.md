@@ -6,8 +6,6 @@ categories: ["eHerkenning"]
 question_id: 992740
 ---
 
-# Wat is een makelaar binnen eHerkenning?
-
 De eHerkenningsmakelaar helpt de online dienstverlener (verzekeraar, serviceprovider etc.) bij de aansluiting op eHerkenning. Er zijn 5 makelaars, allemaal erkend door de Rijksoverheid. Zij voldoen allemaal aan dezelfde strenge eisen en leveren dezelfde standaard. Zij onderscheiden op een aantal aspecten. Alle eHerkenningsmakelaars hebben koppelingen met alle erkende leveranciers van inlogmiddelen. De makelaars staan op: [www.eherkenning.nl](//www.eherkenning.nl).
 
 ---

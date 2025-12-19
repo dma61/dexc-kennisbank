@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 2529501
 ---
 
-# Elektronische Handtekening
-
 # Inleiding
 Elektronische handtekeningen worden vaak geïntegreerd in elektronische gegevensuitwisselingssystemen om de juridische geldigheid en beveiliging van digitale documenten te waarborgen. Door elektronische handtekeningen te gebruiken bij het elektronisch uitwisselen van gegevens, kunnen partijen vertrouwen hebben in de identiteit van de afzender en de integriteit van de ontvangen informatie. Elektronische handtekeningen vormen dus en aanvullende laag van beveiliging en vertrouwen in het proces van elektronische gegevensuitwisseling, waardoor organisaties efficiënter kunnen werken in een digitale omgeving.
 

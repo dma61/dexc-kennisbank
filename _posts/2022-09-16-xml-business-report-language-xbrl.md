@@ -6,8 +6,6 @@ categories: ["Standaarden ►zakelijke klant"]
 question_id: 1515459
 ---
 
-# XML Business Report Language (XBRL)
-
 XML Business Report Language (XBRL) is de open internationale standaard voor digitale bedrijfsrapportage. De standaard wordt beheerd door het XBRL International consortium. XBRL wordt over de hele wereld gebruikt, in meer dan vijftig landen. Inmiddels worden ieder jaar miljoenen 
 – digitale - XBRL-verslagen gerealiseerd ter vervanging en verbetering van de voormalige op papier gebaseerde rapporten.  
 

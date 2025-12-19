@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533654
 ---
 
-# Peer-to-peer gegevensuitwisseling
-
 [Peer-to-peer gegevensuitwisseling](https://nl.wikipedia.org/wiki/Peer-to-peer) (P2P) staat voor directe gegevensuitwisseling tussen partijen (het Engelse peer betekent gelijke), zonder dat een centrale partij nodig is voor zaken als routering, identificatie, authenticatie, autorisatie of tijdelijke opslag. 
 
 Moderne communicatie loopt meestal via internet (bellen, mailen, sms’en, videovergaderen) en biedt een peer-to-peer-ervaring, maar voor de meeste technieken zijn centrale partijen des te noodzakelijk. Voor tijdelijke opslag van mailberichten, voor adressering van gesprekken, voor notificaties van binnenkomende berichten. 

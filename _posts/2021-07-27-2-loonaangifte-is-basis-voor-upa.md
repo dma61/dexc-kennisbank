@@ -6,8 +6,6 @@ categories: []
 question_id: 992927
 ---
 
-# Loonaangifte is basis voor UPA
-
 Door de introductie van de Loonaangifte is een uniforme gegevensstandaard verplicht gesteld waaraan alle inhoudingsplichtigen moeten voldoen. Deze standaard is door de salarispartijen in de software ingebouwd. Voor de UPA is de Loonaangiftestandaard als basis genomen en is in nauw overleg met de sector een extra set gegevens vastgesteld die nodig is voor pensioenuitvoering. De Loonaangiftegegevens overlappen voor een groot deel met de voor de pensioenuitvoering benodigde gegevens. De van de Loonaangifteketen overgenomen standenwerkwijze en periodiciteit waarborgen de gegevenskwaliteit, doordat de tussen de standaarden “gedeelde” gegevens identiek worden gevuld vanuit de salarisadministratie. Door de overeenkomsten tussen UPA en de Loonaangifte is het voor salarissoftwareontwikkelaars eenvoudiger om aan te sluiten op de UPA.
 
 Een alternatief voor toepassing van de UPA is aansluiting op de Polisadministratie van UWV. Deze Polisadministratie wordt gevoed met de werknemersgegevens uit de Loonaangifte. De pensioenadministratie uitvoeren op basis van uitsluitend de Loonaangiftegegevens uit de Polisadministratie blijkt in de praktijk voor vrijwel alle bestaande pensioenregelingen niet mogelijk, omdat daarin voor die regeling benodigde gegevens ontbreken.

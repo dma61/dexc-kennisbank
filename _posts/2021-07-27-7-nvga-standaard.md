@@ -6,8 +6,6 @@ categories: ["Standaarden ► B2B (keten)"]
 question_id: 992922
 ---
 
-# NVGA Protocol
-
 Gevolmachtigden rapporteren aan volmachtgevers via een aantal van het [AFD afgeleide berichten](https://www.sivi.org/standaarden/nvga-standaard/):
 
 - NVGA File Financieel - financiële gegevens

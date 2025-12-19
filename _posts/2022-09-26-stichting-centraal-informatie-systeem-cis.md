@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1533537
 ---
 
-# Stichting Centraal Informatie Systeem (CIS)
-
 Stichting Centraal Informatie Systeem (CIS) is een stichting voor in Nederland werkzame verzekeringsmaatschappijen en beheert gegevens die voor haar deelnemende verzekeraars van belang kunnen zijn.  
 
 Door middel van een inzageverzoek stelt CIS deze gegevens beschikbaar voor u als consument. CIS stelt onder voorwaarden de registraties uit de CIS-databank ook beschikbaar aan haar deelnemende verzekeraars, gevolmachtigden en door het CIS-bestuur erkende organisaties.  

@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1500525
 ---
 
-# HDN: certificaten
-
 Om gebruik te kunnen maken van HDN is een [geldig certificaat](https://www.hdn.nl/platform/) vereist. Dit certificaat kun je aanvragen via de webapplicatie HDN Webcert. HDN maakt onderscheid tussen twee soorten certificaten, namelijk het Organisatie (master) certificaat en het Persoonlijk (sub) certificaat.  Het master certificaat is bedoeld voor beheerders binnen een organisatie. Zij kunnen doormiddel van dit certificaat één of meerdere subcertificaten voor andere medewerkers binnen hun organisatie aanvragen.
 
 ---

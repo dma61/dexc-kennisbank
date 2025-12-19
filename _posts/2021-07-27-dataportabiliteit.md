@@ -6,8 +6,6 @@ categories: ["Algemene Verordening Gegevensbescherming (AVG)"]
 question_id: 992558
 ---
 
-# Dataportabiliteit
-
 Artikel 20 van de Algemene Verordening Gegevensbescherming (AVG) introduceert het recht op dataportabiliteit. Het recht op dataportabiliteit (overdraagbaarheid van gegevens) houdt in dat de consument het recht heeft de persoonsgegevens “die hij aan een verwerkingsverantwoordelijke heeft verstrekt, in een gestructureerde, gangbare en machineleesbare vorm te verkrijgen”, en deze gegevens “aan een andere verwerkingsverantwoordelijke over te dragen, zonder daarbij te worden tegengewerkt door de verwerkingsverantwoordelijke aan wie de persoonsgegevens waren verstrekt”. Het doel van dit nieuwe recht is de positie van consumenten te versterken en hen meer controle over hun gegevens te geven. 
 
 De Europese Unie ziet het recht op dataportabiliteit als een belangrijk middel in de vrije stroom van persoonsgegevens binnen de EU. Het zou concurrentie in de hand moeten werken. Consumenten zouden makkelijker van dienstverlener kunnen veranderen, wat de ontwikkeling van nieuwe diensten binnen de digitale eenheidsmarktstrategie aanmoedigt. De consument heeft volgens Artikel 20 namelijk ook “het recht dat de persoonsgegevens, indien dit technisch mogelijk is, rechtstreeks van de ene verwerkingsverantwoordelijke naar de andere worden doorgezonden.”

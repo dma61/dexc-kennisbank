@@ -6,8 +6,6 @@ categories: ["Oplossingen ► Particuliere klant"]
 question_id: 1512520
 ---
 
-# Eisen aan de oplossingen van consumentendata leveranciers
-
 HDN levert diensten voor het digitaal ontsluiten van broninformatie voor de keten (consument, advieskanaal en aanbieder). Vanuit deze rol vereenvoudigt zij het acceptatie- en beheerproces van hypotheken, kredieten en verzekeringen en stelt HDN een aantal [eisen en randvoorwaarden](https://www.hdn.nl/wp-content/uploads/2021/06/20201105-Richtlijnen-voor-een-CDL-vs-11a-def.pdf) aan Consumenten Data leveranciers (CDL),
 
 **Definitie Consumenten Data Leverancier **

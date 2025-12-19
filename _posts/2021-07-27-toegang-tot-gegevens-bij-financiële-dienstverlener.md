@@ -6,8 +6,6 @@ categories: ["Toegang tot gegevens bij financiële dienstverleners"]
 question_id: 993105
 ---
 
-# Toegang tot gegevens bij financiële dienstverleners: Apps
-
 Apps bieden onder meer toegang tot klantmappen en bieden daarnaast andere functionaliteiten. Hierna volgt – aan de hand van voorbeelden - een beeld van apps die toegang geven tot gegevens bij een financiële dienstverleners. Het is niet de bedoeling om volledig te zijn.
 
 Apps die financieel inzicht en overzicht bieden over databronnen heen bespreken we bij Services.

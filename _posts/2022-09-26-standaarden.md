@@ -7,8 +7,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 1534124
 ---
 
-# Standaarden
-
 | Betreft | Toelichting |
 | --- | --- |
 | [AFD 1.0 gegevensstandaard](https://www.sivi.org/standaarden/gegevensstandaard/afd-downloads/) | [Introductie AFD - presentatie](https://www.sivi.org/introductie-afd-1-0/) |

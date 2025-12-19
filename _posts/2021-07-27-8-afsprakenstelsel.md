@@ -6,8 +6,6 @@ categories: ["Afsprakenstelsel"]
 question_id: 992992
 ---
 
-# Afsprakenstelsel
-
 Een afsprakenstelsel is een set aan specificaties, regels en afspraken die de governance van een systeem met meerdere partijen bepalen. Een afsprakenstelsel wordt gevormd vanuit een gemeenschappelijk doel, het is gemaakt om transacties tussen de groep deelnemers te faciliteren, onder de set van afgesproken requirements. 
 
 iDEAL en GSM zijn aansprekende voorbeelden van afsprakenstelsels voor betalen en mobiel telefoneren. Voordelen voor de consument:

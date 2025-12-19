@@ -7,8 +7,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 1419292
 ---
 
-# Overzichten
-
 | Betreft | Toelichting |
 | --- | --- |
 | [AVG kennisbank](https://privacyzeker.nl/avg-privacy-kennisbank/) | Deze kennisbank van Privacy Zeker bevat artikelen rondom de privacywetgeving en wordt regelmatig uitgebreid met nieuwe artikelen. |

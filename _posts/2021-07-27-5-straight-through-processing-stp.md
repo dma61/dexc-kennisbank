@@ -6,8 +6,6 @@ categories: ["Onduidelijk wat hier de bedoeing van was"]
 question_id: 993016
 ---
 
-# Straight Through Processing (STP)
-
 STP is de elektronische verwerking van processen waarbij de elkaar opvolgende administratieve handelingen plaatsvinden met zo min mogelijk menselijke tussenkomst.
 
 ---

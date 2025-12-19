@@ -6,8 +6,6 @@ categories: ["Algemene Verordening Gegevensbescherming (AVG)"]
 question_id: 992561
 ---
 
-# Evaluatie AVG
-
 Het beeld bij experts is dat het bewustzijn van privacy door de AVG is toegenomen . Zowel bij bedrijven als bij burgers. Bij de AP komen jaarlijks ruim 20.000 klachten binnen. Het bedrijfsmodel van de grote technologiebedrijven en datahandelaren is echter grotendeels ongemoeid gebleven. Zij verzamelen nog steeds data, combineren die tot profielen en verkopen die aan derde partijen voor advertenties. Een belangrijke oorzaak is dat de toezichthouders niet veel aan handhaving hebben gedaan. Serieuze boetes zijn op de vingers van één hand te tellen. De financiën en de slagkracht van 28 Europese toezichthouders zijn over het algemeen bescheiden. Privacydeskundigen maken zich ook zorgen over de centrale rol die toestemming speelt in de AVG. Als een consument eenmaal toestemming heeft gegeven, mag er veel. Maar is de doorsnee consument wel in staat tot een geïnformeerde keuze?
 
 - ‘Je kunt de verantwoordelijkheid voor een faire digitale maatschappij niet baseren op een systeem waar burgers toestemming moeten geven voor verwerkingen die ze niet begrijpen’

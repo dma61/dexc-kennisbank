@@ -6,8 +6,6 @@ categories: ["Kennisbank algemeen"]
 question_id: 1534131
 ---
 
-# Standaarden en Tooling
-
 | Betreft | Toelichting |
 | --- | --- |
 | [AFD Online samenstellen](https://www.sivi.org/afd-online-samenstellen/) | Eenvoudig AFD-definities samenstellenOm het gebruik van de AFD-definitie standaard te ondersteunen biedt SIVI de tool AFD Online Samenstellen (kosteloos) aan. De tool is zo ingericht dat aan de han... |

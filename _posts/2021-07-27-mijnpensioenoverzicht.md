@@ -6,8 +6,6 @@ categories: ["Operators (regietoepassingen)"]
 question_id: 993045
 ---
 
-# MijnPensioenoverzicht
-
 MijnPensi![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627400437060-1627400437060.png)oenoverzicht (MPO) biedt de deelnemer een overzicht van zijn gecumuleerde rechten op 1e en 2e pijler pensioen zoals dat vastligt bij de gezamenlijke Pensioenuitvoerders. De website kent elk jaar bezoek van 7,5 miljoen gebruikers die met DigiD of eIDAS inloggen.
 
 Het doel van MPO is om overzicht en (tijdig) inzicht voor de deelnemer te creëren zodat de deelnemer actie kan ondernemen. MPO en de bijbehorende helpdesk adviseert niet. Wel wijst MPO bij een potentieel AOW-tekort op de mogelijkheid om bij te verzekeren.  

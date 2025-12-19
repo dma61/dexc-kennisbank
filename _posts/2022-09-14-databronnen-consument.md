@@ -6,8 +6,6 @@ categories: ["Oplossingen ► Particuliere klant"]
 question_id: 1512243
 ---
 
-# Databronnen
-
 Onderstaande tabel laat voorbeelden zien van databronnen die voor consumenten belangrijk kunnen zijn.
 
 [Tabel - zie origineel]

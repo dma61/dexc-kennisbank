@@ -6,8 +6,6 @@ categories: ["Wetgeving"]
 question_id: 2527468
 ---
 
-# Verkenning Impact Concept Open Finance Act 18 december 2023
-
 ## Inhoud
 
 - 

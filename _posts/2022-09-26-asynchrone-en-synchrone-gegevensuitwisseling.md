@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1533640
 ---
 
-# Soorten gegevensuitwisseling
-
 We onderkennen 3 categorieën gegevensuitwisseling: 
 
 - machine to machine “direct”, 

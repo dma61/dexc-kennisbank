@@ -6,8 +6,6 @@ categories: ["Standaarden ►zakelijke klant"]
 question_id: 2529545
 ---
 
-# Standaard Datauitwisseling tussen Vermogensbeheer en Pensioenuitvoering
-
 **Inleiding**
 
 Beginseptember 2023 verscheen het eindrapport ‘’[Resultaten onderzoek: Standaard voor datauitwisselingpensioenuitvoering & vermogensbeheer partijen’’](https://www.pensioenfederatie.nl/cms/streambin.aspx?documentid=18380).

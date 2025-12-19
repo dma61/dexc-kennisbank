@@ -6,8 +6,6 @@ categories: ["Oplossingen ► zakelijke klant"]
 question_id: 1533809
 ---
 
-# Koppelingen Personeelsinformatie / Salarisadministratie
-
 Tussen bedrijven en afnemende partijen zijn diverse gestandaardiseerde vormen van berichtuitwisseling aan de orde. Hierbij is niet zo zeer de wijze van transport gestandaardiseerd, maar wel de functionaliteit/samenstelling van berichten.
 
 [Tabel - zie origineel]Voorbeelden van oplossingen:

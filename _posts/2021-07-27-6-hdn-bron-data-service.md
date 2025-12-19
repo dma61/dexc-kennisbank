@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 992852
 ---
 
-# HDN Bron Data Service
-
 Deze service is uiteindelijk gericht op de consument, maar wordt aangeboden door een dienstverlener.
 
 De [HDN Bronservice](https://www.hdn.nl/proceduresdocu/handboek-bronservice/) faciliteert beveiligd en gestandaardiseerd datatransport. Via één koppeling met HDN worden ‘alle’ bronnen ontsloten. Momenteel ondersteunt HDN de volgende bronnen: Kadaster, Calcasa, NBWO, NWWI, Taxateurs Unie, Kamer van Koophandel, NHG, Experian en UWV. HDN zal het aantal bronnen verder uitbreiden, met als uiteindelijke doelstelling dat alle benodigde documenten in het hypotheekproces kunnen worden vervangen door directe brondata.

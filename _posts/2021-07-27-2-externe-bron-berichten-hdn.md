@@ -6,8 +6,6 @@ categories: ["Standaarden ► particuliere klant"]
 question_id: 992900
 ---
 
-# Externe Bron Berichten HDN
-
 Voor een koppeling met externe bronnen biedt HDN een standaard berichtenset (EA/EX), waarmee diverse bronnen geraadpleegd kunnen worden.  
 
 - De HDN partij kan met het EA bericht een verzoek indienen bij de dienstenserver. De dienstenserver vertaald vervolgens het verzoek naar de specifieke bronservice. Het EA bericht is altijd voorzien van de noodzakelijke vraaggegevens.

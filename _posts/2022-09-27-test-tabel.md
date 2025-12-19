@@ -6,8 +6,6 @@ categories: ["Intern"]
 question_id: 1537675
 ---
 
-# test-tabel
-
 [Tabel - zie origineel]
 
 [Tabel - zie origineel]

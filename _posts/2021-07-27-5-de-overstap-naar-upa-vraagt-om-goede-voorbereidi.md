@@ -6,8 +6,6 @@ categories: []
 question_id: 992930
 ---
 
-# De overstap naar UPA vraagt om goede voorbereiding
-
 Overstappen op de UPA betekent voor een pensioenuitvoerder een forse investering in administratiesystemen en processen. Dit onderschrijft het belang van een gedegen vooronderzoek naar de impact en het afwegen van de implementatie-alternatieven.
 
 Implementatie van de UPA betekent een ICT-programma met verschillende aandachtsgebieden:

@@ -6,8 +6,6 @@ categories: ["Oplossingen ► B2B (keten)"]
 question_id: 1512608
 ---
 
-# SIVI Catalogus Datadiensten
-
 De [SIVI Catalogus Datadiensten](https://www.sivi.org/actueel/sivi-catalogus-datadiensten/)) levert een overzicht van relevante externe gegevensbronnen, de condities waaronder deze beschikbaar zijn en kwaliteitskenmerken. De catalogus wordt in de nabije toekomst uitgebreid en aangevuld met meer datasets en kwaliteitsnormen.
 Datadiensten kunnen op verschillende wijze een oplossing voor een informatievraagstuk bieden.
 

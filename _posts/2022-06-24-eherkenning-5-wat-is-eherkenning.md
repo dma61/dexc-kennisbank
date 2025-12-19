@@ -6,8 +6,6 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1419270
 ---
 
-# Afsprakenstelsel eHerkenning
-
 **Wat is eHerkenning?**
 Dit is een afsprakenstelsel tussen overheid en bedrijven. eHerkenning is in Nederland de standaard voor veilig inloggen namens een organisatie bij zowel overheden als bedrijven. Met eHerkenning bewoog de branche bovendien naar lagere kosten op sectorniveau, in vergelijking met de **oude** situatie met het Digitaal Paspoort. Dienstverleners betalen in staffels per transacties, met een plafondtarief boven een bepaald aantal transacties (variërend per eHerkenningsmakelaar). Tevens kunnen centrale voorzieningen als Single Sign On en ketenmachtigingen ingevuld worden in het verlengde van het gebruik van eHerkenning.
 
