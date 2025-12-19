@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Alle artikelen
 permalink: /artikelen/
