@@ -1,7 +1,17 @@
-﻿---
+---
 ---
 
 @import "{{ site.theme }}";
+
+/* Content section - prevent overlap */
+.content {
+  clear: both;
+  display: block;
+}
+
+.content h1:first-child {
+  margin-top: 0;
+}
 
 /* Breadcrumb styling */
 .breadcrumb {
@@ -10,63 +20,31 @@
   margin-bottom: 1em;
   padding-bottom: 0.5em;
   border-bottom: 1px solid #eee;
-  display: block;
-  width: 100%;
-  clear: both;
 }
 
 .breadcrumb a {
   color: #1e6bb8;
 }
 
-.breadcrumb .separator {
-  margin: 0 0.4em;
-  color: #999;
-}
-
-.breadcrumb .current {
-  color: #333;
-}
-
-/* Post layout - fix overlap */
+/* Post layout */
 .post {
-  display: block;
-  clear: both;
-  margin-top: 2em;
-  position: relative;
-}
-
-.post-header {
-  display: block;
-  clear: both;
-  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .post-header h1 {
   margin: 0 0 0.25em 0;
-  padding: 0;
-  display: block;
-  clear: both;
 }
 
 .post-meta {
   display: block;
-  clear: both;
   margin-bottom: 1.5em;
   color: #666;
   font-size: 0.9em;
   font-style: italic;
 }
 
-.post-content {
-  display: block;
-  clear: both;
-  margin-top: 1em;
-}
-
 .post-footer {
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid #eee;
-  clear: both;
 }
