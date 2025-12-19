@@ -6,7 +6,7 @@ categories: ["Intern"]
 question_id: 1424673
 ---
 
-**Wat is authenticatie? **
+**Wat is authenticatie **
 Authenticatie is het proces dat nagaat of een gebruiker daadwerkelijk is wie hij/zij beweert te zijn. Dat wil zeggen: daadwerkelijk de identiteit bezit die hij/zij opgeeft. Deze vastgestelde identiteit bepaalt of de betreffende gebruiker gerechtigd is om een bepaalde handeling te verrichten of een service af te nemen; deze volgende stap noemen we autorisatie. 
 
 **Twee stappen**

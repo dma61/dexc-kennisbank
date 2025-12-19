@@ -24,7 +24,7 @@ IRMA is naast gegevensontsluiting ook geschikt als inlog/authenticatiemiddel. De
 
 Op dit moment loggen veel gebruikers in op de mijn-omgeving met een eigen door de verzekeraar/het pensioenfonds verstrekte authenticatie-oplossing (denk aan wachtwoord en gebruikersnaam). Het vervangen van deze oplossing door IRMA kan relatief eenvoudig door de gebruiker eerst in te laten loggen met de eigen oplossing en vervolgens met IRMA (door een QR-code te tonen) en beide oplossingen te koppelen. De volgende keer kan de gebruiker met IRMA inloggen. De verzekeraar kan dan de eigen oplossing langzaam uitfaseren. **Fout! Verwijzingsbron niet gevonden**. toont een voorbeeld van inloggen met IRMA bij een controleur. 
 
-Eind 2019 publiceerde SIVI een rapport over IRMA ‘’IRMA voor pensioen- en verzekeringssector, Een veilige of risicovolle keuze?’’. Hierin worden onder andere meerdere Use cases besproken. 
+Eind 2019 publiceerde SIVI een rapport over IRMA ‘’IRMA voor pensioen- en verzekeringssector, Een veilige of risicovolle keuze’’. Hierin worden onder andere meerdere Use cases besproken. 
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1627387396776-1627387396776.png)
 

@@ -31,7 +31,7 @@ Onderstaande figuur laat zien van wie pensioenuitvoerders data ontvangen en aan 
 | Locatie/link | [https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/gegevens-over-werkgevers-binnen-uw-sector-aeh](https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/gegevens-over-werkgevers-binnen-uw-sector-aeh) |
 | Toelichting | Met het product Werkgevergegevens (voorheen Administratieve Eenheden - AEH) ontvangt de afnemer gegevens over (specifieke) werkgevers binnen zijn sector. De afnemer gebruikt de gegevens bijvoorbeel... |
 | Wetgeving/grondslag | [https://wetten.overheid.nl/BWBR0013280/2019-01-01](https://wetten.overheid.nl/BWBR0013280/2019-01-01) |
-| Wijze van leveren | [Mijn Gegevensdiensten](https://mijngegevensdiensten.uwv.nl/iam/inloggen?dmn=2H) |
+| Wijze van leveren | [Mijn Gegevensdiensten](https://mijngegevensdiensten.uwv.nl/iam/inloggendmn=2H) |
 | Volume | Hoog |
 
 | Categorie | Toelichting |
@@ -40,7 +40,7 @@ Onderstaande figuur laat zien van wie pensioenuitvoerders data ontvangen en aan 
 | Locatie/link | [https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/werknemergegevens-van-werkgevers-binnen-uw-sector-ikv](https://www.uwv.nl/zakelijk/gegevensdiensten/gegevens-afnemen-werk-inkomen/detail/voor-pensioenuitvoerders/werknemergegevens-van-werkgevers-binnen-uw-sector-ikv) |
 | Toelichting | Met het product Loonaangiftegegevens ontvangt de afnemer de werknemergegevens van werkgevers binnen zijn sector: de inkomstenverhoudingen en de loon- en persoonsgegevens van werknemers. De afnemer ... |
 | Wetgeving/grondslag | [https://wetten.overheid.nl/BWBR0013280/2019-01-01](https://wetten.overheid.nl/BWBR0013280/2019-01-01) |
-| Wijze van leveren | [Mijn Gegevensdiensten](https://mijngegevensdiensten.uwv.nl/iam/inloggen?dmn=2H) |
+| Wijze van leveren | [Mijn Gegevensdiensten](https://mijngegevensdiensten.uwv.nl/iam/inloggendmn=2H) |
 | Volume | Hoog |
 
 | Categorie | Toelichting |
@@ -94,26 +94,26 @@ Als pensioenuitvoerdermag je dus persoonlijke informatie delen met de curator of
 
 Bij veelpensioenuitvoerders gebeurt de melding handmatig. Veelal acterenpensioenuitvoerders passief. Dat wil zeggen, dat zij doorgaans alleen opaangeven (schrijven) van de curator dan wel bewindvoerder gegevens vastleggen enpensioeninformatie en betalingsinformatie van de deelnemer verstrekken aan decurator dan wel bewindvoerder. Voor curatoren en bewindspersonen is een meldingin de Staatscourant voldoende.
 
-## Wat staat in het register?
+## Wat staat in het register
 Onder curatele gestelde personen.
 
 Personen die vanwege verkwisting of problematische schuldenonder bewind zijn geplaatst.
 
 Personen die onder bewind zijn geplaatst vanwege lichamelijke ofgeestelijke omstandigheden, waarvan de kantonrechter heeft besloten datpublicatie noodzakelijk is.
 
-## Wat staat niet in het register?
+## Wat staat niet in het register
 Bewinden uitgesproken vóór 1 januari 2014 zijn meestal niet openbaar, tenzij de rechter anders beslist.
 
 Personen die onder bewind zijn geplaatst vanwege lichamelijke of geestelijke omstandigheden, waarvan de kantonrechter heeft besloten datpublicatie niet noodzakelijk is.
 
 De gegevens van curatelen van vóór 1996 zijn mogelijk niet volledig. Voor ontbrekende gegevens kunt u contact opnemen met [de dichtstbijzijnde rechtbank.](https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken)
 
-## Wie publiceert in het register?
+## Wie publiceert in het register
 De rechtbanken publiceren in het Centraal curatele- en bewindregister (CCBR). De bewindvoerder zorgt voor een aantekening vanhet bewind in de openbare registers zoals het kadaster en het handelsregister.
 
  
 
-## Hoe maak ik een uittreksel uit het CCBR?
+## Hoe maak ik een uittreksel uit het CCBR
 Via het register kan een afnemer een verklaring niet voorkomen in het CCBR en een uittreksel van de inschrijving downloaden en opslaan. Hetregister is openbaar. Dit betekent dat iedereen van de gegevens in het register kennis kan nemen.
 
 Zoek de persoon op in het register:
@@ -122,7 +122,7 @@ Zoek de persoon op in het register:
 
 - Komt deze persoon wel voor in het register, dan klikt u bij gevonden curatelen en/of bewinden op de achternaam van deze persoon. Vervolgenskomt u op een pagina met de details van de inschrijving. Klik op 'afdrukkenuittreksel' om het uittreksel van de inschrijving en de validatiecode te downloaden en op te slaan.
 
-## Kan ik het register koppelen met een eigenIT-systeem?
+## Kan ik het register koppelen met een eigenIT-systeem
 Organisaties kunnen gebruikmaken van de webservice van de Rechtspraak. Hiermee kan de afnemer een geautomatiseerde koppeling maken tussen het CCBR en zijn eigen systeem. Om de webservice te gebruiken, ontwikkelt de afnemer zelf een applicatie. Het beschikbaar hebben van een service om deze gegevens te verkrijgen kan voordelen bieden. Zowel in termen van tijdswinst als administratieve lastenverlichting, door Straight Through Processing toe te passen en ter voorkoming van onterechte betalingen of handelingen door de betreffende deelnemer.
 
 De rechtspraak biedt voor die ontwikkeling aanvullende [technische informatie](https://www.rechtspraak.nl/SiteCollectionDocuments/CCBR-Webservice-Technische-Documentatie.zip),maar verleent geen technische ondersteuning. De webservice bevat dezelfde informatie als het register op Rechtspraak.nl en de manier van zoeken is ook hetzelfde; het verschil is dat gegevens op de website handmatig ingevoerd moeten worden en via de webservice elektronisch verzonden worden.
@@ -135,7 +135,7 @@ Bluem Payment Service ontwikkelde een service die dit voor de eindgebruiker eenv
 
 # DUO
 # Gerechtsdeurwaarders
-Wie is SNG?
+Wie is SNG
 
 - Organisatie opgericht in 1995.
 
@@ -145,12 +145,12 @@ Wie is SNG?
 
 - Honderden organisaties uit het publieke en private domein maken gebruik van de services
 
-## Waarom e-VOI?
+## Waarom e-VOI
 Ter voorbereiding op beslaglegging mag er een verzoek om informatie worden gestuurd naar de inkomstenverstrekker indien een deurwaarder vermoedt dat een schuldenaar periodieke betalingen ontvangt.
 
 De verwerking van verzoeken om informatie vraagt een zorgvuldige afhandeling. Met de aansluiting op e-VOI kan een deurwaarder de inkomsteninformatie geautomatiseerd bevragen bij de aangesloten inkomstenverstrekkers en hiermee op administratief werk besparen.
 
-## Wat is e-VOI?
+## Wat is e-VOI
 Via een elektronisch verzoek om informatie(e-VOI) kan een deurwaarder inkomsteninformatie opvragen bij een werkgever of uitkeringsinstantie (inkomstenverstrekker).
 
 SNG heeft e-VOI ontwikkeld waarmee verzoeken om informatie efficiënt en volledig geautomatiseerd afgehandeld kunnen worden.
@@ -162,7 +162,7 @@ Artikel 475g van het Wetboek van Burgerlijke Rechtsvordering
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/4005624/20240127_databronnen_-_Attachment_2.jpg)
 
-### Wat zijn de kenmerken?
+### Wat zijn de kenmerken
 Geautomatiseerde afhandeling van verzoeken om informatie:
 
 - identificatie inkomstenverstrekker, werknemer of uitkeringsgerechtigde op basis van loonheffingennummer (LHN)en Burgerservicenummer (BSN);
@@ -177,7 +177,7 @@ Geautomatiseerde afhandeling van verzoeken om informatie:
 
 - gegevens worden verwerkt conformAVG.
 
-### Hoe werkt het?
+### Hoe werkt het
 Een inkomstenverstrekker (uitkeringsinstantie, werkgever of pensioenfonds) sluit aan op e-VOI volgens de specificaties van SNG en levert loonheffingnummers aan. SNG ontvangt een elektronisch verzoek om informatie van de deurwaarder en zet deze klaar voor de inkomstenverstrekker.
 
 Deinkomstenverstrekker haalt dagelijks de verzoeken om informatie op via e-VOI, raadpleegt de eigen administratie en verstuurt binnen één werkdag de antwoorden via SNG terug naar de deurwaarder.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Waarom de Data Exchange Kennisbank?"
+title: "Waarom de Data Exchange Kennisbank"
 date: 2021-09-14
 categories: []
 question_id: 1046812

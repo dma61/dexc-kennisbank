@@ -38,7 +38,7 @@ De tabel laat de inhoud van de (voor ons) belangrijkstetitels zien.
 | III. | Stelt de vereisten vast om verantwoord gebruik en beveiliging van gegevens te waarborgen. |
 | IV. | Stelt de vereisten vast voor het opzetten en beheren van regelingen voor het delen van financiële gegevens die tot doel hebben gegevenshouders, gegevensgebruikers en consumentenorganisaties samen t... |
 | V. | Bevat de bepalingen over vergunningverlening en bedrijfsvoorwaarden van aanbieders van financiële informatiediensten. |
-| VI. | Bevat details over de bevoegdheden van de bevoegde autoriteiten. |### 1.2 Om welke categorieën gegevens gaat het?
+| VI. | Bevat details over de bevoegdheden van de bevoegde autoriteiten. |### 1.2 Om welke categorieën gegevens gaat het
 Voortbouwend op de fundamenten van openbanking, zou het ontwerp van Open Finance Act de reikwijdte van te delenfinanciële gegevens verbreden tot de volgende categorieën:
 
 - Het saldo,voorwaarden en transacties van een hypotheek, krediet en spaarrekeningen.
@@ -77,7 +77,7 @@ Overeenkomstig artikel 16 van Verordening (EU) nr. 1094/2010 ontwikkelt de Europ
  
 
  
-### 1.3 Wat zijn de regels voor het delen van gegevens?
+### 1.3 Wat zijn de regels voor het delen van gegevens
 Ondanks hun ongekende aard hebben dedoor PSD2 geïntroduceerde regels voor open bankieren een gemengde impact gehadop de sector.
 
 Het heeft innovatie bevorderd waarbijtraditionele banken en fintechs deze regels gebruikten om nieuwe diensten aante bieden of nieuwe bedrijfsmodellen te ontwikkelen. Er waren echterenkele belangrijke kwesties.
@@ -129,15 +129,15 @@ Ten slotte zou het ontwerp van OpenFinance Act een regelgevende status introduce
 
 Het is vermeldenswaard dat, gezien deaard van de zakelijke activiteiten van AISP's, het ontwerp van Open Finance Actvoorziet in een herzieningsclausule voor de Commissie om de mogelijkheid tebeoordelen om AISP's te integreren in de regelgevende status van FISP's.
 
-### 1.9 Watstaat ons te wachten?
+### 1.9 Watstaat ons te wachten
 Hetpakket voorstellen doorloopt nu het gebruikelijke EU-wetgevingsproces, dat naarverwachting 18 maanden in beslag zal nemen. Dit omvat zogenaamdetrialoogonderhandelingen tussen de Commissie, het Europees Parlement en deEuropese Raad.
 
 HetOpen Finance-raamwerk zou van toepassing worden 18 maanden nadat het van krachtis geworden, op welk moment de verwachting is dat financiële instellingen diebinnen de reikwijdte vallen, zich hebben aangesloten bij regelingen voor hetdelen van financiële gegevens.
 
 Ronddezelfde tijd zullen naar verwachting ook de wijzigingen in het betalingskadervan kracht worden. Ervan uitgaande dat de teksten rond eind 2024 en begin2025 worden goedgekeurd, zou het nieuwe regime in de loop van 2026 in werkingtreden. Voor bestaande betalings- en elektronisch geldinstellingen geldenovergangsbepalingen.
 
-Open Insurance - [Een eerste blik op de FIDA-regelgeving](https://www.linkedin.com/pulse/open-insurance-first-look-fida-regulation-florian-graillot%3FtrackingId=32w29SdCQ%252Be3XkxArcKKGQ%253D%253D/?msgControlName=view_message_button&msgConversationId=2-ZmQyN2U3MTAtNTA3YS00N2E4LWJjMDQtMTE1M2NmZjdkMDRhXzAxMw%3D%3D&msgOverlay=true&trackingId=32w29SdCQ%2Be3XkxArcKKGQ%3D%3D)
-Interview uit juli 2023 van [Florian Graillot](https://www.linkedin.com/in/florian-graillot-56a1aba/?msgControlName=view_message_button&msgConversationId=2-ZmQyN2U3MTAtNTA3YS00N2E4LWJjMDQtMTE1M2NmZjdkMDRhXzAxMw%3D%3D&msgOverlay=true) met [Anne-Sophie MORVAN](https://www.linkedin.com/in/asmorvan/)
+Open Insurance - [Een eerste blik op de FIDA-regelgeving](https://www.linkedin.com/pulse/open-insurance-first-look-fida-regulation-florian-graillot%3FtrackingId=32w29SdCQ%252Be3XkxArcKKGQ%253D%253D/msgControlName=view_message_button&msgConversationId=2-ZmQyN2U3MTAtNTA3YS00N2E4LWJjMDQtMTE1M2NmZjdkMDRhXzAxMw%3D%3D&msgOverlay=true&trackingId=32w29SdCQ%2Be3XkxArcKKGQ%3D%3D)
+Interview uit juli 2023 van [Florian Graillot](https://www.linkedin.com/in/florian-graillot-56a1aba/msgControlName=view_message_button&msgConversationId=2-ZmQyN2U3MTAtNTA3YS00N2E4LWJjMDQtMTE1M2NmZjdkMDRhXzAxMw%3D%3D&msgOverlay=true) met [Anne-Sophie MORVAN](https://www.linkedin.com/in/asmorvan/)
 
 ‘’Het verzekeringsdomein wordt enigszins anders behandeld dan andere financiële domeinen omdat een aanzienlijk deel om redenen van consumentenbescherming wordt uitgesloten van FIDA. De Commissie is van mening dat het opnemen van ziekte- en ziektekostenverzekeringsproducten, evenals levensverzekeringsproducten die door consumenten zijn gekocht (anders dan levensverzekeringscontracten die worden gedekt door verzekeringsgebaseerde beleggingsproducten), een risico van uitsluiting zou inhouden. Daarom zijn deze producten uitgesloten.’’
 
@@ -225,14 +225,14 @@ Het delen van data, onder controle van de rechthebbende(n), biedtenorme kansen e
 
 Maarten Bakker (Innopay):
 
-- “Wij hebben inmiddels waardevolle ervaring opgedaan in debankensector met de introductie van de [Europese wetgeving PSD2](https://www.rijksoverheid.nl/onderwerpen/financiele-sector/nieuwe-wetgeving-voor-betalingsverkeer-psd2) enOpen Banking. Deze ervaring gebruiken wij weer voor innovaties, [API-first transities](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQh4vJu6KBAxXw3gIHHTshDo0QFnoECA8QAQ&url=https://www.innopay.com/en/publications/six-criteria-selecting-api-connectivity-provider-power-your-psd2-opportunities&usg=AOvVaw1ssix7xVNlWlNrCYpyyc80&opi=89978449) enhet te ontwikkelen afsprakenstelsel (ook wel ‘scheme’) binnen deverzekeringssector”.
+- “Wij hebben inmiddels waardevolle ervaring opgedaan in debankensector met de introductie van de [Europese wetgeving PSD2](https://www.rijksoverheid.nl/onderwerpen/financiele-sector/nieuwe-wetgeving-voor-betalingsverkeer-psd2) enOpen Banking. Deze ervaring gebruiken wij weer voor innovaties, [API-first transities](https://www.google.nl/urlsa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQh4vJu6KBAxXw3gIHHTshDo0QFnoECA8QAQ&url=https://www.innopay.com/en/publications/six-criteria-selecting-api-connectivity-provider-power-your-psd2-opportunities&usg=AOvVaw1ssix7xVNlWlNrCYpyyc80&opi=89978449) enhet te ontwikkelen afsprakenstelsel (ook wel ‘scheme’) binnen deverzekeringssector”.
 
-- “Hoe zorgen we er samen voor dat de uitwisseling van data zonderproblemen leidt tot nieuwe embedded datagedreven producten en diensten diedaadwerkelijk bijdragen aan het verbeteren van de klantervaring? Hoe leidje deze ontwikkeling, het datadelen via Open Insurance, in goede banen?”.
+- “Hoe zorgen we er samen voor dat de uitwisseling van data zonderproblemen leidt tot nieuwe embedded datagedreven producten en diensten diedaadwerkelijk bijdragen aan het verbeteren van de klantervaring Hoe leidje deze ontwikkeling, het datadelen via Open Insurance, in goede banen”.
 
 - Zie ook de [Open Insurance Monitor ](https://www.innopay.com/en/publications/open-insurance-still-all-bark-and-no-bite-now-mandated-openness-will-soon-change)vanInnopay.
 
 ### 2.4 EIOPA
-De Europese Autoriteitvoor verzekeringen en bedrijfspensioenen (EIOPA) publiceerde 24 juli 2023 eengebruiksscenario voor open verzekeringen. Dit is een [discussiedocument](https://www.eiopa.europa.eu/document/download/6290b915-25dc-40c5-a5b2-f4490d526240_en?filename=EIOPA%20Open%20Insurance%20use%20case%20-%20Insurance%20Dashboard.pdf) waarin de belangrijkste kenmerken van eenverzekeringsdashboard worden onderzocht. De paper is eenvervolg op een eerste Discussion Paper on Open Insurance, waarna EIOPAconcludeerde dat verdere werkzaamheden aan meer concrete, specifieke engedetailleerde use cases voor open verzekeringen een beter begrip van de implicatiesvoor consumenten, het bedrijfsleven en toezichthouders zouden kunnenvergemakkelijken.
+De Europese Autoriteitvoor verzekeringen en bedrijfspensioenen (EIOPA) publiceerde 24 juli 2023 eengebruiksscenario voor open verzekeringen. Dit is een [discussiedocument](https://www.eiopa.europa.eu/document/download/6290b915-25dc-40c5-a5b2-f4490d526240_enfilename=EIOPA%20Open%20Insurance%20use%20case%20-%20Insurance%20Dashboard.pdf) waarin de belangrijkste kenmerken van eenverzekeringsdashboard worden onderzocht. De paper is eenvervolg op een eerste Discussion Paper on Open Insurance, waarna EIOPAconcludeerde dat verdere werkzaamheden aan meer concrete, specifieke engedetailleerde use cases voor open verzekeringen een beter begrip van de implicatiesvoor consumenten, het bedrijfsleven en toezichthouders zouden kunnenvergemakkelijken.
 
 Degeselecteerde use case voor het verzekeringsdashboard heeft tot doelconsumenten een overzicht te geven van al hun verzekeringspolissen op één plek,terwijl verzekeraars informatie over hun eigen producten kunnen presenteren,zodat consumenten dekkingen en prijzen beter kunnen vergelijken. De usecase is ontwikkeld om technische en toezichtuitdagingen ui te werken.Belanghebbenden worden aangemoedigd om tot 24 oktober 2023 deel te nemen aan deraadpleging en hun feedback te geven door te reageren op de vragen in dediscussienota via het [EUSurvey-](https://ec.europa.eu/eusurvey/runner/OpenInsuranceusecase2023)platform.
 
@@ -261,7 +261,7 @@ Daarom zou de ontwikkeling van een Europese norm kunnen worden gebaseerd op deze
  
 
  
-### 2.5 Hoe ver gaat de Open Finance Act?
+### 2.5 Hoe ver gaat de Open Finance Act
 De vraag blijft hoe ver dit regelgevingskaderzal gaan om het delen van gegevens binnen de financiële sector te reguleren enof het de sector enige ruimte zal laten om zichzelf te reguleren. In dehuidige staat lijkt het wetgevingsvoorstel de financiële sector en zijn actorenenige vrijheid te geven om zichzelf te reguleren en hun eigengemeenschappelijke normen vast te stellen door middel van regelingen voor hetdelen van financiële gegevens.
 
 Het is echter onduidelijk of de OpenFinance Act in zijn uiteindelijke vorm een ​​dergelijke zelfregulerende aanpakzal behouden of dat het zal terugkeren naar strengere regels zonder ruimte voorinterpretatie en weinig ruimte en bevoegdheden voor regelingen voor het delenvan financiële gegevens.
@@ -272,20 +272,20 @@ In 2025zijn één of meer nationale ID-wallets én andere Europees erkende ID-wa
 Deelnemerskunnen zich met één klik op een hoogbetrouwbaarheidsniveau authenticeren bij pensioenuitvoerders. Daarna kan dedeelnemer gericht gegevens delen.
 
 ### 2.7 Hou rekening met lessen uit evaluatie PSD2
-De [Evaluatie PSD2, De herziene Europese richtlijnbetaaldiensten](https://www.tweedekamer.nl/downloads/document?id=2022D25984) van SEOuit 2022 wijst op het gebrek aan standaardisering van API’s. Allereerst heeftPSD2 weliswaar geleid tot meer gebruik van API’s, maar is er geen uniformeAPI-standaard opgelegd. Het rapport stelt: ‘’PSD2 biedt geen uniforme standaardvoor API’s, hoewel enige mate van standaardisering plaatsvond via de RTS vanEBA en werk binnen de Berlin Group. Het gebrek aan standaardisering van API’shad tot gevolg dat banken verschillende API’s hebben ontwikkeld, wat deimplementatiekosten heeft verhoogd. Ook maakte dit het lastiger voor aanbiedersom dekkende koppelingen aan te bieden. Een standaard voor API’s had ook eenbelangrijke bijdrage kunnen leveren aan helderheid voor de markt over hoe deeisen van de AVG en de PSD2 met elkaar te verenigen. Het ontwikkelen van eenuniforme standaard kan ook nu nog voordelen hebben omdat het leidt tot snellereacceptatie in de markt, minder discussie met de toezichthouder en minderdiscussie tussen banken en betaaldienstverleners.’’
+De [Evaluatie PSD2, De herziene Europese richtlijnbetaaldiensten](https://www.tweedekamer.nl/downloads/documentid=2022D25984) van SEOuit 2022 wijst op het gebrek aan standaardisering van API’s. Allereerst heeftPSD2 weliswaar geleid tot meer gebruik van API’s, maar is er geen uniformeAPI-standaard opgelegd. Het rapport stelt: ‘’PSD2 biedt geen uniforme standaardvoor API’s, hoewel enige mate van standaardisering plaatsvond via de RTS vanEBA en werk binnen de Berlin Group. Het gebrek aan standaardisering van API’shad tot gevolg dat banken verschillende API’s hebben ontwikkeld, wat deimplementatiekosten heeft verhoogd. Ook maakte dit het lastiger voor aanbiedersom dekkende koppelingen aan te bieden. Een standaard voor API’s had ook eenbelangrijke bijdrage kunnen leveren aan helderheid voor de markt over hoe deeisen van de AVG en de PSD2 met elkaar te verenigen. Het ontwikkelen van eenuniforme standaard kan ook nu nog voordelen hebben omdat het leidt tot snellereacceptatie in de markt, minder discussie met de toezichthouder en minderdiscussie tussen banken en betaaldienstverleners.’’
 
 Het verdient dwingende aanbeveling om rekeningte houden met lessen uit de genoemde evaluatie van PSD2 en aan te sturen op uniformeAPI-standaarden.
 
 ## 3 Referenties
 ### 3.1 EU
 
-- Wetgevingsobservatoriumvan het Europees Parlement, [proceduredossier](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2023/0205(COD)&l=en) over het kader voor toegang tot financiëlegegevens , 2023/0205(COD).
+- Wetgevingsobservatoriumvan het Europees Parlement, [proceduredossier](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.doreference=2023/0205(COD)&l=en) over het kader voor toegang tot financiëlegegevens , 2023/0205(COD).
 
-- Europese Commissie, [Voorstel](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0360) voor een verordening betreffende een kader voortoegang tot financiële gegevens , COM(2023)360.
+- Europese Commissie, [Voorstel](https://eur-lex.europa.eu/legal-content/EN/TXT/uri=CELEX:52023PC0360) voor een verordening betreffende een kader voortoegang tot financiële gegevens , COM(2023)360.
 
-- Europese Commissie, [Effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023SC0224) bij het voorstel over toegang tot financiëlegegevens , SWD/2023/224.
+- Europese Commissie, [Effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/uri=CELEX:52023SC0224) bij het voorstel over toegang tot financiëlegegevens , SWD/2023/224.
 
-- Europese Commissie, [Samenvatting van de effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023SC0230) bij het voorstel over toegang tot financiëlegegevens , SWD/2023/230.
+- Europese Commissie, [Samenvatting van de effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/uri=CELEX:52023SC0230) bij het voorstel over toegang tot financiëlegegevens , SWD/2023/230.
 
 - EuropeseCommissie, Kader voor toegang tot financiële gegevens , [website](https://finance.ec.europa.eu/digital-finance/framework-financial-data-access_en)
 
@@ -301,10 +301,10 @@ Het verdient dwingende aanbeveling om rekeningte houden met lessen uit de genoem
 - [ID-wallet](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/identiteit/id-wallet/)
 
 - 
-[Voortgangsrapportage Europese Digitale Identiteit ](https://www.tweedekamer.nl/downloads/document?id=2023D44648)26 oktober 2023
-[Kosten en baten regie op gegevens EDI-wallet(PDF)](https://www.tweedekamer.nl/downloads/document?id=2023D44649)
+[Voortgangsrapportage Europese Digitale Identiteit ](https://www.tweedekamer.nl/downloads/documentid=2023D44648)26 oktober 2023
+[Kosten en baten regie op gegevens EDI-wallet(PDF)](https://www.tweedekamer.nl/downloads/documentid=2023D44649)
 
-- [Beslisnota bij Kamerbrief inzake voortgangsrapportageEuropese Digitale Identiteit](https://www.tweedekamer.nl/downloads/document?id=2023D44650)
+- [Beslisnota bij Kamerbrief inzake voortgangsrapportageEuropese Digitale Identiteit](https://www.tweedekamer.nl/downloads/documentid=2023D44650)
 
 - De Ontwerpdocumenten voorID-wallet worden gepubliceerd op [https://edi.pleio.nl/](https://edi.pleio.nl/) en de broncode wordt openbaar beschikbaargesteld op [https://github.com/minbzk/nl-wallet](https://github.com/minbzk/nl-wallet)
 

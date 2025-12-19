@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Waarom zijn er verschillende leveranciers?"
+title: "Waarom zijn er verschillende leveranciers"
 date: 2021-07-27
 categories: ["eHerkenning"]
 question_id: 992743

@@ -8,7 +8,7 @@ question_id: 1533617
 
 Digitale datadragers zijn onder meer cd’s, data-tapes, diskettes, Dvd’s, geheugenkaarten en USB sticks. Digitaal transport van data loopt echter veelal via Internet. Daarom loont het de moeite dit uit te leggen door de belangrijkste protocollen en standaarden kort te bespreken.
 
-**Wat is het Internet?**
+**Wat is het Internet**
 
 Het Internet is een netwerk dat computers wereldwijd met elkaar verbindt, en bedrijven, overheden, personen met elkaar laat communiceren en informatie laat delen. Dit is mogelijk door een groot aantal protocollen en standaarden. Een protocol is in dit verband een beschrijving van de wijze waarop apparaten en computerprogramma's onderling communiceren. Standaarden zijn afspraken over informatie of over een proces, dit kan zowel op het niveau van semantische als technische standaarden. Veelal worden de afspraken vastgelegd in documenten met een erkende status. In feite is Internet gebaseerd op de beproefde implementatie van tientallen standaarden.
 

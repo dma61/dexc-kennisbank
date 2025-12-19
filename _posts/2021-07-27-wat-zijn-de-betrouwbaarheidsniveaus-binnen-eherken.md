@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wat zijn de betrouwbaarheidsniveaus binnen eHerkenning?"
+title: "Wat zijn de betrouwbaarheidsniveaus binnen eHerkenning"
 date: 2021-07-27
 categories: ["eHerkenning"]
 question_id: 992746

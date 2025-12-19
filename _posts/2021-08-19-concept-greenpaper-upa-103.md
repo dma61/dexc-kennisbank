@@ -37,7 +37,7 @@ SIVI develops and manages standards for digital business in the insurance indust
 
 SIVI, standard change
 
-[Why UPA?2](#_Toc3896411)
+[Why UPA2](#_Toc3896411)
 
 [Opting for UPA: your considerations3](#_Toc3896412)
 
@@ -53,7 +53,7 @@ SIVI, standard change
 
 [Footnotes:12](#_Toc3896418)
 
-# Why UPA?
+# Why UPA
 
 Advantages of using the UPA in pension administration are:
 

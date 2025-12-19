@@ -8,7 +8,7 @@ question_id: 2529545
 
 **Inleiding**
 
-Beginseptember 2023 verscheen het eindrapport ‘’[Resultaten onderzoek: Standaard voor datauitwisselingpensioenuitvoering & vermogensbeheer partijen’’](https://www.pensioenfederatie.nl/cms/streambin.aspx?documentid=18380).
+Beginseptember 2023 verscheen het eindrapport ‘’[Resultaten onderzoek: Standaard voor datauitwisselingpensioenuitvoering & vermogensbeheer partijen’’](https://www.pensioenfederatie.nl/cms/streambin.aspxdocumentid=18380).
 
 Met de invoering/uitvoering van de Wet Toekomst Pensioenen (Wtp) is strakkere aansluiting tussen fondsvermogen en collectieve administratie van persoonlijke pensioenvermogens noodzakelijk. Daarmee neemt de frequentie van de noodzakelijke informatieuitwisseling toe. In de bestaande praktijk regelen/regelden pensioenuitvoerders en vermogensbeheerpartijen onderling de informatieuitwisseling. Door de intensivering van de informatieuitwisseling is standaardisatie van de informatieuitwisseling gewenst.
 
@@ -52,7 +52,7 @@ Afgesproken is dat:
 
 - [Technische documentatie op GitHub](https://github.com/dma61/VBPUOdsk)
 
-- [Eindrapportonderzoek standaard VB PUO (september 2023)](https://www.pensioenfederatie.nl/cms/streambin.aspx?documentid=18380)
+- [Eindrapportonderzoek standaard VB PUO (september 2023)](https://www.pensioenfederatie.nl/cms/streambin.aspxdocumentid=18380)
 
 ---
 

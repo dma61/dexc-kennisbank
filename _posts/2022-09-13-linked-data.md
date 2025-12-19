@@ -15,7 +15,7 @@ Linked Data is een wereldwijde gestandaardiseerde aanpak, opgebouwd uit tientall
 ### **Kracht van Linked Data**
 De kracht van Linked Data zit in de interoperabiliteit. Dit betekent dat systemen, door gebruik te maken van Linked Data, in staat zijn tot onderlinge communicatie zonder tussenkomst van menselijk handelen. Hierdoor is Linked Data ook uitermate geschikt voor organisaties met verschillende systemen die allemaal eigen standaarden en definities kennen. In plaats van een overkoepelende nieuwe standaard te ontwikkelen, wat veel tijd en kosten met zich meebrengt, kunnen de andere systemen intact gehouden worden door het introduceren van een Linked Data model. Een Linked Data model is systeemonafhankelijk. Door de manier waarop gegevens vastgelegd worden, is het op een eenvoudige manier mogelijk gegevens aan elkaar te linken. 
 
-### **Kansen voor verzekeringsbranche?**
+### **Kansen voor verzekeringsbranche**
 Voor de verzekeringsbranche is het inschatten en spreiden van risico’s van groot belang. Linked Data kan deze inzichten verder verduidelijken en valideren door het eenvoudiger te maken **verschillende datasets met elkaar te verbinden**. Hierdoor komt meer data voor de data-analyses beschikbaar, waardoor een completer beeld ontstaat uit de gegevens. 
 
 Naast risicoanalyses kan Linked Data ook andere verzekeringsprocessen ondersteunen. Bij de afhandeling van claims, fraudebestrijding en preventiemaatregelen kunnen verzekeraars met behulp van Linked Data gegevens met elkaar vergelijken om sneller tot waardevolle inzichten te komen die de besluitvorming in individuele cases beter ondersteunen. Daarnaast stelt Linked Data verzekeraars in staat trends en patronen eerder te ontdekken.

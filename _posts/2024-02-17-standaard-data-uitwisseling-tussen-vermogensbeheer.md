@@ -8,7 +8,7 @@ question_id: 2416215
 
 **Onderzoek**
 
-Begin september 2023 verscheen het eindrapport ‘’[Resultaten onderzoek: Standaard voor datauitwisseling pensioenuitvoering & vermogensbeheer partijen](https://www.pensioenfederatie.nl/cms/streambin.aspx?documentid=18380)’’.
+Begin september 2023 verscheen het eindrapport ‘’[Resultaten onderzoek: Standaard voor datauitwisseling pensioenuitvoering & vermogensbeheer partijen](https://www.pensioenfederatie.nl/cms/streambin.aspxdocumentid=18380)’’.
 
 Met de invoering/uitvoering van de Wet Toekomst Pensioenen (Wtp) is strakkere aansluiting tussen fondsvermogen en collectieve administratie van persoonlijke pensioenvermogens noodzakelijk. Daarmee neemt de frequentie van de noodzakelijke informatie-uitwisseling toe. In de huidige praktijk regelen pensioenuitvoerders en vermogensbeheerpartijen onderling de informatie-uitwisseling. Door de intensivering van de informatie-uitwisseling is standaardisatie van de informatie-uitwisseling gewenst.
 

@@ -85,7 +85,7 @@ De ontwerpverordening verplicht zowel datahouders als datagebruikers om lid te w
 
 ### EIOPA: Op zoek naar eerste EU project
 
-- De Europese Autoriteit voor verzekeringen en bedrijfspensioenen (EIOPA) publiceerde 24 juli 2023 een gebruiksscenario voor open verzekeringen. Dit is een [discussiedocument](https://www.eiopa.europa.eu/document/download/6290b915-25dc-40c5-a5b2-f4490d526240_en?filename=EIOPA%20Open%20Insurance%20use%20case%20-%20Insurance%20Dashboard.pdf) waarin de belangrijkste kenmerken van een verzekeringsdashboard worden onderzocht
+- De Europese Autoriteit voor verzekeringen en bedrijfspensioenen (EIOPA) publiceerde 24 juli 2023 een gebruiksscenario voor open verzekeringen. Dit is een [discussiedocument](https://www.eiopa.europa.eu/document/download/6290b915-25dc-40c5-a5b2-f4490d526240_enfilename=EIOPA%20Open%20Insurance%20use%20case%20-%20Insurance%20Dashboard.pdf) waarin de belangrijkste kenmerken van een verzekeringsdashboard worden onderzocht
 
 - De geselecteerde use case voor het verzekeringsdashboard heeft tot doel consumenten een overzicht te geven van al hun verzekeringspolissen op één plek, terwijl verzekeraars informatie over hun eigen producten kunnen presenteren, zodat consumenten dekkingen en prijzen beter kunnen vergelijken
 
@@ -106,7 +106,7 @@ toegankelijkheid en beschikbaarheid van verzekeringsgegevens
 
 ### Reactie kabinet: Voorstel met verplichtingen en verwachtingen
 
-- Het kabinet [verwelkomt](https://www.tweedekamer.nl/downloads/document?id=2023D35076) het voorstel en onderschrijft de principes die daaraan ten grondslag liggen
+- Het kabinet [verwelkomt](https://www.tweedekamer.nl/downloads/documentid=2023D35076) het voorstel en onderschrijft de principes die daaraan ten grondslag liggen
 
 - Het kabinet vindt dat de voordelen voor de klant de kosten voor de sector moeten rechtvaardigen
 
@@ -114,7 +114,7 @@ toegankelijkheid en beschikbaarheid van verzekeringsgegevens
 
 - Het kabinet zal inzetten op een voorstel met duidelijke verplichtingen en verwachtingen voor datahouders en datagebruikers bij het delen van financiële klantdata
 
-- Als eventuele optie in de [Fiche: Verordening raamwerk delen financiële klantdata](https://www.tweedekamer.nl/downloads/document?id=2023D35073) van 1 september 2023, ziet het kabinet de toevoeging dat de klant een geïnformeerde, specifieke en vrije toestemming moet geven, waaruit duidelijk blijkt voor welk specifiek doel hun data met een datagebruiker wordt gedeeld
+- Als eventuele optie in de [Fiche: Verordening raamwerk delen financiële klantdata](https://www.tweedekamer.nl/downloads/documentid=2023D35073) van 1 september 2023, ziet het kabinet de toevoeging dat de klant een geïnformeerde, specifieke en vrije toestemming moet geven, waaruit duidelijk blijkt voor welk specifiek doel hun data met een datagebruiker wordt gedeeld
 
 - Het kabinet zal volgens het genoemde BNC-Fiche zich ervoor inzetten dat voorkomen wordt dat data als een betaalmiddel (het zogenoemde data as a currency) kan worden ingezet om (deels) voor diensten te betalen of toegelaten te worden
 
@@ -141,9 +141,9 @@ Nationaal Pensioenregister kan voorzien in het delen van gegevens
 - Het delen van data, onder controle van de rechthebbende(n), biedt enorme kansen en is tegelijkertijd één van de grootste uitdagingen van onze In het recent gesloten partnership met [INNOPAY](https://www.innopay.com/en) gaat het Verbond actief aan de slag met dit thema binnen de verzekeringssector
 
 - Maarten Bakker (Innopay):
-“Wij hebben inmiddels waardevolle ervaring opgedaan in de bankensector met de introductie van de [Europese](https://www.rijksoverheid.nl/onderwerpen/financiele-sector/nieuwe-wetgeving-voor-betalingsverkeer-psd2#%3A~%3Atext%3DDoordenieuweEuropesewet%2Cdebeschermingvanuwprivacy) [wetgeving PSD2](https://www.rijksoverheid.nl/onderwerpen/financiele-sector/nieuwe-wetgeving-voor-betalingsverkeer-psd2#%3A~%3Atext%3DDoordenieuweEuropesewet%2Cdebeschermingvanuwprivacy) en Open Deze ervaring gebruiken wij weer voor innovaties, [API-first transities](https://www.google.nl/url?sa=t&rct=j&q&esrc=s&source=web&cd&cad=rja&uact=8&ved=2ahUKEwiQh4vJu6KBAxXw3gIHHTshDo0QFnoECA8QAQ&url=https%3A//www.innopay.com/en/publications/six-criteria-selecting-api-connectivity-provider-power-your-psd2-opportunities&usg=AOvVaw1ssix7xVNlWlNrCYpyyc80&opi=89978449) en het te ontwikkelen afsprakenstelsel (ook wel ‘scheme’) binnen de verzekeringssector”
+“Wij hebben inmiddels waardevolle ervaring opgedaan in de bankensector met de introductie van de [Europese](https://www.rijksoverheid.nl/onderwerpen/financiele-sector/nieuwe-wetgeving-voor-betalingsverkeer-psd2#%3A~%3Atext%3DDoordenieuweEuropesewet%2Cdebeschermingvanuwprivacy) [wetgeving PSD2](https://www.rijksoverheid.nl/onderwerpen/financiele-sector/nieuwe-wetgeving-voor-betalingsverkeer-psd2#%3A~%3Atext%3DDoordenieuweEuropesewet%2Cdebeschermingvanuwprivacy) en Open Deze ervaring gebruiken wij weer voor innovaties, [API-first transities](https://www.google.nl/urlsa=t&rct=j&q&esrc=s&source=web&cd&cad=rja&uact=8&ved=2ahUKEwiQh4vJu6KBAxXw3gIHHTshDo0QFnoECA8QAQ&url=https%3A//www.innopay.com/en/publications/six-criteria-selecting-api-connectivity-provider-power-your-psd2-opportunities&usg=AOvVaw1ssix7xVNlWlNrCYpyyc80&opi=89978449) en het te ontwikkelen afsprakenstelsel (ook wel ‘scheme’) binnen de verzekeringssector”
 
-- “Hoe zorgen we er samen voor dat de uitwisseling van data zonder problemen leidt tot nieuwe embedded datagedreven producten en diensten die daadwerkelijk bijdragen aan het verbeteren van de klantervaring? Hoe leid je deze ontwikkeling, het datadelen via Open Insurance, in goede banen?”
+- “Hoe zorgen we er samen voor dat de uitwisseling van data zonder problemen leidt tot nieuwe embedded datagedreven producten en diensten die daadwerkelijk bijdragen aan het verbeteren van de klantervaring Hoe leid je deze ontwikkeling, het datadelen via Open Insurance, in goede banen”
 
 - Zie ook de [Open Insurance Monitor](https://www.innopay.com/en/publications/open-insurance-still-all-bark-and-no-bite-now-mandated-openness-will-soon-change) van Innopay
 
@@ -175,7 +175,7 @@ Geen aansluiting bij bestaande software
 
 ### Aandachtspunten invulling Open Insurance (1)
 
-- Welke data delen we met welk doel? Wat willen we in NL met Open Insurance bereiken? Wat is de belofte van Open Insurance?
+- Welke data delen we met welk doel Wat willen we in NL met Open Insurance bereiken Wat is de belofte van Open Insurance
 Begin bescheiden met een duidelijk doel (use case)
 
 - In stapjes, vraag gedreven, doorgroeien
@@ -184,13 +184,13 @@ Begin bescheiden met een duidelijk doel (use case)
 
 - Open Insurance kan geen copy paste van PSD2 zijn: alleen voor het polisdomein beheert SIVI al meer dan 15.000 gegevenselementenWelke gegevens gaan we uitwisselen, alleen inzicht/overzicht of ook detailinformatie
 
-- Wel of geen doelbestemming?Verzekeringsdata geeft veel inzicht (vermogen, risicobereidheid, sociaalprofiel, …), begrijpt elke klant de impact?
+- Wel of geen doelbestemmingVerzekeringsdata geeft veel inzicht (vermogen, risicobereidheid, sociaalprofiel, …), begrijpt elke klant de impact
 
 ### Aandachtspunten invulling Open Insurance (2)
 
 - Leveranciers spelen een belangrijke rolNog maar weinig ketenpartijen ontwikkelen geheel eigen software
 
-- De [Evaluatie PSD2, De herziene Europese richtlijn betaaldiensten](https://www.tweedekamer.nl/downloads/document?id=2022D25984) van SEO uit 2022 wijst op het gebrek aan standaardisering van API’s
+- De [Evaluatie PSD2, De herziene Europese richtlijn betaaldiensten](https://www.tweedekamer.nl/downloads/documentid=2022D25984) van SEO uit 2022 wijst op het gebrek aan standaardisering van API’s
 
 - Allereerst heeft PSD2 weliswaar geleid tot meer gebruik van API’s, maar is er geen uniforme API-standaard opgelegd
 
@@ -310,7 +310,7 @@ Specifieke toepassingen, bijvoorbeeld:
 - Inchecken in een hotel
 
 #### Impact EU ID-wallet - inhoud
-Overeenkomstig [artikel 45 quinquies](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX%3A52021PC0281&from=EN.2Kamerstuk) waarborgen de lidstaten dat er, indien die attributen gebruikmaken van authentieke bronnen binnen de publieke sector, maatregelen worden genomen zodat gekwalificeerde verleners van elektronische attesteringen van attributen op verzoek van de gebruiker langs elektronische weg aan de hand van de relevante authentieke bron op nationaal niveau of via op nationaal niveau erkende aangewezen intermediairs, overeenkomstig nationaal of Unierecht, de authenticiteit van de volgende attributen kunnen verifiëren:
+Overeenkomstig [artikel 45 quinquies](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/uri=CELEX%3A52021PC0281&from=EN.2Kamerstuk) waarborgen de lidstaten dat er, indien die attributen gebruikmaken van authentieke bronnen binnen de publieke sector, maatregelen worden genomen zodat gekwalificeerde verleners van elektronische attesteringen van attributen op verzoek van de gebruiker langs elektronische weg aan de hand van de relevante authentieke bron op nationaal niveau of via op nationaal niveau erkende aangewezen intermediairs, overeenkomstig nationaal of Unierecht, de authenticiteit van de volgende attributen kunnen verifiëren:
 
 - **adres;**
 
@@ -335,7 +335,7 @@ Overeenkomstig [artikel 45 quinquies](https://eur-lex.europa.eu/legal-content/NL
 
 - **financiële en**
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1713871861175-image.png)**Identificerende gegevens ****eIDAS**#### Impact EU ID-wallet - hoe werkt het?
+![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1713871861175-image.png)**Identificerende gegevens ****eIDAS**#### Impact EU ID-wallet - hoe werkt het
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1713871950610-image.png)
 
 #### Impact EU ID-wallet & Tijdslijnen EDI Stelsel NL
@@ -424,13 +424,13 @@ Verzameling van afspraken en definities rond webservices
 ### Bijlage-5 Referenties
 #### Referenties EU
 
-- Wetgevingsobservatorium van het Europees Parlement, [proceduredossier](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2023/0205(COD)&l=en) over het kader voor toegang tot financiële gegevens , 2023/0205(COD).
+- Wetgevingsobservatorium van het Europees Parlement, [proceduredossier](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.doreference=2023/0205(COD)&l=en) over het kader voor toegang tot financiële gegevens , 2023/0205(COD).
 
-- Europese Commissie, [Voorstel](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023PC0360) voor een verordening betreffende een kader voor toegang tot financiële gegevens , COM(2023)360.
+- Europese Commissie, [Voorstel](https://eur-lex.europa.eu/legal-content/EN/TXT/uri=CELEX%3A52023PC0360) voor een verordening betreffende een kader voor toegang tot financiële gegevens , COM(2023)360.
 
-- Europese Commissie, [Effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023SC0224) bij het voorstel over toegang tot financiële gegevens , SWD/2023/224.
+- Europese Commissie, [Effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/uri=CELEX%3A52023SC0224) bij het voorstel over toegang tot financiële gegevens , SWD/2023/224.
 
-- Europese Commissie, [Samenvatting van de effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023SC0230) bij het voorstel over toegang tot financiële gegevens , SWD/2023/230.
+- Europese Commissie, [Samenvatting van de effectbeoordeling](https://eur-lex.europa.eu/legal-content/EN/TXT/uri=CELEX%3A52023SC0230) bij het voorstel over toegang tot financiële gegevens , SWD/2023/230.
 
 - Europese Commissie, Kader voor toegang tot financiële gegevens , [website](https://finance.ec.europa.eu/digital-finance/framework-financial-data-access_en)
 
@@ -446,10 +446,10 @@ Verzameling van afspraken en definities rond webservices
 - [ID-wallet](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/identiteit/id-wallet/)
 
 - 
-[Voortgangsrapportage Europese Digitale Identiteit](https://www.tweedekamer.nl/downloads/document?id=2023D44648) 26 oktober 2023
-[Kosten en baten regie op gegevens EDI-wallet(PDF)](https://www.tweedekamer.nl/downloads/document?id=2023D44649)
+[Voortgangsrapportage Europese Digitale Identiteit](https://www.tweedekamer.nl/downloads/documentid=2023D44648) 26 oktober 2023
+[Kosten en baten regie op gegevens EDI-wallet(PDF)](https://www.tweedekamer.nl/downloads/documentid=2023D44649)
 
-- [Beslisnota bij Kamerbrief inzake voortgangsrapportage Europese Digitale Identiteit](https://www.tweedekamer.nl/downloads/document?id=2023D44650)
+- [Beslisnota bij Kamerbrief inzake voortgangsrapportage Europese Digitale Identiteit](https://www.tweedekamer.nl/downloads/documentid=2023D44650)
 
 - De Ontwerpdocumenten voor ID-wallet worden gepubliceerd op [https://edi.pleio.nl/](https://edi.pleio.nl/) en de broncode wordt openbaar beschikbaar gesteld op [https://github.com/minbzk/nl-wallet](https://github.com/minbzk/nl-wallet)
 

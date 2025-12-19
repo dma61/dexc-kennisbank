@@ -66,7 +66,7 @@ Datakeeper gaat uit van [geverifieerde credentials](https://www.w3.org/TR/vc-dat
 
 De Datakeeper app gebruikt de blockchain technologie om de (persoons)gegevens van consumenten te verifiëren. Hierbij slaat de app geen (persoons)gegevens in de blockchain op. In de blockchain slaat Datakeeper alleen het [bewijs van uitgifte van deze gegevens](https://datakeeper.nl/veelgestelde-vragen) op, dus niet de gegevens zelf.
 
-	## Welke bronnen ontsluit Ockto?
+	## Welke bronnen ontsluit Ockto
 
 	Op dit moment kan een gebruiker met de Ockto app onder andere gegevens ophalen bij de Belastingdienst, UWV, MijnPensioenoverzicht, DUO en MijnOverheid middels een QR code. Het ophalen van studieschuld was daarin niet onomstreden: het voornemen om studieschuld toegankelijk te maken voor hypotheekverstekkers leidde tot [Kamervragen](https://zoek.officielebekendmakingen.nl/ah-tk-20192020-821.html), maar werd toegestaan op basis van de AVG (dus mits het gegeven onder toestemming van de burger is opgevraagd).
 
@@ -76,7 +76,7 @@ De Datakeeper app gebruikt de blockchain technologie om de (persoons)gegevens va
 
 	
 
-***Welke bronnen ontsluit Ockto?***
+***Welke bronnen ontsluit Ockto***
 
 Op dit moment kan een gebruiker met de Ockto app onder andere gegevens ophalen bij de Belastingdienst, UWV, MijnPensioenoverzicht, DUO en MijnOverheid middels een QR code. Het ophalen van studieschuld was daarin niet onomstreden: het voornemen om studieschuld toegankelijk te maken voor hypotheekverstekkers leidde tot [Kamervragen](https://zoek.officielebekendmakingen.nl/ah-tk-20192020-821.html), maar werd toegestaan op basis van de AVG (dus mits het gegeven onder toestemming van de burger is opgevraagd).
 
@@ -88,21 +88,21 @@ Ockto werkt samen met [Invers](https://www.amweb.nl/financiele-planning/nieuws/2
 
 Via de Ockto Brondata Service (OBS) kan de consument zijn data veilig delen met verschillende partijen binnen de hypotheekketen.** **In het aanvraagtraject van een hypotheek zorgt OBS ervoor dat geldverstrekkers zelf bepaalde brondata en documenten kunnen ophalen, zonder dat de adviseur deze hoeft aan te leveren. 
 
-***Wie gebruiken Ockto?***
+***Wie gebruiken Ockto***
 
 Specifiek voor de hypotheekketen heeft Ockto, samen met onder andere HDN, de Ockto Brondata Service ontwikkeld. Dit zorgt ervoor dat de consument [minder documenten](https://www.ockto.nl/ockto-brondata-service/) hoeft op te leveren bij de aanvraag van een hypotheek. [Ockto vermeldt ](https://www.ockto.nl/hypotheekverstrekkers_brondata_service/) welke documenten bij welke aanbieder komen te vervallen. Het betreft documenten die nodig zijn voor het sluiten van een hypotheek.
 
 Daarnaast wordt Ockto ook toegepast in verschillende applicatie het bieden van financieel overzicht, zoals [FinanceBook](https://financebook.nl/#/home) van Achmea en MyLife van Yellowtail.
 
-Via ‘Opvragen Digitale Klantgegevens’ in FAN, de adviseursomgeving van [Florius](https://www.vvponline.nl/nieuws/florius-stelt-brondata-beschikbaar-voor-adviesgesprek?mid=k5*YrGlkmWSYkQ==), kunnen klanten via Ockto voor het adviesgesprek hun digitale klantgegevens aanleveren.
+Via ‘Opvragen Digitale Klantgegevens’ in FAN, de adviseursomgeving van [Florius](https://www.vvponline.nl/nieuws/florius-stelt-brondata-beschikbaar-voor-adviesgesprekmid=k5*YrGlkmWSYkQ==), kunnen klanten via Ockto voor het adviesgesprek hun digitale klantgegevens aanleveren.
 
 Met behulp van het Ockto platform is het voor een prospect mogelijk om kredietverleners op een eenvoudige en veilige manier inzage te geven in de informatie die zij nodig hebben voor de [kredietbeoordeling](https://www.ockto.nl/consumptief-krediet/).
 
-***Hoe haalt Ockto gegevens op?***
+***Hoe haalt Ockto gegevens op***
 
 De gegevensuitwisseling tussen Ockto en data aanbieders en afnemers verloopt de uitwisseling via API of screen scraping (bij screen scraping is er geen waarmerking vanuit de data aanbieder). De data worden opgeslagen op het apparaat van de gebruiker en verwerkt op de server van Ockto. Een data-afnemer kan de gebruiker daarnaast vragen om de gegevens maximaal 2 maanden bij Ockto beschikbaar te houden. Daardoor kan een geldverstrekker de persoonsgegevens gebruiken voor het uitbrengen van een aanbod.
 
-***Met welke pakketten is Ockto gekoppeld?***
+***Met welke pakketten is Ockto gekoppeld***
 
 Ockto heeft koppelingen met de voor financieel advies belangrijke softwarepakketten. Via Ockto gedeelde gegevens hoeft men dan niet meer handmatig in te voeren. 
 

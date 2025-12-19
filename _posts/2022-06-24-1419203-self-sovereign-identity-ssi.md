@@ -6,7 +6,7 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1419203
 ---
 
-**Wat is het?**
+**Wat is het**
 SSI is een [digitale identiteit](https://livebook.manning.com/book/self-sovereign-identity/chapter-2/v-1/89) waarbij de gebruiker en diens privacy centraal staat. De gebruiker kan met SSI zelf zijn identiteit bewaren in een soort digitale portefeuille. Het gaat hierbij om gegevens over iemands identiteit, maar ook bijvoorbeeld over een diploma of een registratie bij de Kamer van Koophandel. Dit worden ook wel ‘verklaringen’ genoemd, die zijn gekoppeld aan een specifieke persoon, via een digitale identiteit. Deze verklaringen worden eenmalig digitaal ondertekend door bijvoorbeeld de overheid, banken, werkgevers, verzekeraars. 
 
 Met SSI beschikt een persoon dus over eigen digitale verklaringen, en over zijn/haar digitale identiteit, in plaats van identiteitsproviders. SSI maakt het ook mogelijk dat een persoon, op een veilige manier, alleen gegevens deelt die voor een bepaalde (rechts)handeling nodig zijn, wat de privacy vergroot. IRMA is een voorbeeld van een SSI-oplossing. Er zijn meer SSI-oplossingen dan IRMA, bijvoorbeeld [Sovrin](https://sovrin.org/) en [**Solid**](https://inrupt.com/solid).

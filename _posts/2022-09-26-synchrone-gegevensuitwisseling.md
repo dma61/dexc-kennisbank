@@ -55,7 +55,7 @@ Hier is veel materiaal beschikbaar, zie [voorbeeld-1](https://www.soapui.org/lea
 
 - De [Nederlandse API-strategie](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/#architectuur) voorziet in overheid breed ontwerp en standaarden.
 
-De Open Insurance Think Tank (OPIN) kondigt in mei 2022 de publicatie aan van de eerste versie van de open insurance API-specificatie. Het is gebaseerd op de Swagger 2.0 en is bedoeld om een standaardformaat te bieden voor het specificeren RESTful API’s in de verzekeringssector. De specificatie is toegankelijk via [GitHub](https://github.com/The-Open-Insurance-Initiative/API-spec?mc_cid=42c51fc99e&mc_eid=5680ca7cf7).
+De Open Insurance Think Tank (OPIN) kondigt in mei 2022 de publicatie aan van de eerste versie van de open insurance API-specificatie. Het is gebaseerd op de Swagger 2.0 en is bedoeld om een standaardformaat te bieden voor het specificeren RESTful API’s in de verzekeringssector. De specificatie is toegankelijk via [GitHub](https://github.com/The-Open-Insurance-Initiative/API-specmc_cid=42c51fc99e&mc_eid=5680ca7cf7).
 
 ---
 

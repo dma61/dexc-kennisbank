@@ -6,7 +6,7 @@ categories: ["Bouwstenen/Principes"]
 question_id: 1525710
 ---
 
-**Waar gaat het om bij toestemming?**
+**Waar gaat het om bij toestemming**
 
 Toestemmingsmanagement (permission management, consent management) geeft personen de mogelijkheid om data transacties en connecties te bekijken en te beheren en hun rechten uit te oefenen. Twee van de eisen die de AVG stelt aan ‘toestemming’ zijn dat deze ‘geïnformeerd’ en ‘specifiek’ gegeven is. Om geldige toestemming aan te tonen is het dan ook essentieel dat een organisatie kan laten zien op basis van welke informatie de betrokken personen de toestemming heeft gegeven. Het is dus onvoldoende om alleen de toestemming zelf vast te leggen.
 

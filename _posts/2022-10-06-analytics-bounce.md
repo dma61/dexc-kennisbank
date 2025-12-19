@@ -10,7 +10,7 @@ Answer: (not found AND no action) Bounce is the relationship between people who
 
 Question: 
 
-what is the meaning of "Bounced" here ? 
+what is the meaning of "Bounced" here  
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/9209/direct/1665053505183-1665053505183.png)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wie zijn wij?"
+title: "Wie zijn wij"
 date: 2021-09-14
 categories: []
 question_id: 1046813

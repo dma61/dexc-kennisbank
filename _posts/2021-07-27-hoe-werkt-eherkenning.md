@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hoe werkt eHerkenning?"
+title: "Hoe werkt eHerkenning"
 date: 2021-07-27
 categories: ["eHerkenning"]
 question_id: 992747

@@ -13,7 +13,7 @@ We volgen de definitie uit de [Handreiking Elektronische handtekening](https://v
 
 ‘’Een elektronische handtekening is een verzameling gegevens in elektronische vorm, die gehecht zijn aan of logisch verbonden zijn met andere gegevens in elektronische vorm en die door de ondertekenaar worden gebruikt om te ondertekenen’’.
 
-Dit sluit aan bij de definitie in de [eIDAS verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex:32014R0910). Kort gezegd komt dit op het volgende neer:
+Dit sluit aan bij de definitie in de [eIDAS verordening](https://eur-lex.europa.eu/legal-content/NL/TXT/uri=celex:32014R0910). Kort gezegd komt dit op het volgende neer:
 
 (1) een elektronische handtekening bestaat uit een verzameling digitale gegevens, zoals een afbeelding of een cryptografische codereeks, die (2) verbonden is met andere digitale gegevens, zoals een pdf-document of afbeelding, en die (3) door de ondertekenaar gebruikt wordt om die digitale gegevens te ondertekenen.
 
@@ -40,7 +40,7 @@ In de onderstaande tabel – ontleend aan [DOCCO](https://www.ondertekenwijzer.n
 2] een rechter kan de handtekening bijvoorbeeld niet weigeren, enkel en alleen omdat deze in een digitale vorm is. Dit wordt soms vertaald door aanbieders in de term ‘100% rechtsgeldig’.
 
 # DigiD en ondertekenen
-In de huidige praktijk bevestigen klanten steeds vaker gemaakte keuzes in een portaal van de dienstverlener. Dit nadat ze met DigiD zij ingelogd. Is dit een verantwoorde werkwijze?
+In de huidige praktijk bevestigen klanten steeds vaker gemaakte keuzes in een portaal van de dienstverlener. Dit nadat ze met DigiD zij ingelogd. Is dit een verantwoorde werkwijze
 
 DigiD is ontworpen om een bepaald niveau van betrouwbaarheid te bieden bij het verifiëren van de identiteit van gebruikers voor veel online transacties. Echter, de mate van betrouwbaarheid kan variëren afhankelijk van het specifieke gebruik en de context.
 

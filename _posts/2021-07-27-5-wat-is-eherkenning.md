@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wat is eHerkenning?"
+title: "Wat is eHerkenning"
 date: 2021-07-27
 categories: ["eHerkenning"]
 question_id: 992735

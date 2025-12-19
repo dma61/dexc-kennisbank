@@ -72,11 +72,11 @@ Praktijk voorbeelden rond de inzet van externe data:![](https://static.helpjuice
 
 - Risico: Toetsen omdat het kan (eigendom pand) of moet (UBO).
 
-- Verkoop: houdt de ontwikkeling van het zoekvolume bij Google Trends voor ‘premie AOV’ gelijke tred met de activiteiten op de eigen website of het eigen extranet? 
+- Verkoop: houdt de ontwikkeling van het zoekvolume bij Google Trends voor ‘premie AOV’ gelijke tred met de activiteiten op de eigen website of het eigen extranet 
 
-- Schade: sluiten de schademeldingen rond hagelschade aan bij de neerslagrapportage van het KNMI?
+- Schade: sluiten de schademeldingen rond hagelschade aan bij de neerslagrapportage van het KNMI
 
-- Product management: sluit de herbouwwaarde van een opstalportefeuille aan bij een berekening op basis van externe databronnen? 
+- Product management: sluit de herbouwwaarde van een opstalportefeuille aan bij een berekening op basis van externe databronnen 
 
 Het belang van het combineren van eigen data met externe bronnen neemt verder toe binnen alle fasen van het verzekeringsproces. Dit maakt het belangrijk een goed beeld op te bouwen rond de beschikbaarheid, de kwaliteit en de ontsluiting van die databronnen.
 

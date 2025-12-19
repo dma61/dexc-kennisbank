@@ -9,7 +9,7 @@ question_id: 1510416
 ### **Inleiding**
 Veel betrokkenen hebben baat bij slim gebruik van veel gebruikte overheidsgegevens zoals adressen, persoonsgegevens en bedrijfsnamen. Deze gegevens legt de overheid vast in basisregistraties. Door al bekende gegevens binnen de overheid met elkaar te delen, kan de overheid efficiënter opereren en de dienstverlening verbeteren. Zo hoeft een burger of bedrijf bepaalde gegevens niet steeds opnieuw aan te leveren, maar volstaat één melding. Om de gegevens te kunnen delen, zette de Nederlandse overheid een [Stelsel van Basisregistraties](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/stelsel-van-basisregistraties/10-basisregistraties/) op. Met inachtneming van de regels voor privaat gebruik kan het Stelsel van Basisregistraties ook voor private organisaties veel gaan opleveren.
 
-### **Wat is een basisregistratie?**
+### **Wat is een basisregistratie**
 Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die alle overheidsinstellingen verplicht gebruiken bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in [twaalf eisen](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/stelsel-van-basisregistraties/12-eisen-stelsel-van-basisregistraties/). 
 
 ### **Overzicht basisregistraties**

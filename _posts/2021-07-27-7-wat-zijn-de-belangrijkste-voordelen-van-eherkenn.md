@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wat zijn de belangrijkste voordelen van eHerkenning?"
+title: "Wat zijn de belangrijkste voordelen van eHerkenning"
 date: 2021-07-27
 categories: ["eHerkenning"]
 question_id: 992738

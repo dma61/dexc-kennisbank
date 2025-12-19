@@ -6,11 +6,11 @@ categories: ["Wetgeving"]
 question_id: 1533613
 ---
 
-**Waarom relevant?**
+**Waarom relevant**
 
 Dit wetvoorstel raak met name de uitwisseling tussen overheidsinstanties en de totstandkoming geeft een goed beeld van de gevoeligheden rond het uitwisselen van persoonsgegevens.
 
-**Waar gaat het wetsvoorstel over?**
+**Waar gaat het wetsvoorstel over**
 
 Dit [wetsvoorstel](https://www.eerstekamer.nl/wetsvoorstel/35447_wet_gegevensverwerking_door) wil een juridische basis bieden voor de verwerking van persoonsgegevens door samenwerkingsverbanden. Samenwerkingsverbanden zijn verbanden van bestuursorganen en private partijen die gezamenlijk gegevens verwerken voor zwaarwegende algemene belangen, zoals de bestrijding van fraude en de georganiseerde criminaliteit. Het voorstel is een kaderwet met een aantal algemene regels over de taak van het samenwerkingsverband, de inrichting en het functioneren daarvan.
 
