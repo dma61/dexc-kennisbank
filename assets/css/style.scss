@@ -1,7 +1,39 @@
-﻿---
+---
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Breadcrumb styling */
+.breadcrumb {
+  font-size: 0.85em;
+  color: #666;
+  margin-bottom: 1.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #eee;
+}
+
+.breadcrumb a {
+  color: #1e6bb8;
+}
+
+.breadcrumb .separator {
+  margin: 0 0.4em;
+  color: #999;
+}
+
+.breadcrumb .current {
+  color: #333;
+}
+
+/* Post layout */
+.post {
+  margin-top: 1em;
+}
+
+.post-header h1 {
+  margin-bottom: 0.25em;
+  margin-top: 0;
+}
 
 .post-meta {
   display: block;
@@ -15,6 +47,8 @@
   clear: both;
 }
 
-.post-header h1 {
-  margin-bottom: 0.25em;
+.post-footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #eee;
 }
