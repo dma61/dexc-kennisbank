@@ -1,10 +1,8 @@
-﻿---
+---
 layout: default
 title: Transport
 parent: Home
 ---
-
-# Transport
 
 Digitaal datatransport noemen we ook wel connectiviteit. Het betreft het digitaal transporteren van data tussen dienstverleners en particuliere/zakelijke klanten enerzijds en anderzijds tussen dienstverleners onderling.
 

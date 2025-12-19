@@ -1,10 +1,8 @@
-﻿---
+---
 layout: default
 title: Services
 parent: Home
 ---
-
-# Services
 
 Data uit databronnen wordt geaggregeerd, verwerkt, bewerkt en al dan niet opgeslagen en doorgestuurd. Hiermee creÃ«ert de markt in een variÃ«teit aan oplossingen (services) waarde voor de particuliere/zakelijke klant. Hetzelfde geldt voor de diverse schakels in de keten. Doordat bijvoorbeeld een financieel adviseur kan beschikken over polisgegevens van zijn klanten, is hij in staat die klanten goed te adviseren.
 

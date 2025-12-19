@@ -1,10 +1,8 @@
-﻿---
+---
 layout: default
 title: Databronnen
 parent: Home
 ---
-
-# Databronnen
 
 Databronnen, bijvoorbeeld van de Stichting CIS, bieden in verschillende processen waarde aan financiÃ«le dienstverleners en hun klanten. Data is natuurlijk ook in het algemeen beschikbaar bij financiÃ«le dienstverleners in de keten: verzekeraars, serviceproviders, financiÃ«le adviseurs, geldverstrekkers etc. 
 

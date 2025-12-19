@@ -1,10 +1,8 @@
-﻿---
+---
 layout: default
 title: Kennisbank algemeen
 parent: Home
 ---
-
-# Kennisbank algemeen
 
 Kennisbank Algemeen bevat verwijzingen naar rapporten, papers, standaarden en overzichten. Voorts is een begrippen- en afkortingen lijst opgenomen.
 

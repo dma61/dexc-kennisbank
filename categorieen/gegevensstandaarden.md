@@ -1,10 +1,8 @@
-﻿---
+---
 layout: default
 title: Gegevensstandaarden
 parent: Home
 ---
-
-# Gegevensstandaarden
 
 Gegevensstandaarden richten zich op de uitwisseling van gegevens tussen particuliere/zakelijke klanten en financiÃ«le dienstverleners en tussen financiÃ«le dienstverleners onderling in de keten. Zij maken effectieve digitale communicatie mogelijk. Om te zorgen dat de uit te wisselen gegevens juist zijn en op de juiste manier worden gebruikt, zijn goede afspraken nodig over die gegevens. De afspraken over de betekenis en de kwaliteitseisen daarvan leggen we vast in gegevensstandaarden.
 

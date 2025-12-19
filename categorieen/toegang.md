@@ -1,10 +1,8 @@
-﻿---
+---
 layout: default
 title: Toegang
 parent: Home
 ---
-
-# Toegang
 
 Wil een klant beschikken over data en hier regie over (laten) voeren dan is authenticatie cruciaal. Immers alleen als voldoende zekerheid bestaat over de identiteit van een bepaalde klant dan kan toegang tot zijn/haar data worden verleend.
 
