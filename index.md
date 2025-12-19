@@ -47,5 +47,5 @@ Welkom bij de kennisbank van de Data Exchange Coalitie (DEXC).
 
 </div>
 
-[ðŸ” Zoeken]({{ site.baseurl }}/zoeken/) | [ðŸ“š Alle artikelen]({{ site.baseurl }}/artikelen/)
+[🔍 Zoeken]({{ site.baseurl }}/zoeken/) | [📚 Alle artikelen]({{ site.baseurl }}/artikelen/)
 
