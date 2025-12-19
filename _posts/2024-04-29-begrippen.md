@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: "Begrippen"
 date: 2024-04-29

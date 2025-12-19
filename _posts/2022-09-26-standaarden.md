@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: "Standaarden"
 date: 2022-09-26

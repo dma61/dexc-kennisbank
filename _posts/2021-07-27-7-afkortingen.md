@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: "Afkortingen"
 date: 2021-07-27
